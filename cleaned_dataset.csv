@@ -7,8 +7,8 @@
 5,IND,8,6,2,Male,58,Not immigrant,2,2,4,10,1,6.4,1
 6,IND,6,1,4,Female,30,Not immigrant,5,1,0,10,3,5.039999999999999,1
 7,IND,6,5,5,Male,45,Not immigrant,0,2,1,4,1,0.24000000000000005,1
-8,IND,5,6,7,Female,17,Not immigrant,0,7,3,10,1,6.719999999999998,-1
-9,IND,10,7,8,Male,17,Not immigrant,0,2,0,9,1,3.6799999999999997,-1
+8,IND,5,6,7,Female,17,Not immigrant,0,7,3,10,1,6.719999999999998,0
+9,IND,10,7,8,Male,17,Not immigrant,0,2,0,9,1,3.6799999999999997,0
 10,IND,8,7,3,Male,62,Not immigrant,4,1,0,10,2,5.919999999999999,0
 11,IND,10,4,5,Female,77,Not immigrant,3,3,1,10,1,2.8000000000000007,1
 12,IND,4,5,4,Male,58,Not immigrant,1,5,7,7,4,5.4399999999999995,1
@@ -18,26 +18,26 @@
 16,IND,10,10,7,Female,53,Not immigrant,3,7,3,10,1,4.64,1
 17,IND,8,10,9,Male,46,Not immigrant,0,1,3,10,3,5.199999999999999,1
 18,IND,9,6,6,Male,31,Not immigrant,1,5,6,10,1,6.4,1
-19,IND,5,2,5,Male,16,Not immigrant,0,7,3,6,3,6.706666666666664,-1
+19,IND,5,2,5,Male,16,Not immigrant,0,7,3,6,3,6.706666666666664,0
 20,IND,10,10,10,Female,25,Not immigrant,1,5,6,1,3,5.355555555555555,1
 21,IND,8,8,6,Female,27,Not immigrant,1,8,3,9,3,1.2800000000000007,1
 22,IND,10,10,7,Male,20,Not immigrant,0,7,6,8,1,5.919999999999999,1
-23,IND,8,8,6,Female,25,Not immigrant,0,4,7,8,1,4.959999999999999,-1
+23,IND,8,8,6,Female,25,Not immigrant,0,4,7,8,1,4.959999999999999,0
 24,IND,10,10,8,Female,21,Not immigrant,0,5,6,7,1,7.199999999999999,1
 25,IND,8,10,10,Female,25,Not immigrant,2,3,1,10,1,6.159999999999999,0
 26,IND,10,8,5,Male,52,Not immigrant,3,5,4,10,2,5.519999999999999,1
 27,IND,8,10,9,Female,78,Not immigrant,1,3,7,10,2,5.4399999999999995,1
-28,IND,10,10,5,Male,52,Not immigrant,5,1,0,10,1,4.88,-1
+28,IND,10,10,5,Male,52,Not immigrant,5,1,0,10,1,4.88,0
 29,IND,2,8,3,Male,55,Not immigrant,0,8,3,10,1,0.4800000000000001,1
 30,IND,8,10,8,Female,28,Not immigrant,0,8,3,10,3,5.519999999999999,1
 31,IND,9,8,5,Male,37,Not immigrant,3,4,0,4,3,5.797647058823529,1
 32,IND,7,5,7,Female,49,Not immigrant,3,4,2,10,1,4.64,1
 33,IND,10,5,7,Male,28,Not immigrant,0,8,7,6,2,7.280000000000001,1
 34,IND,5,4,6,Female,17,Not immigrant,0,6,3,8,1,5.919999999999999,0
-35,IND,7,8,5,Male,16,Not immigrant,0,7,3,1,4,5.6,-1
-36,IND,7,10,7,Male,16,Not immigrant,0,2,3,10,3,7.119999999999999,-1
+35,IND,7,8,5,Male,16,Not immigrant,0,7,3,1,4,5.6,0
+36,IND,7,10,7,Male,16,Not immigrant,0,2,3,10,3,7.119999999999999,0
 37,IND,8,8,7,Male,32,Not immigrant,1,6,4,10,1,2.9599999999999995,1
-38,IND,7,7,7,Female,17,Not immigrant,0,6,3,10,1,6.880000000000001,-1
+38,IND,7,7,7,Female,17,Not immigrant,0,6,3,10,1,6.880000000000001,0
 39,IND,9,8,7,Female,22,Not immigrant,3,4,3,8,2,5.12,1
 40,IND,8,7,6,Male,30,Not immigrant,4,3,3,7,3,4.64,1
 41,IND,2,3,2,Male,17,Not immigrant,0,2,6,2,1,5.6,1
@@ -52,19 +52,19 @@
 50,IND,10,8,10,Female,31,Not immigrant,2,8,6,8,1,6.319999999999998,1
 51,IND,8,8,8,Female,41,Not immigrant,2,7,7,10,1,6.960000000000001,1
 52,IND,10,9,7,Male,50,Not immigrant,2,3,3,9,1,5.759999999999999,1
-53,IND,1,7,5,Male,18,Not immigrant,0,7,6,10,3,5.4399999999999995,-1
+53,IND,1,7,5,Male,18,Not immigrant,0,7,6,10,3,5.4399999999999995,0
 54,IND,8,8,7,Male,57,Not immigrant,0,5,6,8,3,4.4799999999999995,1
 55,IND,10,10,9,Male,68,Not immigrant,3,5,3,9,1,5.4399999999999995,1
 56,IND,6,8,4,Male,30,Not immigrant,1,2,3,5,1,4.903529411764707,1
-57,IND,10,10,7,Female,19,Not immigrant,0,7,3,10,1,5.999999999999999,-1
+57,IND,10,10,7,Female,19,Not immigrant,0,7,3,10,1,5.999999999999999,0
 58,IND,7,7,7,Female,32,Not immigrant,2,2,3,10,1,6.079999999999999,1
 59,IND,10,10,10,Male,34,Not immigrant,1,6,3,9,4,5.359999999999999,1
 60,IND,7,7,7,Male,54,Not immigrant,3,2,2,6,1,6.4,1
 61,IND,10,10,7,Male,28,Not immigrant,1,8,6,9,2,6.159999999999999,1
 62,IND,3,6,4,Male,36,Not immigrant,3,9,3,7,2,2.4799999999999995,1
-63,IND,8,7,8,Male,21,Not immigrant,0,6,6,8,2,5.759999999999999,-1
+63,IND,8,7,8,Male,21,Not immigrant,0,6,6,8,2,5.759999999999999,0
 64,IND,10,10,1,Male,53,Not immigrant,4,2,2,10,2,6.200000000000001,1
-65,IND,1,6,6,Female,16,Not immigrant,0,5,3,8,1,5.976470588235293,-1
+65,IND,1,6,6,Female,16,Not immigrant,0,5,3,8,1,5.976470588235293,0
 66,IND,7,3,6,Male,51,Not immigrant,3,7,1,7,4,2.1599999999999997,1
 67,IND,5,10,8,Female,17,Not immigrant,0,10,3,7,4,0.1599999999999998,0
 68,IND,7,7,9,Male,47,Not immigrant,5,5,1,9,1,2.6399999999999997,0
@@ -78,21 +78,21 @@
 76,IND,7,8,8,Female,23,Not immigrant,3,3,3,10,1,1.7919999999999996,1
 77,IND,5,10,8,Female,28,Not immigrant,2,5,3,10,3,6.159999999999999,1
 78,IND,8,7,9,Female,27,Not immigrant,2,6,4,7,1,2.88,1
-79,IND,9,8,7,Female,16,Not immigrant,0,8,3,10,4,4.64,-1
+79,IND,9,8,7,Female,16,Not immigrant,0,8,3,10,4,4.64,0
 80,IND,10,8,7,Male,44,Not immigrant,2,7,3,10,2,5.68,1
 81,IND,7,7,7,Male,21,Not immigrant,0,1,2,10,3,5.999999999999999,1
-82,IND,10,10,10,Female,16,Not immigrant,0,4,3,10,2,5.765714285714286,-1
+82,IND,10,10,10,Female,16,Not immigrant,0,4,3,10,2,5.765714285714286,0
 83,IND,7,6,9,Female,35,Not immigrant,2,3,6,8,1,5.039999999999999,1
 84,IND,7,4,4,Female,50,Not immigrant,2,5,3,10,1,5.199999999999999,1
 85,IND,8,7,4,Male,17,Not immigrant,0,8,3,7,1,3.12,1
-86,IND,10,8,5,Male,17,Not immigrant,0,5,3,10,3,7.297777777777777,-1
-87,IND,10,6,6,Male,17,Not immigrant,0,6,3,6,3,6.079999999999999,-1
-88,IND,5,5,8,Male,32,Not immigrant,0,5,6,5,3,5.4399999999999995,-1
+86,IND,10,8,5,Male,17,Not immigrant,0,5,3,10,3,7.297777777777777,0
+87,IND,10,6,6,Male,17,Not immigrant,0,6,3,6,3,6.079999999999999,0
+88,IND,5,5,8,Male,32,Not immigrant,0,5,6,5,3,5.4399999999999995,0
 89,IND,10,8,7,Male,39,Not immigrant,4,4,3,10,1,6.239999999999998,1
 90,IND,5,10,10,Female,25,Not immigrant,0,6,2,8,1,5.999999999999999,1
 91,IND,5,5,5,Female,51,Not immigrant,3,5,3,10,1,6.675000000000001,1
 92,IND,7,8,9,Female,39,Not immigrant,3,5,4,9,1,0.7999999999999997,1
-93,IND,6,8,4,Female,19,Not immigrant,0,5,3,5,1,5.136,-1
+93,IND,6,8,4,Female,19,Not immigrant,0,5,3,5,1,5.136,0
 94,IND,7,10,6,Male,60,Not immigrant,2,3,2,10,1,5.039999999999999,1
 95,IND,8,8,8,Female,46,Not immigrant,2,8,3,10,1,6.319999999999998,1
 96,IND,7,8,9,Male,42,Not immigrant,3,5,7,5,2,4.799999999999999,1
@@ -105,23 +105,23 @@
 103,IND,8,6,4,Female,48,Not immigrant,1,1,2,10,1,6.2844444444444445,1
 104,IND,8,6,4,Male,35,Not immigrant,3,4,2,10,1,5.355555555555555,1
 105,IND,10,7,5,Female,58,Not immigrant,3,5,0,10,1,5.279999999999999,1
-106,IND,7,9,9,Female,16,Not immigrant,0,5,3,3,3,6.48,-1
+106,IND,7,9,9,Female,16,Not immigrant,0,5,3,3,3,6.48,0
 107,IND,10,10,1,Male,48,Not immigrant,3,4,4,10,1,5.279999999999999,1
-108,IND,10,10,10,Female,16,Not immigrant,0,4,3,8,3,0.9885714285714281,-1
+108,IND,10,10,10,Female,16,Not immigrant,0,4,3,8,3,0.9885714285714281,0
 109,IND,10,10,10,Female,51,Not immigrant,1,7,7,10,1,6.4,1
 110,IND,6,6,5,Female,66,Not immigrant,0,6,1,9,3,5.608888888888888,1
-111,IND,3,10,10,Male,17,Not immigrant,0,10,3,5,3,6.960000000000001,-1
+111,IND,3,10,10,Male,17,Not immigrant,0,10,3,5,3,6.960000000000001,0
 112,IND,10,10,8,Male,45,Not immigrant,3,5,3,5,1,6.4,1
 113,IND,7,4,5,Male,24,Not immigrant,0,1,2,10,3,6.48,1
 114,IND,6,7,6,Male,16,Not immigrant,0,1,2,5,2,6.4,1
-115,IND,9,10,7,Male,17,Not immigrant,0,8,3,10,4,5.759999999999999,-1
-116,IND,6,8,8,Male,17,Not immigrant,0,8,3,5,3,1.7599999999999991,-1
+115,IND,9,10,7,Male,17,Not immigrant,0,8,3,10,4,5.759999999999999,0
+116,IND,6,8,8,Male,17,Not immigrant,0,8,3,5,3,1.7599999999999991,0
 117,IND,5,5,4,Male,26,Not immigrant,2,4,1,5,4,4.32,1
 118,IND,7,5,7,Female,22,Not immigrant,0,7,7,10,1,7.138823529411765,1
 119,IND,9,9,9,Male,22,Not immigrant,0,8,6,10,1,4.5458823529411765,1
 120,IND,10,10,9,Male,39,Not immigrant,1,7,8,8,1,5.999999999999999,1
 121,IND,7,7,7,Male,24,Not immigrant,0,6,7,10,1,6.368888888888888,1
-122,IND,10,8,7,Male,17,Not immigrant,0,4,3,8,3,2.4799999999999995,-1
+122,IND,10,8,7,Male,17,Not immigrant,0,4,3,8,3,2.4799999999999995,0
 123,IND,10,6,3,Male,17,Not immigrant,0,10,3,8,1,2.3200000000000003,1
 124,IND,7,6,3,Male,17,Not immigrant,0,8,3,10,1,4.799999999999999,1
 125,IND,10,10,10,Male,40,Not immigrant,1,5,7,10,1,6.5600000000000005,1
@@ -135,16 +135,16 @@
 133,IND,10,8,7,Male,28,Not immigrant,2,5,3,10,1,5.68,1
 134,IND,7,8,7,Female,17,Not immigrant,0,8,3,8,1,4.32,1
 135,IND,8,7,7,Male,30,Not immigrant,1,6,7,8,1,5.519999999999999,1
-136,IND,8,8,5,Male,17,Not immigrant,0,2,2,8,2,5.919999999999999,-1
+136,IND,8,8,5,Male,17,Not immigrant,0,2,2,8,2,5.919999999999999,0
 137,IND,10,10,5,Male,33,Not immigrant,0,10,3,10,4,6.5377777777777775,1
 138,IND,3,9,4,Male,39,Not immigrant,2,6,7,3,3,5.862222222222222,1
-139,IND,8,8,7,Male,17,Not immigrant,0,3,3,8,4,6.602352941176469,-1
+139,IND,8,8,7,Male,17,Not immigrant,0,3,3,8,4,6.602352941176469,0
 140,IND,5,4,5,Female,28,Not immigrant,1,3,6,4,3,6.319999999999998,1
 141,IND,10,10,8,Male,23,Not immigrant,2,6,6,10,1,6.319999999999998,1
 142,IND,7,10,8,Female,26,Not immigrant,2,8,6,8,1,5.919999999999999,1
 143,IND,10,7,9,Male,78,Not immigrant,4,9,3,10,1,5.68,1
 144,IND,4,1,1,Male,50,Not immigrant,5,1,2,10,3,5.759999999999999,1
-145,IND,9,8,7,Male,18,Not immigrant,0,9,3,7,3,1.8400000000000003,-1
+145,IND,9,8,7,Male,18,Not immigrant,0,9,3,7,3,1.8400000000000003,0
 146,IND,10,9,8,Male,60,Not immigrant,3,9,3,9,2,5.12,1
 147,IND,10,10,10,Female,56,Not immigrant,2,10,3,10,1,6.5600000000000005,1
 148,IND,7,5,7,Male,30,Not immigrant,0,6,3,10,1,6.079999999999999,1
@@ -161,15 +161,15 @@
 159,IND,10,10,10,Male,40,Not immigrant,3,3,3,8,2,6.4,1
 160,IND,10,10,10,Male,17,Not immigrant,0,4,0,6,1,6.4,1
 161,IND,8,7,10,Male,56,Not immigrant,2,5,1,8,4,6.079999999999999,1
-162,IND,10,5,5,Male,17,Not immigrant,0,5,3,7,3,6.4,-1
-163,IND,7,5,5,Female,17,Not immigrant,0,4,3,8,1,5.919999999999999,-1
+162,IND,10,5,5,Male,17,Not immigrant,0,5,3,7,3,6.4,0
+163,IND,7,5,5,Female,17,Not immigrant,0,4,3,8,1,5.919999999999999,0
 164,IND,3,6,4,Female,31,Not immigrant,2,1,3,10,1,5.63,1
 165,IND,10,8,7,Male,44,Not immigrant,2,6,3,10,3,6.880000000000001,1
 166,IND,2,5,4,Female,16,Not immigrant,0,5,3,10,1,6.2844444444444445,1
 167,IND,6,9,8,Male,22,Not immigrant,0,6,7,8,2,6.4,1
 168,IND,10,10,5,Male,50,Not immigrant,3,1,2,10,1,6.200000000000001,1
-169,IND,10,10,1,Male,16,Not immigrant,0,1,3,10,1,5.199999999999999,-1
-170,IND,1,8,7,Female,17,Not immigrant,0,7,3,7,1,5.68,-1
+169,IND,10,10,1,Male,16,Not immigrant,0,1,3,10,1,5.199999999999999,0
+170,IND,1,8,7,Female,17,Not immigrant,0,7,3,7,1,5.68,0
 171,IND,4,3,3,Female,47,Not immigrant,2,6,3,10,1,4.325333333333333,1
 172,IND,4,8,3,Male,62,Not immigrant,2,3,2,8,3,6.079999999999999,1
 173,IND,9,7,7,Male,35,Not immigrant,2,2,0,10,2,5.6,1
@@ -183,7 +183,7 @@
 181,IND,10,10,10,Female,52,Not immigrant,2,7,0,10,1,5.6,1
 182,IND,1,2,4,Male,35,Not immigrant,2,4,3,6,2,5.12,1
 183,IND,6,6,5,Male,46,Not immigrant,1,5,2,4,1,4.159999999999999,1
-184,IND,6,5,6,Female,17,Not immigrant,0,5,3,10,1,8.100000000000001,-1
+184,IND,6,5,6,Female,17,Not immigrant,0,5,3,10,1,8.100000000000001,0
 185,IND,4,10,1,Female,60,Not immigrant,3,1,0,10,3,6.4,1
 186,IND,9,7,8,Female,32,Not immigrant,0,6,7,10,1,6.622222222222221,1
 187,IND,9,9,7,Male,49,Not immigrant,4,9,1,10,3,2.0423529411764703,1
@@ -191,8 +191,8 @@
 189,IND,8,7,7,Male,61,Not immigrant,4,8,3,10,1,5.199999999999999,1
 190,IND,7,7,5,Female,22,Not immigrant,0,7,3,10,3,5.999999999999999,0
 191,IND,10,10,10,Male,30,Not immigrant,4,3,3,5,1,6.4,1
-192,IND,9,8,3,Male,16,Not immigrant,0,3,2,8,1,5.840000000000001,-1
-193,IND,10,9,6,Female,16,Not immigrant,0,6,3,6,3,5.68,-1
+192,IND,9,8,3,Male,16,Not immigrant,0,3,2,8,1,5.840000000000001,0
+193,IND,10,9,6,Female,16,Not immigrant,0,6,3,6,3,5.68,0
 194,IND,5,6,7,Male,16,Not immigrant,0,3,3,3,2,5.840000000000001,1
 195,IND,2,4,2,Female,30,Not immigrant,3,2,2,1,3,6.239999999999998,1
 196,IND,5,5,5,Female,37,Not immigrant,2,5,2,10,4,6.2447058823529416,1
@@ -206,12 +206,12 @@
 204,IND,7,3,1,Female,48,Not immigrant,2,1,2,10,1,4.635294117647059,1
 205,IND,8,10,10,Female,18,Not immigrant,0,5,2,10,3,5.862222222222222,0
 206,IND,8,8,7,Female,50,Not immigrant,2,5,0,9,3,4.0285714285714285,1
-207,IND,5,9,7,Female,16,Not immigrant,0,7,3,7,1,6.719999999999998,-1
+207,IND,5,9,7,Female,16,Not immigrant,0,7,3,7,1,6.719999999999998,0
 208,IND,7,6,5,Female,50,Not immigrant,3,8,3,8,2,4.72,1
 209,IND,8,6,9,Female,58,Not immigrant,3,10,1,7,3,3.12,0
 210,IND,10,10,10,Female,54,Not immigrant,2,6,2,10,4,6.799999999999998,1
 211,IND,6,6,6,Male,30,Not immigrant,2,5,3,6,3,6.079999999999999,1
-212,IND,8,7,9,Male,16,Not immigrant,0,8,4,7,3,7.2282352941176455,-1
+212,IND,8,7,9,Male,16,Not immigrant,0,8,4,7,3,7.2282352941176455,0
 213,IND,9,10,10,Female,22,Not immigrant,1,1,3,10,3,5.039999999999999,1
 214,IND,10,10,10,Female,17,Not immigrant,0,7,2,10,4,5.68,0
 215,IND,5,5,4,Male,16,Not immigrant,0,4,3,4,1,3.8400000000000003,1
@@ -219,7 +219,7 @@
 217,IND,10,10,5,Male,62,Not immigrant,1,2,3,10,2,6.719999999999998,1
 218,IND,10,9,9,Female,46,Not immigrant,2,5,7,9,1,6.4,1
 219,IND,7,9,7,Male,72,Not immigrant,3,7,3,9,1,6.239999999999998,1
-220,IND,10,9,6,Male,20,Not immigrant,4,10,2,8,1,2.08,-1
+220,IND,10,9,6,Male,20,Not immigrant,4,10,2,8,1,2.08,0
 221,IND,8,7,8,Male,17,Not immigrant,0,9,3,7,1,4.4799999999999995,1
 222,IND,1,2,1,Male,33,Not immigrant,2,2,3,3,2,5.840000000000001,0
 223,IND,9,5,8,Female,17,Not immigrant,0,10,6,9,1,4.959999999999999,1
@@ -234,16 +234,16 @@
 232,IND,2,1,1,Female,40,Not immigrant,3,1,3,2,4,6.4,0
 233,IND,10,9,10,Female,24,Not immigrant,1,6,6,10,1,6.079999999999999,1
 234,IND,6,7,8,Female,49,Not immigrant,3,5,2,10,1,5.06,1
-235,IND,8,10,10,Male,68,Not immigrant,1,9,3,10,1,7.297777777777777,-1
-236,IND,8,9,1,Female,16,Not immigrant,0,5,1,8,3,5.840000000000001,-1
+235,IND,8,10,10,Male,68,Not immigrant,1,9,3,10,1,7.297777777777777,0
+236,IND,8,9,1,Female,16,Not immigrant,0,5,1,8,3,5.840000000000001,0
 237,IND,2,10,9,Male,26,Not immigrant,0,7,6,10,2,5.519999999999999,1
 238,IND,10,10,10,Female,16,Not immigrant,0,8,3,10,3,6.64,0
 239,IND,10,10,1,Male,24,Not immigrant,3,1,3,10,1,5.529411764705882,1
 240,IND,7,7,8,Female,24,Not immigrant,0,6,7,8,2,4.462857142857142,1
-241,IND,5,5,6,Male,20,Not immigrant,0,8,3,8,1,6.4,-1
+241,IND,5,5,6,Male,20,Not immigrant,0,8,3,8,1,6.4,0
 242,IND,7,8,6,Male,59,Not immigrant,3,5,3,2,2,3.92,1
 243,IND,7,7,8,Male,44,Not immigrant,6,8,3,8,1,5.359999999999999,1
-244,IND,10,10,6,Female,17,Not immigrant,0,5,3,7,1,3.92,-1
+244,IND,10,10,6,Female,17,Not immigrant,0,5,3,7,1,3.92,0
 245,IND,10,10,10,Male,20,Not immigrant,0,9,7,10,3,6.64,1
 246,IND,9,6,7,Male,30,Not immigrant,4,5,2,9,3,3.6,1
 247,IND,4,6,4,Male,37,Not immigrant,2,6,6,5,1,3.9999999999999996,1
@@ -251,7 +251,7 @@
 249,IND,9,9,3,Female,24,Not immigrant,0,5,3,8,2,5.12,1
 250,IND,7,7,4,Female,26,Not immigrant,1,4,3,4,1,6.4,1
 251,IND,8,7,7,Female,38,Not immigrant,2,8,3,10,1,5.4399999999999995,1
-252,IND,5,7,6,Male,18,Not immigrant,0,5,3,10,3,7.128888888888888,-1
+252,IND,5,7,6,Male,18,Not immigrant,0,5,3,10,3,7.128888888888888,0
 253,IND,1,10,10,Male,20,Not immigrant,0,1,6,10,1,6.351999999999999,1
 254,IND,9,8,10,Male,40,Not immigrant,7,10,2,9,3,3.075555555555556,1
 255,IND,10,6,6,Male,59,Not immigrant,2,1,2,10,1,5.359999999999999,1
@@ -260,15 +260,15 @@
 258,IND,7,10,10,Male,39,Not immigrant,2,8,7,10,1,7.44,1
 259,IND,5,5,3,Male,50,Not immigrant,2,5,1,10,3,6.580000000000001,1
 260,IND,10,10,10,Female,56,Not immigrant,2,6,0,10,3,6.5600000000000005,1
-261,IND,2,4,7,Male,16,Not immigrant,0,4,3,10,1,7.828571428571428,-1
-262,IND,6,5,6,Male,16,Not immigrant,0,4,3,10,3,7.854117647058823,-1
+261,IND,2,4,7,Male,16,Not immigrant,0,4,3,10,1,7.828571428571428,0
+262,IND,6,5,6,Male,16,Not immigrant,0,4,3,10,3,7.854117647058823,0
 263,IND,4,5,7,Male,16,Not immigrant,0,3,3,6,3,5.261176470588236,1
 264,IND,9,10,8,Male,47,Not immigrant,3,5,3,9,2,6.239999999999998,1
 265,IND,6,7,6,Male,56,Not immigrant,4,4,2,6,1,6.64,1
 266,IND,9,7,5,Male,35,Not immigrant,4,3,4,8,1,4.72,1
 267,IND,8,8,7,Female,68,Not immigrant,2,6,6,10,1,6.64,1
 268,IND,10,10,1,Male,40,Not immigrant,5,1,1,10,2,6.4,1
-269,IND,3,8,8,Female,16,Not immigrant,0,7,3,7,1,6.64,-1
+269,IND,3,8,8,Female,16,Not immigrant,0,7,3,7,1,6.64,0
 270,IND,10,10,10,Male,17,Not immigrant,0,1,3,7,1,6.4,1
 271,IND,8,9,9,Male,29,Not immigrant,5,8,6,10,2,5.999999999999999,1
 272,IND,5,3,5,Male,17,Not immigrant,0,1,1,4,1,5.68,1
@@ -293,12 +293,12 @@
 291,IND,7,8,6,Male,66,Not immigrant,3,4,1,10,1,5.946666666666665,1
 292,IND,10,10,5,Male,28,Not immigrant,0,6,3,10,1,5.6,1
 293,IND,10,9,3,Female,45,Not immigrant,3,1,0,10,3,6.239999999999998,1
-294,IND,7,9,8,Male,19,Not immigrant,0,7,4,8,1,4.5600000000000005,-1
+294,IND,7,9,8,Male,19,Not immigrant,0,7,4,8,1,4.5600000000000005,0
 295,IND,9,10,10,Male,21,Not immigrant,2,7,4,9,1,5.999999999999999,1
 296,IND,10,7,4,Male,35,Not immigrant,3,5,3,10,1,5.919999999999999,1
 297,IND,5,4,4,Male,47,Not immigrant,2,5,3,5,3,5.608888888888888,1
 298,IND,8,7,3,Male,31,Not immigrant,1,3,2,9,1,6.159999999999999,1
-299,IND,1,10,10,Female,16,Not immigrant,0,5,3,10,1,8.860000000000001,-1
+299,IND,1,10,10,Female,16,Not immigrant,0,5,3,10,1,8.860000000000001,0
 300,IND,10,8,2,Male,35,Not immigrant,1,4,3,10,2,6.5600000000000005,1
 301,IND,8,8,7,Male,34,Not immigrant,0,6,2,8,1,6.48,1
 302,IND,10,10,10,Male,45,Not immigrant,1,1,6,6,1,6.4,1
@@ -330,13 +330,13 @@
 328,IND,7,5,1,Male,28,Not immigrant,1,8,4,10,4,5.519999999999999,1
 329,IND,4,5,4,Female,54,Not immigrant,3,2,1,6,1,6.295000000000001,1
 330,IND,7,8,8,Male,25,Not immigrant,5,9,4,6,1,5.68,1
-331,IND,7,7,6,Female,17,Not immigrant,0,3,3,8,1,6.580000000000001,-1
+331,IND,7,7,6,Female,17,Not immigrant,0,3,3,8,1,6.580000000000001,0
 332,IND,10,10,10,Female,50,Not immigrant,1,1,0,6,1,6.4,1
 333,IND,10,10,10,Female,20,Not immigrant,0,8,7,10,3,6.4,1
 334,IND,10,9,8,Female,50,Not immigrant,3,2,1,8,1,6.4,1
 335,IND,8,6,6,Male,39,Not immigrant,2,3,3,10,2,5.039999999999999,1
 336,IND,10,10,10,Male,25,Not immigrant,0,7,6,10,2,7.04,1
-337,IND,10,3,2,Male,17,Not immigrant,0,3,3,10,1,5.862222222222222,-1
+337,IND,10,3,2,Male,17,Not immigrant,0,3,3,10,1,5.862222222222222,0
 338,IND,10,9,8,Male,44,Not immigrant,2,7,7,7,1,6.4,1
 339,IND,4,9,8,Female,42,Not immigrant,3,7,3,8,1,5.519999999999999,1
 340,IND,6,5,6,Female,58,Not immigrant,3,4,1,10,1,5.199999999999999,1
@@ -346,16 +346,16 @@
 344,IND,10,10,10,Male,40,Not immigrant,4,1,3,10,1,6.4,1
 345,IND,8,8,8,Female,27,Not immigrant,0,8,7,7,1,6.799999999999998,1
 346,IND,1,6,5,Female,23,Not immigrant,1,3,3,10,1,5.06,0
-347,IND,6,10,10,Male,21,Not immigrant,0,5,3,6,1,6.239999999999998,-1
+347,IND,6,10,10,Male,21,Not immigrant,0,5,3,6,1,6.239999999999998,0
 348,IND,9,9,4,Male,19,Not immigrant,0,6,6,8,1,5.68,1
-349,IND,4,3,3,Female,16,Not immigrant,0,2,3,2,1,5.4399999999999995,-1
+349,IND,4,3,3,Female,16,Not immigrant,0,2,3,2,1,5.4399999999999995,0
 350,IND,10,10,10,Male,47,Not immigrant,3,3,2,10,1,5.946666666666665,1
 351,IND,1,1,1,Male,16,Not immigrant,0,1,3,1,1,6.239999999999998,1
 352,IND,1,10,10,Female,58,Not immigrant,3,5,0,10,1,3.7818181818181817,1
 353,IND,8,8,8,Female,50,Not immigrant,5,8,1,8,1,4.239999999999999,1
 354,IND,1,3,1,Male,25,Not immigrant,0,1,3,9,1,6.4,1
 355,IND,8,7,7,Female,40,Not immigrant,3,7,2,7,1,5.759999999999999,1
-356,IND,6,5,3,Female,17,Not immigrant,0,5,0,8,1,6.15529411764706,-1
+356,IND,6,5,3,Female,17,Not immigrant,0,5,0,8,1,6.15529411764706,0
 357,IND,1,1,1,Female,23,Not immigrant,0,1,2,10,3,5.840000000000001,1
 358,IND,6,8,3,Female,33,Not immigrant,1,3,3,8,1,6.706666666666664,1
 359,IND,8,5,8,Male,17,Not immigrant,0,1,2,9,1,6.319999999999998,1
@@ -374,15 +374,15 @@
 372,IND,1,5,9,Female,40,Not immigrant,2,10,3,10,4,6.64,1
 373,IND,7,10,3,Female,70,Not immigrant,1,7,0,7,1,6.960000000000001,1
 374,IND,6,3,3,Female,39,Not immigrant,2,3,0,4,4,5.976470588235293,1
-375,IND,6,7,5,Male,17,Not immigrant,0,5,3,7,3,5.68,-1
-376,IND,5,8,8,Male,17,Not immigrant,0,8,3,8,2,6.64,-1
+375,IND,6,7,5,Male,17,Not immigrant,0,5,3,7,3,5.68,0
+376,IND,5,8,8,Male,17,Not immigrant,0,8,3,8,2,6.64,0
 377,IND,10,10,10,Male,16,Not immigrant,0,3,3,10,2,6.453333333333332,1
-378,IND,5,6,8,Female,16,Not immigrant,0,7,3,9,1,7.340000000000001,-1
+378,IND,5,6,8,Female,16,Not immigrant,0,7,3,9,1,7.340000000000001,0
 379,IND,10,6,8,Female,59,Not immigrant,4,3,1,10,1,6.326666666666664,1
 380,IND,7,10,7,Female,24,Not immigrant,1,8,6,10,1,5.279999999999999,1
-381,IND,8,7,6,Female,17,Not immigrant,0,6,3,8,3,5.840000000000001,-1
+381,IND,8,7,6,Female,17,Not immigrant,0,6,3,8,3,5.840000000000001,0
 382,IND,10,10,10,Female,52,Not immigrant,3,10,2,5,1,6.4,1
-383,IND,10,10,8,Female,17,Not immigrant,0,1,3,10,1,5.797647058823529,-1
+383,IND,10,10,8,Female,17,Not immigrant,0,1,3,10,1,5.797647058823529,0
 384,IND,4,7,8,Female,34,Not immigrant,3,7,6,7,1,6.239999999999998,1
 385,IND,7,8,7,Female,17,Not immigrant,0,3,6,10,1,5.3133333333333335,1
 386,IND,8,1,4,Female,16,Not immigrant,0,3,3,9,2,4.88,1
@@ -402,7 +402,7 @@
 400,IND,6,6,5,Male,23,Not immigrant,0,6,0,5,2,6.602352941176469,1
 401,IND,4,6,6,Male,36,Not immigrant,2,3,4,8,1,5.919999999999999,1
 402,IND,8,8,5,Female,20,Not immigrant,0,5,4,6,3,8.08,1
-403,IND,7,7,7,Male,16,Not immigrant,0,2,3,8,4,2.9599999999999995,-1
+403,IND,7,7,7,Male,16,Not immigrant,0,2,3,8,4,2.9599999999999995,0
 404,IND,1,1,1,Female,34,Not immigrant,2,10,6,7,1,1.8400000000000003,1
 405,IND,8,7,5,Female,27,Not immigrant,0,3,7,10,4,5.68,1
 406,IND,8,7,8,Female,34,Not immigrant,2,7,3,8,1,5.359999999999999,1
@@ -411,7 +411,7 @@
 409,IND,10,10,6,Male,16,Not immigrant,0,5,3,2,1,5.840000000000001,0
 410,IND,10,10,8,Female,35,Not immigrant,0,8,8,7,2,6.5600000000000005,1
 411,IND,4,8,4,Male,17,Not immigrant,0,2,3,10,1,5.359999999999999,0
-412,IND,2,3,4,Male,16,Not immigrant,0,2,3,8,3,7.394285714285716,-1
+412,IND,2,3,4,Male,16,Not immigrant,0,2,3,8,3,7.394285714285716,0
 413,IND,10,6,5,Male,67,Not immigrant,4,6,0,10,1,4.64,1
 414,IND,10,6,6,Female,40,Not immigrant,2,8,8,8,1,6.48,1
 415,IND,6,8,8,Male,42,Not immigrant,3,9,2,9,1,5.4399999999999995,1
@@ -419,7 +419,7 @@
 417,IND,7,6,5,Female,51,Not immigrant,4,5,3,10,1,5.946666666666665,1
 418,IND,7,7,7,Female,20,Not immigrant,0,4,3,8,3,7.675294117647059,1
 419,IND,8,7,7,Male,16,Not immigrant,0,7,3,8,4,3.1999999999999993,0
-420,IND,8,7,9,Male,16,Not immigrant,0,8,4,7,3,7.2282352941176455,-1
+420,IND,8,7,9,Male,16,Not immigrant,0,8,4,7,3,7.2282352941176455,0
 421,IND,2,3,3,Female,19,Not immigrant,0,2,3,2,1,5.68,1
 422,IND,9,8,6,Male,28,Not immigrant,5,10,3,5,1,3.8400000000000003,1
 423,IND,9,9,9,Female,39,Not immigrant,2,10,3,9,4,6.079999999999999,1
@@ -427,37 +427,37 @@
 425,IND,10,8,8,Male,52,Not immigrant,2,8,3,8,2,5.693333333333334,1
 426,IND,6,4,4,Male,36,Not immigrant,3,4,1,10,1,5.693333333333334,1
 427,IND,8,8,7,Male,48,Not immigrant,3,5,2,10,1,5.6,1
-428,IND,8,7,8,Male,17,Not immigrant,0,8,3,8,3,3.92,-1
+428,IND,8,7,8,Male,17,Not immigrant,0,8,3,8,3,3.92,0
 429,IND,5,6,7,Female,57,Not immigrant,2,6,0,10,1,5.919999999999999,1
 430,IND,7,7,9,Male,16,Not immigrant,0,8,3,9,1,5.4399999999999995,1
 431,IND,10,7,6,Male,38,Not immigrant,2,3,7,10,1,7.360000000000001,1
 432,IND,8,8,9,Female,20,Not immigrant,0,6,4,9,1,5.25,0
 433,IND,4,5,4,Female,25,Not immigrant,1,2,3,8,1,5.999999999999999,1
 434,IND,6,7,4,Male,76,Not immigrant,5,3,1,10,1,6.2844444444444445,1
-435,IND,1,10,6,Male,17,Not immigrant,0,10,1,10,3,10.0,-1
+435,IND,1,10,6,Male,17,Not immigrant,0,10,1,10,3,10.0,0
 436,IND,7,8,7,Male,22,Not immigrant,0,7,6,10,1,6.079999999999999,1
 437,IND,8,4,9,Female,22,Not immigrant,4,10,3,9,1,3.1999999999999993,1
 438,IND,8,7,6,Male,33,Not immigrant,2,4,3,10,3,5.186666666666666,1
 439,IND,10,10,6,Female,48,Not immigrant,3,3,0,3,1,4.855384615384614,1
 440,IND,2,4,5,Female,28,Not immigrant,2,2,0,7,4,6.417142857142856,1
-441,IND,1,8,8,Female,17,Not immigrant,0,7,3,7,1,6.4,-1
-442,IND,2,4,3,Female,17,Not immigrant,0,2,2,9,1,7.374545454545456,-1
+441,IND,1,8,8,Female,17,Not immigrant,0,7,3,7,1,6.4,0
+442,IND,2,4,3,Female,17,Not immigrant,0,2,2,9,1,7.374545454545456,0
 443,IND,4,3,6,Male,32,Not immigrant,2,4,2,1,3,5.12,1
 444,IND,8,1,1,Female,60,Not immigrant,9,5,0,10,4,0.88,0
 445,IND,9,9,9,Male,42,Not immigrant,2,9,7,10,1,5.759999999999999,1
-446,IND,2,3,2,Male,16,Not immigrant,0,2,3,7,3,7.466666666666668,-1
+446,IND,2,3,2,Male,16,Not immigrant,0,2,3,7,3,7.466666666666668,0
 447,IND,8,8,4,Male,26,Not immigrant,0,4,3,9,1,5.68,1
 448,IND,5,7,5,Male,28,Not immigrant,0,7,3,8,1,1.7599999999999991,1
 449,IND,9,9,8,Female,40,Not immigrant,6,10,2,1,1,1.058823529411764,1
 450,IND,10,10,3,Male,46,Not immigrant,4,4,2,10,4,6.4,1
 451,IND,8,9,7,Female,51,Not immigrant,2,10,3,8,1,5.759999999999999,1
 452,IND,10,10,8,Male,28,Not immigrant,0,9,6,10,2,6.4,1
-453,IND,10,10,6,Male,16,Not immigrant,0,10,3,5,1,7.04,-1
+453,IND,10,10,6,Male,16,Not immigrant,0,10,3,5,1,7.04,0
 454,IND,9,8,8,Female,48,Not immigrant,0,9,0,8,3,4.32,1
-455,IND,7,10,10,Female,16,Not immigrant,0,7,3,7,3,6.4,-1
-456,IND,5,10,8,Male,20,Not immigrant,0,8,4,1,4,5.618823529411764,-1
+455,IND,7,10,10,Female,16,Not immigrant,0,7,3,7,3,6.4,0
+456,IND,5,10,8,Male,20,Not immigrant,0,8,4,1,4,5.618823529411764,0
 457,IND,10,10,10,Male,16,Not immigrant,0,4,4,10,1,6.622222222222221,1
-458,IND,6,4,3,Male,17,Not immigrant,0,3,3,7,3,6.079999999999999,-1
+458,IND,6,4,3,Male,17,Not immigrant,0,3,3,7,3,6.079999999999999,0
 459,IND,5,8,7,Male,53,Not immigrant,3,6,6,8,2,5.199999999999999,1
 460,IND,10,10,8,Female,58,Not immigrant,2,5,2,10,1,5.519999999999999,1
 461,IND,7,6,6,Male,28,Not immigrant,2,4,1,9,2,6.159999999999999,1
@@ -466,7 +466,7 @@
 464,IND,8,5,3,Male,32,Not immigrant,2,3,1,5,2,5.039999999999999,1
 465,IND,5,7,7,Female,56,Not immigrant,3,6,3,10,1,4.5600000000000005,1
 466,IND,7,7,4,Female,43,Not immigrant,3,5,1,10,3,5.608888888888888,1
-467,IND,8,7,6,Female,19,Not immigrant,0,6,2,7,3,5.359999999999999,-1
+467,IND,8,7,6,Female,19,Not immigrant,0,6,2,7,3,5.359999999999999,0
 468,IND,10,10,10,Male,41,Not immigrant,8,7,3,1,1,0.0,1
 469,IND,10,8,7,Male,48,Not immigrant,3,3,2,10,1,6.079999999999999,1
 470,IND,9,9,9,Female,61,Not immigrant,5,10,3,9,1,5.359999999999999,1
@@ -474,17 +474,17 @@
 472,IND,7,7,6,Male,33,Not immigrant,2,6,3,7,1,1.8400000000000003,1
 473,IND,10,10,7,Male,40,Not immigrant,3,7,6,10,1,6.079999999999999,1
 474,IND,4,3,3,Male,24,Not immigrant,0,2,1,10,2,6.326666666666664,1
-475,IND,1,1,1,Female,16,Not immigrant,0,5,1,10,2,6.0914285714285725,-1
+475,IND,1,1,1,Female,16,Not immigrant,0,5,1,10,2,6.0914285714285725,0
 476,IND,6,5,7,Female,24,Not immigrant,4,6,1,5,2,6.7700000000000005,1
 477,IND,3,3,4,Female,25,Not immigrant,0,2,6,3,4,5.68,1
-478,IND,10,10,1,Male,18,Not immigrant,0,7,3,7,3,3.5199999999999996,-1
+478,IND,10,10,1,Male,18,Not immigrant,0,7,3,7,3,3.5199999999999996,0
 479,IND,10,8,8,Male,57,Not immigrant,2,8,6,7,1,5.919999999999999,1
 480,IND,7,9,7,Male,26,Not immigrant,3,10,0,1,3,5.919999999999999,1
 481,IND,10,8,7,Male,67,Not immigrant,2,10,3,10,1,5.039999999999999,1
 482,IND,8,8,7,Female,50,Not immigrant,1,5,0,7,1,6.2447058823529416,1
-483,IND,7,7,5,Male,17,Not immigrant,0,3,2,9,2,7.055000000000001,-1
+483,IND,7,7,5,Male,17,Not immigrant,0,3,2,9,2,7.055000000000001,0
 484,IND,8,9,9,Male,40,Not immigrant,2,6,3,6,1,5.759999999999999,1
-485,IND,10,10,6,Male,16,Not immigrant,0,1,3,10,3,4.848888888888888,-1
+485,IND,10,10,6,Male,16,Not immigrant,0,1,3,10,3,4.848888888888888,0
 486,IND,1,1,1,Male,68,Not immigrant,2,1,3,10,1,6.159999999999999,1
 487,IND,7,8,8,Male,18,Not immigrant,0,8,3,8,3,3.3288888888888883,1
 488,IND,9,8,9,Male,30,Not immigrant,2,5,3,7,2,6.079999999999999,1
@@ -497,7 +497,7 @@
 495,IND,7,5,3,Female,37,Not immigrant,2,7,3,9,1,6.4,1
 496,IND,1,10,7,Male,53,Not immigrant,2,6,3,10,3,6.4,1
 497,IND,9,6,9,Female,16,Not immigrant,0,8,3,9,1,1.12,1
-498,IND,7,8,5,Male,17,Not immigrant,0,5,3,10,1,6.065882352941176,-1
+498,IND,7,8,5,Male,17,Not immigrant,0,5,3,10,1,6.065882352941176,0
 499,IND,1,1,1,Female,35,Not immigrant,5,1,0,10,1,6.351999999999999,1
 500,IND,5,6,5,Female,58,Not immigrant,3,3,0,8,1,4.730666666666666,1
 501,IND,9,9,10,Male,56,Not immigrant,2,10,0,10,1,5.759999999999999,1
@@ -508,8 +508,8 @@
 506,IND,10,10,7,Female,28,Not immigrant,2,3,2,10,1,5.999999999999999,1
 507,IND,10,10,5,Female,23,Not immigrant,0,5,7,10,1,6.200000000000001,1
 508,IND,8,9,10,Female,16,Not immigrant,0,7,2,9,1,6.159999999999999,0
-509,IND,6,9,8,Male,16,Not immigrant,0,9,2,7,1,4.814117647058823,-1
-510,IND,10,4,4,Male,17,Not immigrant,0,4,3,8,3,6.079999999999999,-1
+509,IND,6,9,8,Male,16,Not immigrant,0,9,2,7,1,4.814117647058823,0
+510,IND,10,4,4,Male,17,Not immigrant,0,4,3,8,3,6.079999999999999,0
 511,IND,10,10,6,Male,57,Not immigrant,6,6,1,10,1,5.68,1
 512,IND,8,9,7,Male,52,Not immigrant,6,10,1,10,1,1.9999999999999996,1
 513,IND,5,10,10,Female,46,Not immigrant,2,2,1,10,3,6.4,1
@@ -523,8 +523,8 @@
 521,IND,10,10,10,Male,20,Not immigrant,0,8,6,10,1,6.960000000000001,1
 522,IND,6,6,6,Male,37,Not immigrant,5,6,3,8,2,6.622222222222221,1
 523,IND,10,7,5,Male,16,Not immigrant,0,10,3,4,2,3.5199999999999996,1
-524,IND,7,7,5,Female,16,Not immigrant,0,5,3,10,3,6.200000000000001,-1
-525,IND,7,10,5,Male,17,Not immigrant,0,10,3,10,1,6.880000000000001,-1
+524,IND,7,7,5,Female,16,Not immigrant,0,5,3,10,3,6.200000000000001,0
+525,IND,7,10,5,Male,17,Not immigrant,0,10,3,10,1,6.880000000000001,0
 526,IND,7,8,8,Male,47,Not immigrant,1,5,3,10,2,6.5600000000000005,1
 527,IND,8,9,8,Female,23,Not immigrant,0,8,6,8,2,5.519999999999999,1
 528,IND,5,3,2,Male,29,Not immigrant,0,2,6,10,3,5.999999999999999,1
@@ -532,7 +532,7 @@
 530,IND,9,9,9,Male,55,Not immigrant,4,10,3,10,1,5.759999999999999,1
 531,IND,10,7,9,Male,38,Not immigrant,0,7,6,10,1,5.976470588235293,1
 532,IND,8,6,8,Female,57,Not immigrant,2,7,3,8,2,2.4799999999999995,1
-533,IND,7,10,9,Male,16,Not immigrant,0,4,3,10,1,5.279999999999999,-1
+533,IND,7,10,9,Male,16,Not immigrant,0,4,3,10,1,5.279999999999999,0
 534,IND,7,8,8,Female,25,Not immigrant,1,8,6,7,3,3.92,1
 535,IND,10,10,10,Male,58,Not immigrant,2,6,3,10,1,6.4,1
 536,IND,1,10,5,Female,30,Not immigrant,4,1,1,10,1,8.154285714285715,1
@@ -584,21 +584,21 @@
 582,IND,5,4,4,Female,36,Not immigrant,2,5,1,7,1,6.5377777777777775,1
 583,IND,6,5,6,Male,23,Not immigrant,0,3,3,3,1,6.64,1
 584,IND,10,4,2,Male,30,Not immigrant,2,9,6,8,1,4.08,1
-585,IND,10,10,10,Female,25,Not immigrant,0,1,7,10,3,6.781176470588237,-1
+585,IND,10,10,10,Female,25,Not immigrant,0,1,7,10,3,6.781176470588237,0
 586,IND,9,10,7,Female,29,Not immigrant,1,9,6,9,1,6.159999999999999,1
 587,IND,8,7,9,Male,16,Not immigrant,0,9,2,9,1,1.1999999999999995,1
-588,IND,7,7,6,Male,16,Not immigrant,0,5,6,10,1,5.199999999999999,-1
+588,IND,7,7,6,Male,16,Not immigrant,0,5,6,10,1,5.199999999999999,0
 589,IND,10,10,5,Male,40,Not immigrant,1,2,6,5,1,6.799999999999998,1
 590,IND,9,8,8,Male,60,Not immigrant,3,4,2,8,3,4.5600000000000005,1
 591,IND,10,4,4,Female,49,Not immigrant,3,2,0,10,1,4.7749999999999995,1
-592,IND,5,8,4,Female,17,Not immigrant,0,5,3,10,2,5.919999999999999,-1
+592,IND,5,8,4,Female,17,Not immigrant,0,5,3,10,2,5.919999999999999,0
 593,IND,5,6,5,Female,46,Not immigrant,3,4,2,10,3,8.262857142857143,1
-594,IND,6,7,9,Male,17,Not immigrant,0,6,3,4,2,6.115555555555556,-1
+594,IND,6,7,9,Male,17,Not immigrant,0,6,3,4,2,6.115555555555556,0
 595,IND,8,5,8,Male,78,Not immigrant,3,7,2,10,1,5.68,1
 596,IND,7,5,6,Male,40,Not immigrant,2,4,6,7,3,6.239999999999998,1
 597,IND,7,7,5,Male,27,Not immigrant,2,5,3,10,3,5.999999999999999,1
 598,IND,6,6,6,Male,22,Not immigrant,0,8,3,5,3,6.4,1
-599,IND,5,5,5,Male,18,Not immigrant,0,3,3,1,4,8.142222222222225,-1
+599,IND,5,5,5,Male,18,Not immigrant,0,3,3,1,4,8.142222222222225,0
 600,IND,10,10,10,Female,41,Not immigrant,3,3,1,6,1,6.4,1
 601,IND,10,6,6,Male,67,Not immigrant,3,8,3,10,1,5.199999999999999,1
 602,IND,4,8,7,Female,47,Not immigrant,2,7,2,8,1,6.079999999999999,1
@@ -609,17 +609,17 @@
 607,IND,10,10,7,Male,66,Not immigrant,2,3,6,10,3,5.999999999999999,1
 608,IND,6,8,5,Female,35,Not immigrant,2,6,2,5,1,2.56,1
 609,IND,9,3,10,Male,16,Not immigrant,0,1,3,10,1,2.88,0
-610,IND,7,8,8,Female,16,Not immigrant,0,7,3,8,2,6.326666666666664,-1
+610,IND,7,8,8,Female,16,Not immigrant,0,7,3,8,2,6.326666666666664,0
 611,IND,9,6,8,Male,56,Not immigrant,4,10,2,8,1,1.2800000000000007,1
 612,IND,10,8,9,Male,31,Not immigrant,1,10,4,9,1,5.919999999999999,1
 613,IND,6,5,2,Male,48,Not immigrant,1,6,3,8,3,5.68,1
-614,IND,3,8,6,Male,16,Not immigrant,0,3,2,10,1,7.193846153846153,-1
+614,IND,3,8,6,Male,16,Not immigrant,0,3,2,10,1,7.193846153846153,0
 615,IND,7,8,9,Male,43,Not immigrant,2,7,4,8,1,5.017777777777778,1
 616,IND,7,6,8,Female,21,Not immigrant,0,6,6,10,1,7.625000000000001,1
 617,IND,4,5,3,Female,63,Not immigrant,5,2,0,10,1,4.788571428571428,1
 618,IND,9,8,9,Male,60,Not immigrant,3,10,3,9,1,5.6,1
 619,IND,1,1,1,Male,19,Not immigrant,0,1,6,1,1,6.48,1
-620,IND,10,8,5,Male,16,Not immigrant,0,3,3,10,1,6.719999999999998,-1
+620,IND,10,8,5,Male,16,Not immigrant,0,3,3,10,1,6.719999999999998,0
 621,IND,8,7,7,Female,35,Not immigrant,1,4,4,8,3,6.159999999999999,1
 622,IND,5,5,6,Female,40,Not immigrant,2,4,6,6,1,5.6,1
 623,IND,8,3,5,Female,54,Not immigrant,3,7,1,9,4,3.92,1
@@ -628,7 +628,7 @@
 626,IND,5,10,4,Female,25,Not immigrant,2,1,3,10,3,6.4,1
 627,IND,6,6,6,Female,52,Not immigrant,3,7,3,10,1,5.199999999999999,1
 628,IND,10,10,8,Male,58,Not immigrant,2,8,6,9,1,5.279999999999999,1
-629,IND,2,9,9,Male,17,Not immigrant,0,10,2,3,2,6.870588235294117,-1
+629,IND,2,9,9,Male,17,Not immigrant,0,10,2,3,2,6.870588235294117,0
 630,IND,10,10,10,Male,33,Not immigrant,0,6,6,10,1,5.68,1
 631,IND,7,10,8,Female,21,Not immigrant,0,8,6,7,1,6.4,1
 632,IND,10,10,10,Male,35,Not immigrant,3,1,3,10,3,6.15529411764706,1
@@ -649,19 +649,19 @@
 647,IND,7,6,6,Female,45,Not immigrant,2,4,3,8,3,5.4399999999999995,1
 648,IND,8,7,7,Female,36,Not immigrant,1,6,2,7,1,5.4399999999999995,1
 649,IND,9,10,9,Male,39,Not immigrant,4,10,3,8,3,5.919999999999999,1
-650,IND,10,7,6,Female,21,Not immigrant,0,2,3,7,3,6.079999999999999,-1
+650,IND,10,7,6,Female,21,Not immigrant,0,2,3,7,3,6.079999999999999,0
 651,IND,8,8,8,Male,56,Not immigrant,6,2,2,8,4,5.999999999999999,1
 652,IND,6,8,7,Male,43,Not immigrant,1,4,7,4,1,5.919999999999999,1
 653,IND,7,5,8,Male,21,Not immigrant,0,7,6,6,1,6.4,1
-654,IND,10,10,10,Female,21,Not immigrant,0,1,6,10,1,6.4,-1
+654,IND,10,10,10,Female,21,Not immigrant,0,1,6,10,1,6.4,0
 655,IND,7,5,4,Male,54,Not immigrant,6,5,0,10,1,5.524444444444444,1
-656,IND,1,1,1,Female,17,Not immigrant,0,1,2,8,2,4.972307692307693,-1
+656,IND,1,1,1,Female,17,Not immigrant,0,1,2,8,2,4.972307692307693,0
 657,IND,6,6,5,Female,40,Not immigrant,1,2,2,5,2,6.239999999999998,1
 658,IND,6,5,5,Male,57,Not immigrant,5,5,1,10,1,5.946666666666665,1
 659,IND,10,10,8,Female,16,Not immigrant,0,8,3,10,4,5.519999999999999,1
-660,IND,7,6,7,Female,17,Not immigrant,0,8,3,7,3,6.334117647058823,-1
+660,IND,7,6,7,Female,17,Not immigrant,0,8,3,7,3,6.334117647058823,0
 661,IND,7,7,8,Female,57,Not immigrant,4,7,0,9,1,3.5199999999999996,1
-662,IND,2,3,1,Male,16,Not immigrant,0,1,3,10,2,5.840000000000001,-1
+662,IND,2,3,1,Male,16,Not immigrant,0,1,3,10,2,5.840000000000001,0
 663,IND,1,10,2,Male,41,Not immigrant,3,5,3,10,4,6.4,1
 664,IND,10,10,5,Male,43,Not immigrant,2,7,3,10,1,6.880000000000001,1
 665,IND,10,10,10,Female,23,Not immigrant,0,8,7,7,2,6.4,1
@@ -683,14 +683,14 @@
 681,IND,4,8,8,Female,50,Not immigrant,2,7,3,7,1,6.079999999999999,1
 682,IND,10,10,1,Male,50,Not immigrant,4,1,3,10,1,6.4,1
 683,IND,10,10,10,Male,21,Not immigrant,0,1,2,10,4,10.0,1
-684,IND,4,7,4,Female,17,Not immigrant,0,4,4,10,1,6.453333333333332,-1
+684,IND,4,7,4,Female,17,Not immigrant,0,4,4,10,1,6.453333333333332,0
 685,IND,9,10,8,Female,34,Not immigrant,1,10,6,9,1,5.279999999999999,1
 686,IND,5,5,3,Female,65,Not immigrant,2,3,0,8,1,6.4,1
 687,IND,7,7,5,Female,48,Not immigrant,4,5,1,10,1,5.6,1
 688,IND,6,1,1,Female,25,Not immigrant,1,1,3,10,3,6.4,1
-689,IND,5,6,4,Male,16,Not immigrant,0,4,2,9,3,9.366666666666667,-1
+689,IND,5,6,4,Male,16,Not immigrant,0,4,2,9,3,9.366666666666667,0
 690,IND,10,4,6,Male,45,Not immigrant,3,5,1,8,1,4.933333333333334,1
-691,IND,9,10,7,Male,16,Not immigrant,0,7,3,6,3,6.5377777777777775,-1
+691,IND,9,10,7,Male,16,Not immigrant,0,7,3,6,3,6.5377777777777775,0
 692,IND,1,3,3,Female,65,Not immigrant,2,6,0,10,1,5.976470588235293,1
 693,IND,10,10,6,Male,62,Not immigrant,2,2,3,10,1,5.919999999999999,1
 694,IND,8,6,8,Male,23,Not immigrant,0,7,6,7,1,2.88,1
@@ -698,7 +698,7 @@
 696,IND,8,6,7,Male,25,Not immigrant,3,9,1,6,1,3.5199999999999996,1
 697,IND,2,10,3,Male,43,Not immigrant,2,5,3,10,2,6.4,1
 698,IND,8,8,5,Female,43,Not immigrant,2,3,1,10,1,5.68,1
-699,IND,7,7,8,Female,16,Not immigrant,0,7,3,8,2,4.788571428571428,-1
+699,IND,7,7,8,Female,16,Not immigrant,0,7,3,8,2,4.788571428571428,0
 700,IND,8,4,3,Male,38,Not immigrant,4,2,2,6,3,5.4399999999999995,1
 701,IND,5,8,8,Female,22,Not immigrant,0,4,6,5,4,7.199999999999999,1
 702,IND,9,4,2,Male,17,Not immigrant,0,8,3,2,1,3.3600000000000003,1
@@ -707,7 +707,7 @@
 705,IND,9,6,9,Male,21,Not immigrant,0,9,3,7,1,6.079999999999999,1
 706,IND,10,10,10,Male,50,Not immigrant,6,8,8,10,1,6.4,1
 707,IND,6,7,5,Male,64,Not immigrant,4,7,0,8,1,1.92,1
-708,IND,10,1,1,Male,28,Not immigrant,1,7,7,1,3,2.8000000000000007,-1
+708,IND,10,1,1,Male,28,Not immigrant,1,7,7,1,3,2.8000000000000007,0
 709,IND,9,9,8,Male,37,Not immigrant,8,10,3,5,1,0.9599999999999995,1
 710,IND,10,10,10,Male,73,Not immigrant,3,6,3,8,1,6.64,1
 711,IND,7,3,4,Female,44,Not immigrant,6,8,3,4,3,2.56,1
@@ -715,8 +715,8 @@
 713,IND,9,8,8,Female,20,Not immigrant,0,9,4,9,2,4.72,1
 714,IND,10,1,1,Female,58,Not immigrant,7,1,0,10,1,5.759999999999999,1
 715,IND,7,9,5,Female,30,Not immigrant,2,7,3,7,2,1.8400000000000003,1
-716,IND,9,8,8,Female,55,Not immigrant,8,8,2,6,1,1.0400000000000005,-1
-717,IND,1,1,10,Male,17,Not immigrant,0,1,3,1,3,4.239999999999999,-1
+716,IND,9,8,8,Female,55,Not immigrant,8,8,2,6,1,1.0400000000000005,0
+717,IND,1,1,10,Male,17,Not immigrant,0,1,3,1,3,4.239999999999999,0
 718,IND,8,2,2,Male,26,Not immigrant,3,5,7,8,1,3.6,1
 719,IND,9,6,10,Female,40,Not immigrant,8,10,2,10,1,2.1599999999999997,1
 720,IND,6,9,7,Male,16,Not immigrant,0,8,3,5,1,2.4799999999999995,1
@@ -734,15 +734,15 @@
 732,IND,10,8,9,Female,46,Not immigrant,2,10,3,8,2,4.959999999999999,1
 733,IND,10,9,9,Male,23,Not immigrant,0,9,3,10,1,5.68,1
 734,IND,7,4,8,Female,48,Not immigrant,2,7,2,6,1,3.3600000000000003,1
-735,IND,7,7,6,Male,16,Not immigrant,0,7,3,8,3,6.0311111111111115,-1
+735,IND,7,7,6,Male,16,Not immigrant,0,7,3,8,3,6.0311111111111115,0
 736,IND,4,4,4,Male,18,Not immigrant,0,2,3,2,2,5.999999999999999,1
-737,IND,6,5,6,Male,16,Not immigrant,0,3,3,10,4,7.804444444444444,-1
+737,IND,6,5,6,Male,16,Not immigrant,0,3,3,10,4,7.804444444444444,0
 738,IND,10,7,8,Male,51,Not immigrant,4,4,3,10,1,6.5377777777777775,1
-739,IND,10,7,8,Female,33,Not immigrant,5,10,1,9,1,2.6399999999999997,-1
+739,IND,10,7,8,Female,33,Not immigrant,5,10,1,9,1,2.6399999999999997,0
 740,IND,9,8,7,Female,62,Not immigrant,3,7,3,10,1,5.999999999999999,1
 741,IND,6,5,3,Male,67,Not immigrant,4,3,1,6,1,4.5600000000000005,1
 742,IND,7,7,4,Male,68,Not immigrant,4,5,1,10,3,6.0311111111111115,1
-743,IND,6,6,4,Male,17,Not immigrant,0,3,3,8,3,5.6,-1
+743,IND,6,6,4,Male,17,Not immigrant,0,3,3,8,3,5.6,0
 744,IND,10,8,7,Male,36,Not immigrant,1,7,3,10,1,5.279999999999999,1
 745,IND,1,10,10,Male,24,Not immigrant,0,1,7,10,1,5.919999999999999,1
 746,IND,3,9,7,Female,62,Not immigrant,3,10,3,1,1,6.319999999999998,1
@@ -754,13 +754,13 @@
 752,IND,9,10,5,Male,44,Not immigrant,3,4,1,10,1,6.4,1
 753,IND,7,6,4,Female,36,Not immigrant,2,7,3,10,1,6.5600000000000005,1
 754,IND,7,5,7,Male,25,Not immigrant,0,4,6,10,2,8.56,1
-755,IND,10,10,10,Female,17,Not immigrant,0,7,3,10,1,6.239999999999998,-1
+755,IND,10,10,10,Female,17,Not immigrant,0,7,3,10,1,6.239999999999998,0
 756,IND,7,4,2,Male,47,Not immigrant,4,2,3,10,1,6.423529411764705,1
-757,IND,10,9,6,Male,17,Not immigrant,0,7,3,8,3,6.319999999999998,-1
+757,IND,10,9,6,Male,17,Not immigrant,0,7,3,8,3,6.319999999999998,0
 758,IND,8,9,10,Male,17,Not immigrant,0,9,3,9,1,5.999999999999999,1
 759,IND,5,7,5,Female,33,Not immigrant,0,6,3,5,1,6.4,1
 760,IND,6,6,4,Male,48,Not immigrant,1,5,2,8,1,5.4399999999999995,1
-761,IND,7,7,6,Male,17,Not immigrant,0,7,3,10,3,6.079999999999999,-1
+761,IND,7,7,6,Male,17,Not immigrant,0,7,3,10,3,6.079999999999999,0
 762,IND,6,8,5,Male,33,Not immigrant,2,7,7,5,1,2.6399999999999997,1
 763,IND,7,8,8,Male,16,Not immigrant,0,7,3,7,3,4.224,1
 764,IND,10,9,10,Male,24,Not immigrant,0,9,6,9,1,5.999999999999999,1
@@ -772,7 +772,7 @@
 770,IND,9,6,7,Male,37,Not immigrant,2,4,3,6,4,6.159999999999999,1
 771,IND,10,8,2,Female,42,Not immigrant,5,1,1,10,1,4.64,1
 772,IND,9,10,7,Male,20,Not immigrant,0,7,7,7,1,3.1999999999999993,1
-773,IND,10,10,3,Male,17,Not immigrant,0,2,3,10,4,6.319999999999998,-1
+773,IND,10,10,3,Male,17,Not immigrant,0,2,3,10,4,6.319999999999998,0
 774,IND,5,7,5,Female,31,Not immigrant,2,6,6,3,1,5.6,1
 775,IND,10,10,5,Female,52,Not immigrant,7,6,0,6,3,4.959999999999999,1
 776,IND,4,8,7,Female,22,Not immigrant,0,7,6,7,1,5.68,1
@@ -797,22 +797,22 @@
 795,IND,7,7,7,Male,52,Not immigrant,2,7,3,8,3,5.08235294117647,1
 796,IND,10,10,4,Male,46,Not immigrant,2,2,3,10,1,6.880000000000001,1
 797,IND,6,5,5,Male,56,Not immigrant,1,4,1,5,3,7.544615384615385,1
-798,IND,5,7,7,Male,19,Not immigrant,0,5,3,7,4,5.759999999999999,-1
+798,IND,5,7,7,Male,19,Not immigrant,0,5,3,7,4,5.759999999999999,0
 799,IND,5,9,7,Male,27,Not immigrant,0,4,6,5,4,7.199999999999999,1
 800,IND,3,7,7,Female,21,Not immigrant,0,7,6,7,1,6.4,1
-801,IND,10,5,9,Male,28,Not immigrant,0,9,7,10,1,6.239999999999998,-1
+801,IND,10,5,9,Male,28,Not immigrant,0,9,7,10,1,6.239999999999998,0
 802,IND,2,8,7,Female,17,Not immigrant,0,8,3,10,1,4.959999999999999,0
 803,IND,5,6,6,Male,48,Not immigrant,2,6,0,5,3,6.319999999999998,1
 804,IND,6,10,7,Female,62,Not immigrant,3,7,1,10,1,6.5600000000000005,1
 805,IND,1,1,1,Male,20,Not immigrant,0,3,6,3,2,6.4,0
 806,IND,10,10,10,Female,75,Not immigrant,5,5,0,10,1,6.4,1
-807,IND,9,7,1,Female,16,Not immigrant,0,2,3,10,1,5.6,-1
+807,IND,9,7,1,Female,16,Not immigrant,0,2,3,10,1,5.6,0
 808,IND,7,8,5,Male,28,Not immigrant,2,5,3,7,3,5.355555555555555,1
 809,IND,9,8,9,Male,28,Not immigrant,0,9,7,8,1,5.999999999999999,1
 810,IND,10,10,7,Male,62,Not immigrant,2,9,6,10,2,6.48,1
 811,IND,7,4,8,Male,41,Not immigrant,1,6,6,8,2,1.6799999999999995,1
 812,IND,6,4,4,Male,46,Not immigrant,3,2,2,10,1,5.4399999999999995,1
-813,IND,6,6,7,Female,17,Not immigrant,0,7,3,9,1,6.5377777777777775,-1
+813,IND,6,6,7,Female,17,Not immigrant,0,7,3,9,1,6.5377777777777775,0
 814,IND,5,1,1,Female,85,Not immigrant,6,1,0,10,2,6.159999999999999,1
 815,IND,9,7,7,Male,48,Not immigrant,3,7,1,8,1,5.039999999999999,1
 816,IND,9,8,9,Female,37,Not immigrant,2,9,3,8,1,5.4399999999999995,1
@@ -825,7 +825,7 @@
 823,IND,10,5,3,Male,50,Not immigrant,1,4,3,10,1,6.719999999999998,1
 824,IND,4,3,7,Male,46,Not immigrant,3,10,7,7,1,5.999999999999999,1
 825,IND,3,1,1,Male,58,Not immigrant,1,1,1,8,3,6.079999999999999,1
-826,IND,7,5,7,Male,17,Not immigrant,0,7,3,8,2,6.239999999999998,-1
+826,IND,7,5,7,Male,17,Not immigrant,0,7,3,8,2,6.239999999999998,0
 827,IND,8,7,6,Female,22,Not immigrant,0,6,6,3,3,6.880000000000001,1
 828,IND,10,10,8,Female,49,Not immigrant,5,1,0,10,1,6.319999999999998,1
 829,IND,9,8,7,Female,58,Not immigrant,4,7,0,10,1,4.08,1
@@ -840,7 +840,7 @@
 838,IND,2,6,6,Female,69,Not immigrant,6,2,0,10,1,4.426666666666666,1
 839,IND,7,7,8,Male,52,Not immigrant,3,7,3,7,3,5.136,1
 840,IND,9,6,9,Female,40,Not immigrant,2,9,0,9,1,1.0400000000000005,1
-841,IND,1,10,4,Male,17,Not immigrant,0,3,3,10,4,6.4,-1
+841,IND,1,10,4,Male,17,Not immigrant,0,3,3,10,4,6.4,0
 842,IND,10,4,3,Female,19,Not immigrant,0,9,6,9,1,6.4,1
 843,IND,4,7,3,Male,16,Not immigrant,0,3,3,10,1,6.239999999999998,1
 844,IND,7,10,10,Female,40,Not immigrant,4,4,0,10,1,6.4,1
@@ -859,22 +859,22 @@
 857,IND,6,9,4,Male,60,Not immigrant,3,7,2,6,2,2.6399999999999997,1
 858,IND,5,8,6,Male,17,Not immigrant,0,3,3,3,1,3.8400000000000003,1
 859,IND,8,7,8,Male,24,Not immigrant,4,9,1,6,1,1.92,1
-860,IND,10,9,10,Female,17,Not immigrant,0,10,3,10,1,6.159999999999999,-1
+860,IND,10,9,10,Female,17,Not immigrant,0,10,3,10,1,6.159999999999999,0
 861,IND,5,7,5,Male,60,Not immigrant,2,7,3,6,1,2.3200000000000003,1
 862,IND,8,7,6,Male,47,Not immigrant,4,8,0,9,1,1.8400000000000003,1
 863,IND,10,10,7,Male,63,Not immigrant,3,7,6,10,1,5.919999999999999,1
 864,IND,7,5,7,Male,37,Not immigrant,4,6,3,8,1,5.840000000000001,1
 865,IND,8,8,9,Male,38,Not immigrant,4,6,2,8,4,3.6799999999999997,1
-866,IND,1,10,5,Male,17,Not immigrant,0,5,3,10,3,6.960000000000001,-1
+866,IND,1,10,5,Male,17,Not immigrant,0,5,3,10,3,6.960000000000001,0
 867,IND,4,10,10,Male,27,Not immigrant,1,6,3,10,1,6.079999999999999,1
 868,IND,10,10,10,Male,37,Not immigrant,1,6,3,10,1,5.999999999999999,1
 869,IND,5,10,9,Female,30,Not immigrant,1,5,6,10,1,5.199999999999999,1
 870,IND,10,10,8,Male,59,Not immigrant,3,4,1,10,2,7.44,1
 871,IND,10,9,8,Female,22,Not immigrant,0,7,6,8,2,5.199999999999999,1
-872,IND,5,10,10,Male,17,Not immigrant,0,4,3,10,2,6.719999999999998,-1
+872,IND,5,10,10,Male,17,Not immigrant,0,4,3,10,2,6.719999999999998,0
 873,IND,10,8,9,Male,22,Not immigrant,0,10,6,9,1,5.999999999999999,1
 874,IND,10,10,8,Female,41,Not immigrant,2,8,3,10,1,4.64,1
-875,IND,7,4,9,Male,17,Not immigrant,0,8,3,8,2,3.0400000000000005,-1
+875,IND,7,4,9,Male,17,Not immigrant,0,8,3,8,2,3.0400000000000005,0
 876,IND,6,7,7,Male,59,Not immigrant,4,5,1,6,3,6.5377777777777775,1
 877,IND,10,9,8,Male,60,Not immigrant,4,9,3,8,1,5.999999999999999,1
 878,IND,7,7,3,Male,29,Not immigrant,1,4,6,3,3,6.239999999999998,1
@@ -887,10 +887,10 @@
 885,IND,9,6,9,Male,38,Not immigrant,5,8,0,9,1,2.2399999999999993,1
 886,IND,8,8,8,Male,57,Not immigrant,2,8,3,9,1,6.4,1
 887,IND,5,3,2,Male,44,Not immigrant,4,1,1,10,3,6.706666666666664,1
-888,IND,8,10,5,Male,17,Not immigrant,0,5,3,9,3,4.511111111111112,-1
-889,IND,10,10,10,Female,17,Not immigrant,0,10,4,9,2,6.239999999999998,-1
+888,IND,8,10,5,Male,17,Not immigrant,0,5,3,9,3,4.511111111111112,0
+889,IND,10,10,10,Female,17,Not immigrant,0,10,4,9,2,6.239999999999998,0
 890,IND,9,10,10,Male,25,Not immigrant,0,5,2,2,4,6.4,1
-891,IND,10,10,10,Male,17,Not immigrant,0,1,3,10,1,6.159999999999999,-1
+891,IND,10,10,10,Male,17,Not immigrant,0,1,3,10,1,6.159999999999999,0
 892,IND,10,10,10,Male,64,Not immigrant,6,4,3,10,3,6.875555555555556,1
 893,IND,10,10,10,Female,17,Not immigrant,0,5,3,10,1,5.68,1
 894,IND,6,8,5,Male,16,Not immigrant,0,6,4,9,2,7.4276923076923085,1
@@ -909,7 +909,7 @@
 907,IND,9,10,9,Male,60,Not immigrant,2,2,2,4,1,5.68,1
 908,IND,6,6,5,Female,64,Not immigrant,4,5,0,10,1,5.862222222222222,1
 909,IND,10,9,10,Female,58,Not immigrant,4,10,1,10,1,5.199999999999999,1
-910,IND,10,6,10,Female,17,Not immigrant,0,8,3,10,1,6.319999999999998,-1
+910,IND,10,6,10,Female,17,Not immigrant,0,8,3,10,1,6.319999999999998,0
 911,IND,3,5,2,Female,45,Not immigrant,2,1,2,8,3,6.2447058823529416,1
 912,IND,10,1,1,Male,36,Not immigrant,4,5,3,10,3,5.68,1
 913,IND,8,4,8,Female,61,Not immigrant,3,7,1,8,3,5.68,1
@@ -937,7 +937,7 @@
 935,IND,10,9,10,Male,17,Not immigrant,0,10,3,10,1,5.68,1
 936,IND,10,10,10,Male,50,Not immigrant,2,8,3,4,3,7.119999999999999,1
 937,IND,10,10,10,Male,16,Not immigrant,0,8,3,7,3,7.199999999999999,0
-938,IND,7,10,10,Male,17,Not immigrant,0,3,3,10,1,6.4,-1
+938,IND,7,10,10,Male,17,Not immigrant,0,3,3,10,1,6.4,0
 939,IND,9,2,3,Female,76,Not immigrant,6,9,2,4,4,6.159999999999999,1
 940,IND,9,7,9,Male,16,Not immigrant,0,10,3,9,1,5.759999999999999,1
 941,IND,2,2,2,Male,38,Not immigrant,0,3,1,3,1,5.68,0
@@ -954,7 +954,7 @@
 952,IND,9,7,8,Female,62,Not immigrant,5,4,0,10,1,5.034666666666666,1
 953,IND,6,7,6,Female,34,Not immigrant,3,6,1,8,1,6.2447058823529416,1
 954,IND,10,1,1,Female,61,Not immigrant,9,1,0,10,1,6.4,1
-955,IND,1,10,1,Male,17,Not immigrant,0,1,3,10,4,6.4,-1
+955,IND,1,10,1,Male,17,Not immigrant,0,1,3,10,4,6.4,0
 956,IND,9,7,8,Female,16,Not immigrant,0,3,3,9,2,6.4,1
 957,IND,6,10,10,Male,18,Not immigrant,0,3,3,10,1,7.360000000000001,1
 958,IND,8,6,4,Male,62,Not immigrant,3,4,3,10,1,5.535,1
@@ -968,7 +968,7 @@
 966,IND,9,7,7,Male,41,Not immigrant,4,10,1,10,1,4.239999999999999,1
 967,IND,4,8,7,Female,31,Not immigrant,2,8,3,7,1,6.239999999999998,1
 968,IND,10,9,10,Male,17,Not immigrant,0,7,3,9,3,6.64,0
-969,IND,10,10,10,Male,17,Not immigrant,0,4,3,10,1,6.4,-1
+969,IND,10,10,10,Male,17,Not immigrant,0,4,3,10,1,6.4,0
 970,IND,2,2,3,Male,48,Not immigrant,4,1,3,2,3,6.4,1
 971,IND,8,2,6,Female,31,Not immigrant,3,9,7,7,4,6.239999999999998,1
 972,IND,10,10,1,Male,45,Not immigrant,4,5,3,10,1,6.4,1
@@ -977,9 +977,9 @@
 975,IND,7,5,7,Male,17,Not immigrant,0,5,7,4,1,6.159999999999999,1
 976,IND,5,6,6,Female,34,Not immigrant,2,7,7,10,1,6.079999999999999,1
 977,IND,9,10,7,Female,20,Not immigrant,0,9,1,7,1,1.9999999999999996,1
-978,IND,7,5,7,Female,17,Not immigrant,0,8,3,10,1,5.68,-1
+978,IND,7,5,7,Female,17,Not immigrant,0,8,3,10,1,5.68,0
 979,IND,9,8,7,Female,55,Not immigrant,3,6,4,10,1,4.764444444444444,1
-980,IND,3,5,7,Male,17,Not immigrant,0,2,2,10,3,6.580000000000001,-1
+980,IND,3,5,7,Male,17,Not immigrant,0,2,2,10,3,6.580000000000001,0
 981,IND,6,7,5,Male,68,Not immigrant,4,5,0,10,1,5.862222222222222,1
 982,IND,10,1,1,Male,33,Not immigrant,0,1,3,10,1,6.4,1
 983,IND,6,6,6,Male,24,Not immigrant,0,8,3,6,2,5.6571428571428575,1
@@ -995,7 +995,7 @@
 993,IND,8,10,6,Female,16,Not immigrant,0,5,3,10,1,6.4,0
 994,IND,7,3,2,Male,40,Not immigrant,4,6,3,9,1,6.159999999999999,1
 995,IND,8,8,7,Female,48,Not immigrant,2,8,0,8,1,5.68,1
-996,IND,1,10,7,Male,18,Not immigrant,0,1,2,10,1,10.0,-1
+996,IND,1,10,7,Male,18,Not immigrant,0,1,2,10,1,10.0,0
 997,IND,10,10,10,Male,54,Not immigrant,3,2,2,10,3,6.960000000000001,1
 998,IND,9,6,8,Female,65,Not immigrant,4,10,2,9,1,5.359999999999999,1
 999,IND,10,9,6,Male,38,Not immigrant,2,6,8,3,1,6.239999999999998,1
@@ -1013,28 +1013,28 @@
 1011,IND,10,8,9,Male,51,Not immigrant,4,10,1,10,1,6.079999999999999,1
 1012,IND,10,8,9,Male,30,Not immigrant,0,10,6,10,1,5.759999999999999,1
 1013,IND,8,8,7,Male,30,Not immigrant,4,10,0,9,1,3.8400000000000003,1
-1014,IND,5,7,5,Male,17,Not immigrant,0,4,3,5,1,6.15529411764706,-1
+1014,IND,5,7,5,Male,17,Not immigrant,0,4,3,5,1,6.15529411764706,0
 1015,IND,10,9,8,Female,17,Not immigrant,0,10,3,7,2,4.959999999999999,0
 1016,IND,8,5,3,Female,24,Not immigrant,0,3,6,8,3,5.919999999999999,1
 1017,IND,6,6,5,Male,52,Not immigrant,5,6,2,10,1,5.840000000000001,1
-1018,IND,6,6,5,Male,17,Not immigrant,0,5,3,8,3,5.777777777777778,-1
+1018,IND,6,6,5,Male,17,Not immigrant,0,5,3,8,3,5.777777777777778,0
 1019,IND,10,9,8,Male,24,Not immigrant,0,2,3,1,4,6.5600000000000005,1
 1020,IND,8,9,8,Female,27,Not immigrant,0,8,8,7,2,8.48,1
 1021,IND,7,7,5,Male,58,Not immigrant,3,4,3,9,1,6.368888888888888,1
-1022,IND,9,4,5,Male,22,Not immigrant,0,9,6,10,1,5.759999999999999,-1
+1022,IND,9,4,5,Male,22,Not immigrant,0,9,6,10,1,5.759999999999999,0
 1023,IND,7,8,6,Male,24,Not immigrant,0,3,3,10,1,6.159999999999999,0
-1024,IND,1,6,6,Male,16,Not immigrant,0,5,1,10,1,8.860000000000001,-1
+1024,IND,1,6,6,Male,16,Not immigrant,0,5,1,10,1,8.860000000000001,0
 1025,IND,10,10,10,Male,27,Not immigrant,1,10,7,8,3,6.5600000000000005,1
-1026,IND,7,8,5,Female,16,Not immigrant,0,6,3,7,3,5.12,-1
+1026,IND,7,8,5,Female,16,Not immigrant,0,6,3,7,3,5.12,0
 1027,IND,10,10,10,Male,26,Not immigrant,0,5,6,10,1,6.4,1
 1028,IND,5,5,8,Female,57,Not immigrant,3,6,2,8,1,8.596923076923076,1
 1029,IND,9,8,7,Male,34,Not immigrant,3,5,3,8,1,4.32,1
 1030,IND,2,2,2,Male,52,Not immigrant,4,2,2,2,2,5.4399999999999995,1
 1031,IND,1,1,1,Male,24,Not immigrant,1,1,2,10,3,6.4,1
 1032,IND,10,7,9,Female,20,Not immigrant,0,10,3,9,2,5.68,1
-1033,IND,10,10,10,Female,16,Not immigrant,0,9,4,6,4,6.4,-1
+1033,IND,10,10,10,Female,16,Not immigrant,0,9,4,6,4,6.4,0
 1034,IND,3,8,3,Male,16,Not immigrant,0,5,3,5,3,5.186666666666666,1
-1035,IND,4,8,8,Female,16,Not immigrant,0,8,3,7,3,6.799999999999998,-1
+1035,IND,4,8,8,Female,16,Not immigrant,0,8,3,7,3,6.799999999999998,0
 1036,IND,3,2,5,Male,16,Not immigrant,0,2,3,3,1,5.759999999999999,1
 1037,IND,7,7,7,Female,49,Not immigrant,3,7,3,10,1,5.279999999999999,1
 1038,IND,8,9,5,Female,32,Not immigrant,4,9,0,9,1,3.279999999999999,1
@@ -1045,15 +1045,15 @@
 1043,IND,10,10,8,Female,22,Not immigrant,0,5,7,10,3,5.999999999999999,1
 1044,IND,10,5,5,Male,29,Not immigrant,2,2,3,2,3,6.781176470588237,1
 1045,IND,10,10,10,Female,22,Not immigrant,0,4,6,10,1,7.68,1
-1046,IND,8,7,4,Male,17,Not immigrant,0,4,3,7,3,5.919999999999999,-1
+1046,IND,8,7,4,Male,17,Not immigrant,0,4,3,7,3,5.919999999999999,0
 1047,IND,6,7,7,Female,54,Not immigrant,2,8,3,7,2,6.200000000000001,1
-1048,IND,6,6,6,Male,30,Not immigrant,3,3,3,10,1,6.4,-1
+1048,IND,6,6,6,Male,30,Not immigrant,3,3,3,10,1,6.4,0
 1049,IND,8,5,8,Male,50,Not immigrant,2,7,6,8,1,6.799999999999998,1
 1050,IND,8,7,8,Male,47,Not immigrant,2,9,3,9,2,4.4799999999999995,1
-1051,IND,5,6,3,Male,19,Not immigrant,0,9,3,9,1,6.4,-1
+1051,IND,5,6,3,Male,19,Not immigrant,0,9,3,9,1,6.4,0
 1052,IND,2,2,2,Male,21,Not immigrant,0,2,3,2,1,5.6,0
 1053,IND,7,9,8,Female,74,Not immigrant,4,8,2,10,4,4.239999999999999,1
-1054,IND,8,7,7,Male,18,Not immigrant,0,5,3,10,3,5.4399999999999995,-1
+1054,IND,8,7,7,Male,18,Not immigrant,0,5,3,10,3,5.4399999999999995,0
 1055,IND,10,10,7,Male,31,Not immigrant,1,6,3,10,3,7.280000000000001,1
 1056,IND,5,7,7,Female,25,Not immigrant,0,2,1,9,2,5.608888888888888,1
 1057,IND,10,1,1,Male,38,Not immigrant,2,1,3,10,3,6.4,1
@@ -1070,9 +1070,9 @@
 1068,IND,8,8,7,Male,25,Not immigrant,2,8,3,10,1,6.200000000000001,1
 1069,IND,8,7,9,Female,45,Not immigrant,4,9,0,8,1,1.3600000000000003,1
 1070,IND,7,6,6,Female,44,Not immigrant,3,3,1,7,1,6.159999999999999,1
-1071,IND,10,10,10,Male,16,Not immigrant,0,5,3,10,1,6.4,-1
+1071,IND,10,10,10,Male,16,Not immigrant,0,5,3,10,1,6.4,0
 1072,IND,6,5,6,Male,42,Not immigrant,3,7,3,5,4,5.976470588235293,1
-1073,IND,10,10,8,Male,17,Not immigrant,0,4,2,10,1,6.799999999999998,-1
+1073,IND,10,10,8,Male,17,Not immigrant,0,4,2,10,1,6.799999999999998,0
 1074,IND,8,9,9,Female,16,Not immigrant,0,5,2,9,4,4.959999999999999,1
 1075,IND,9,10,10,Male,23,Not immigrant,0,2,4,10,1,7.04,0
 1076,IND,2,5,8,Female,58,Not immigrant,1,5,1,9,2,5.840000000000001,1
@@ -1082,7 +1082,7 @@
 1080,IND,10,9,9,Male,41,Not immigrant,2,4,3,9,3,6.880000000000001,1
 1081,IND,10,7,5,Male,19,Not immigrant,0,4,6,7,2,8.08,1
 1082,IND,3,2,5,Male,16,Not immigrant,0,2,3,3,1,5.759999999999999,1
-1083,IND,8,7,5,Female,17,Not immigrant,0,5,3,7,3,6.15529411764706,-1
+1083,IND,8,7,5,Female,17,Not immigrant,0,5,3,7,3,6.15529411764706,0
 1084,IND,2,2,3,Male,18,Not immigrant,0,1,2,2,2,6.4,1
 1085,IND,9,2,2,Female,28,Not immigrant,2,10,7,9,1,5.4399999999999995,1
 1086,IND,4,5,9,Male,17,Not immigrant,0,8,3,10,3,5.359999999999999,0
@@ -1091,17 +1091,17 @@
 1089,IND,8,8,4,Male,27,Not immigrant,0,4,6,7,3,6.239999999999998,1
 1090,IND,10,8,10,Female,55,Not immigrant,3,10,2,8,1,5.759999999999999,1
 1091,IND,10,8,7,Female,30,Not immigrant,1,10,8,7,1,6.159999999999999,1
-1092,IND,3,6,8,Female,17,Not immigrant,0,6,3,7,1,6.48,-1
+1092,IND,3,6,8,Female,17,Not immigrant,0,6,3,7,1,6.48,0
 1093,IND,1,10,1,Female,27,Not immigrant,1,1,2,10,3,6.48,1
 1094,IND,7,6,7,Male,30,Not immigrant,1,7,6,7,3,4.88,1
 1095,IND,5,6,1,Female,42,Not immigrant,2,1,6,10,1,7.199999999999999,1
 1096,IND,8,8,9,Female,25,Not immigrant,2,9,6,10,1,5.840000000000001,1
-1097,IND,9,10,6,Male,16,Not immigrant,0,4,2,10,1,9.43,-1
+1097,IND,9,10,6,Male,16,Not immigrant,0,4,2,10,1,9.43,0
 1098,IND,8,7,7,Male,24,Not immigrant,2,5,6,5,1,5.6,1
 1099,IND,4,1,1,Female,49,Not immigrant,3,2,1,10,1,6.319999999999998,1
 1100,IND,10,10,5,Male,37,Not immigrant,1,8,6,10,1,5.68,1
-1101,IND,5,5,4,Female,20,Not immigrant,0,3,6,4,3,6.5600000000000005,-1
-1102,IND,6,4,4,Male,18,Not immigrant,0,3,3,4,3,9.170909090909092,-1
+1101,IND,5,5,4,Female,20,Not immigrant,0,3,6,4,3,6.5600000000000005,0
+1102,IND,6,4,4,Male,18,Not immigrant,0,3,3,4,3,9.170909090909092,0
 1103,IND,10,9,10,Male,36,Not immigrant,2,6,6,10,1,6.239999999999998,1
 1104,IND,7,6,5,Female,54,Not immigrant,3,4,2,10,1,4.595555555555555,1
 1105,IND,10,10,10,Male,50,Not immigrant,3,4,1,10,1,6.4,1
@@ -1112,14 +1112,14 @@
 1110,IND,7,3,8,Male,26,Not immigrant,0,9,8,4,1,4.08,1
 1111,IND,1,1,1,Female,23,Not immigrant,0,1,6,10,3,6.4,1
 1112,IND,5,6,5,Male,41,Not immigrant,2,6,6,10,1,6.159999999999999,1
-1113,IND,10,5,4,Male,16,Not immigrant,0,5,3,10,3,6.4,-1
-1114,IND,1,5,7,Male,16,Not immigrant,0,5,3,10,1,10.0,-1
-1115,IND,7,6,7,Male,16,Not immigrant,0,6,3,7,3,5.199999999999999,-1
+1113,IND,10,5,4,Male,16,Not immigrant,0,5,3,10,3,6.4,0
+1114,IND,1,5,7,Male,16,Not immigrant,0,5,3,10,1,10.0,0
+1115,IND,7,6,7,Male,16,Not immigrant,0,6,3,7,3,5.199999999999999,0
 1116,IND,10,4,5,Male,21,Not immigrant,0,5,3,8,3,5.519999999999999,1
 1117,IND,10,10,7,Male,33,Not immigrant,2,4,2,10,1,7.199999999999999,1
 1118,IND,10,10,9,Male,62,Not immigrant,2,6,2,7,1,6.5600000000000005,1
 1119,IND,5,8,8,Female,24,Not immigrant,1,8,6,7,1,6.319999999999998,1
-1120,IND,6,10,10,Female,20,Not immigrant,0,5,3,5,1,6.4,-1
+1120,IND,6,10,10,Female,20,Not immigrant,0,5,3,5,1,6.4,0
 1121,IND,8,6,7,Female,24,Not immigrant,0,7,7,6,1,7.245000000000001,1
 1122,IND,7,3,7,Male,21,Not immigrant,0,10,0,8,1,1.4399999999999997,1
 1123,IND,2,2,2,Male,23,Not immigrant,0,2,3,2,1,5.840000000000001,1
@@ -1137,22 +1137,22 @@
 1135,IND,10,10,10,Female,16,Not immigrant,0,3,2,10,1,7.760000000000002,1
 1136,IND,9,9,8,Male,40,Not immigrant,2,6,3,10,3,5.039999999999999,1
 1137,IND,4,7,8,Female,27,Not immigrant,1,2,6,10,1,5.608888888888888,1
-1138,IND,7,7,4,Male,16,Not immigrant,0,4,3,5,3,6.079999999999999,-1
+1138,IND,7,7,4,Male,16,Not immigrant,0,4,3,5,3,6.079999999999999,0
 1139,IND,7,7,5,Male,58,Not immigrant,3,6,1,10,3,5.777777777777778,1
 1140,IND,2,4,3,Male,48,Not immigrant,2,3,3,4,1,6.079999999999999,1
-1141,IND,1,5,4,Male,16,Not immigrant,0,1,3,10,3,6.4,-1
+1141,IND,1,5,4,Male,16,Not immigrant,0,1,3,10,3,6.4,0
 1142,IND,9,7,8,Female,37,Not immigrant,2,8,3,7,1,5.840000000000001,1
 1143,IND,2,7,3,Female,31,Not immigrant,3,3,2,10,1,5.946666666666665,1
-1144,IND,8,10,9,Female,17,Not immigrant,0,6,3,10,1,6.48,-1
+1144,IND,8,10,9,Female,17,Not immigrant,0,6,3,10,1,6.48,0
 1145,IND,10,7,6,Female,33,Not immigrant,4,6,1,6,3,5.68,1
-1146,IND,1,6,7,Female,16,Not immigrant,0,5,3,10,3,6.843076923076923,-1
+1146,IND,1,6,7,Female,16,Not immigrant,0,5,3,10,3,6.843076923076923,0
 1147,IND,8,5,6,Female,27,Not immigrant,0,5,7,5,1,7.394285714285716,1
 1148,IND,4,4,4,Female,31,Not immigrant,3,3,0,7,1,5.759999999999999,1
 1149,IND,4,5,5,Female,17,Not immigrant,0,3,0,10,2,6.239999999999998,1
 1150,IND,3,3,3,Male,36,Not immigrant,1,6,4,6,2,3.7599999999999993,1
 1151,IND,10,10,10,Male,66,Not immigrant,3,10,0,5,1,6.079999999999999,1
 1152,IND,1,1,1,Male,33,Not immigrant,2,2,3,2,2,5.919999999999999,1
-1153,IND,5,6,6,Female,17,Not immigrant,0,2,4,6,1,4.64,-1
+1153,IND,5,6,6,Female,17,Not immigrant,0,2,4,6,1,4.64,0
 1154,IND,6,4,2,Female,56,Not immigrant,2,2,1,9,1,5.759999999999999,1
 1155,IND,10,10,8,Female,39,Not immigrant,1,5,3,9,1,5.4399999999999995,1
 1156,IND,8,7,9,Female,40,Not immigrant,3,7,3,8,1,5.999999999999999,1
@@ -1166,7 +1166,7 @@
 1164,IND,7,4,3,Male,50,Not immigrant,0,3,1,7,4,4.239999999999999,1
 1165,IND,10,10,6,Male,23,Not immigrant,0,6,6,2,4,8.48,1
 1166,IND,2,2,2,Male,28,Not immigrant,3,2,4,3,2,6.4,0
-1167,IND,5,5,5,Female,33,Not immigrant,3,5,2,4,4,6.706666666666664,-1
+1167,IND,5,5,5,Female,33,Not immigrant,3,5,2,4,4,6.706666666666664,0
 1168,IND,10,6,8,Male,30,Not immigrant,1,9,8,8,4,6.4,1
 1169,IND,7,6,7,Male,24,Not immigrant,0,8,6,10,1,5.68,1
 1170,IND,5,3,2,Female,44,Not immigrant,2,2,1,10,1,5.102222222222222,1
@@ -1181,7 +1181,7 @@
 1179,IND,8,5,5,Male,47,Not immigrant,2,6,3,8,3,6.453333333333332,1
 1180,IND,7,7,8,Female,28,Not immigrant,2,4,4,9,3,6.48,1
 1181,IND,7,7,5,Male,30,Not immigrant,2,7,6,5,3,5.862222222222222,1
-1182,IND,3,7,7,Male,16,Not immigrant,0,3,3,9,3,6.706666666666664,-1
+1182,IND,3,7,7,Male,16,Not immigrant,0,3,3,9,3,6.706666666666664,0
 1183,IND,10,6,6,Male,23,Not immigrant,0,5,7,6,3,6.4,1
 1184,IND,2,4,3,Male,22,Not immigrant,0,4,7,4,2,6.319999999999998,1
 1185,IND,10,10,10,Male,38,Not immigrant,3,5,7,10,3,7.119999999999999,1
@@ -1192,7 +1192,7 @@
 1190,IND,4,5,5,Female,52,Not immigrant,4,5,2,5,1,5.759999999999999,1
 1191,IND,7,7,5,Female,42,Not immigrant,3,4,2,8,1,6.0311111111111115,1
 1192,IND,8,5,3,Male,16,Not immigrant,0,3,6,1,4,7.199999999999999,1
-1193,IND,7,3,8,Male,18,Not immigrant,0,1,3,9,1,3.279999999999999,-1
+1193,IND,7,3,8,Male,18,Not immigrant,0,1,3,9,1,3.279999999999999,0
 1194,IND,9,6,6,Male,48,Not immigrant,3,6,3,10,1,6.675000000000001,1
 1195,IND,6,6,6,Male,22,Not immigrant,0,3,3,8,3,5.759999999999999,1
 1196,IND,8,10,8,Female,45,Not immigrant,3,7,3,10,1,5.68,1
@@ -1201,20 +1201,20 @@
 1199,IND,6,6,6,Male,29,Not immigrant,2,6,6,5,3,5.359999999999999,1
 1200,IND,10,6,5,Male,64,Not immigrant,4,4,3,10,4,6.4,1
 1201,IND,10,10,10,Male,48,Not immigrant,2,5,7,10,1,6.4,1
-1202,IND,8,10,10,Female,16,Not immigrant,0,5,3,8,3,8.733333333333333,-1
+1202,IND,8,10,10,Female,16,Not immigrant,0,5,3,8,3,8.733333333333333,0
 1203,IND,8,6,8,Male,32,Not immigrant,0,7,7,9,4,6.4,1
 1204,IND,10,10,10,Male,32,Not immigrant,0,5,7,10,3,7.119999999999999,1
 1205,IND,9,9,9,Female,32,Not immigrant,2,7,4,10,2,5.359999999999999,1
-1206,IND,3,4,4,Male,49,Not immigrant,4,6,3,4,1,4.959999999999999,-1
-1207,IND,5,9,2,Female,44,Not immigrant,2,7,3,10,4,7.044444444444444,-1
+1206,IND,3,4,4,Male,49,Not immigrant,4,6,3,4,1,4.959999999999999,0
+1207,IND,5,9,2,Female,44,Not immigrant,2,7,3,10,4,7.044444444444444,0
 1208,IND,8,4,8,Male,63,Not immigrant,3,5,2,10,1,4.239999999999999,1
-1209,IND,6,5,6,Male,16,Not immigrant,0,3,3,5,1,6.368888888888888,-1
+1209,IND,6,5,6,Male,16,Not immigrant,0,3,3,5,1,6.368888888888888,0
 1210,IND,8,10,9,Female,55,Not immigrant,2,5,1,10,1,7.44,1
 1211,IND,6,6,6,Female,33,Not immigrant,1,6,6,6,3,4.08,1
 1212,IND,9,10,10,Male,67,Not immigrant,1,3,1,9,2,6.4,1
 1213,IND,10,10,8,Female,37,Not immigrant,2,10,6,10,1,5.68,1
-1214,IND,3,5,4,Male,16,Not immigrant,0,3,2,10,4,7.611428571428572,-1
-1215,IND,8,7,7,Male,16,Not immigrant,0,2,2,8,3,6.065882352941176,-1
+1214,IND,3,5,4,Male,16,Not immigrant,0,3,2,10,4,7.611428571428572,0
+1215,IND,8,7,7,Male,16,Not immigrant,0,2,2,8,3,6.065882352941176,0
 1216,IND,4,5,3,Female,21,Not immigrant,0,3,3,9,2,4.08,1
 1217,IND,7,4,2,Male,22,Not immigrant,0,2,3,8,1,7.04,1
 1218,IND,10,10,10,Male,24,Not immigrant,0,1,6,10,1,6.4,1
@@ -1222,12 +1222,12 @@
 1220,IND,5,7,6,Female,36,Not immigrant,2,5,3,6,4,5.279999999999999,0
 1221,IND,10,10,10,Female,41,Not immigrant,2,5,3,10,1,5.759999999999999,1
 1222,IND,2,3,2,Male,45,Not immigrant,3,6,3,5,1,6.319999999999998,1
-1223,IND,8,6,6,Male,17,Not immigrant,0,5,3,5,3,6.159999999999999,-1
+1223,IND,8,6,6,Male,17,Not immigrant,0,5,3,5,3,6.159999999999999,0
 1224,IND,2,2,2,Female,28,Not immigrant,2,2,3,1,3,4.88,1
 1225,IND,10,10,10,Male,28,Not immigrant,1,8,6,6,1,6.079999999999999,1
 1226,IND,10,10,8,Male,23,Not immigrant,0,9,7,7,3,7.52,1
 1227,IND,10,6,6,Female,39,Not immigrant,2,4,3,8,1,6.791111111111111,1
-1228,IND,6,6,6,Male,16,Not immigrant,0,2,1,10,1,7.611428571428572,-1
+1228,IND,6,6,6,Male,16,Not immigrant,0,2,1,10,1,7.611428571428572,0
 1229,IND,1,10,2,Male,21,Not immigrant,0,2,6,6,4,7.044444444444444,1
 1230,IND,6,6,5,Male,23,Not immigrant,0,6,7,4,4,4.32,1
 1231,IND,3,4,4,Male,58,Not immigrant,3,2,3,3,1,5.68,1
@@ -1242,11 +1242,11 @@
 1240,IND,8,8,6,Male,28,Not immigrant,0,6,7,7,4,7.360000000000001,1
 1241,IND,8,6,5,Male,25,Not immigrant,0,5,7,4,3,6.706666666666664,1
 1242,IND,3,7,4,Male,35,Not immigrant,3,7,6,8,3,6.319999999999998,1
-1243,IND,7,6,8,Male,16,Not immigrant,0,8,2,7,1,6.079999999999999,-1
+1243,IND,7,6,8,Male,16,Not immigrant,0,8,2,7,1,6.079999999999999,0
 1244,IND,10,10,10,Male,38,Not immigrant,4,3,2,10,1,5.946666666666665,1
 1245,IND,10,9,8,Male,70,Not immigrant,3,5,1,4,4,7.199999999999999,1
 1246,IND,9,8,9,Female,49,Not immigrant,2,7,3,10,1,6.880000000000001,1
-1247,IND,6,5,6,Female,16,Not immigrant,0,6,4,6,4,7.52,-1
+1247,IND,6,5,6,Female,16,Not immigrant,0,6,4,6,4,7.52,0
 1248,IND,10,6,4,Male,78,Not immigrant,4,2,1,4,3,5.999999999999999,1
 1249,IND,1,1,1,Male,47,Not immigrant,3,1,3,1,1,6.239999999999998,1
 1250,IND,8,8,7,Male,30,Not immigrant,1,4,4,4,3,7.119999999999999,1
@@ -1256,21 +1256,21 @@
 1254,IND,8,5,5,Male,32,Not immigrant,2,4,3,8,1,6.4,1
 1255,IND,2,2,2,Male,22,Not immigrant,0,2,7,2,2,5.759999999999999,1
 1256,IND,10,10,10,Female,47,Not immigrant,2,8,7,10,1,7.68,1
-1257,IND,6,6,6,Female,17,Not immigrant,0,4,4,5,3,7.52,-1
+1257,IND,6,6,6,Female,17,Not immigrant,0,4,4,5,3,7.52,0
 1258,IND,7,6,5,Male,21,Not immigrant,0,4,7,10,1,7.2282352941176455,1
 1259,IND,10,10,9,Male,61,Not immigrant,4,8,3,7,3,7.52,1
 1260,IND,2,2,2,Male,22,Not immigrant,0,2,7,2,2,5.759999999999999,1
-1261,IND,7,6,5,Male,17,Not immigrant,0,6,3,8,1,8.176,-1
+1261,IND,7,6,5,Male,17,Not immigrant,0,6,3,8,1,8.176,0
 1262,IND,10,6,6,Female,40,Not immigrant,2,8,8,8,1,6.48,1
 1263,IND,6,7,7,Female,22,Not immigrant,0,6,7,7,3,7.52,1
 1264,IND,2,3,3,Male,66,Not immigrant,5,6,1,3,1,4.239999999999999,0
 1265,IND,6,5,6,Female,26,Not immigrant,0,6,8,10,4,7.720000000000001,1
 1266,IND,6,5,6,Female,26,Not immigrant,0,6,8,10,4,7.720000000000001,1
-1267,IND,6,10,10,Female,16,Not immigrant,0,4,3,10,1,6.4,-1
-1268,IND,10,10,10,Male,17,Not immigrant,0,5,3,7,1,6.4,-1
+1267,IND,6,10,10,Female,16,Not immigrant,0,4,3,10,1,6.4,0
+1268,IND,10,10,10,Male,17,Not immigrant,0,5,3,7,1,6.4,0
 1269,IND,10,10,1,Male,30,Not immigrant,1,1,3,10,4,6.4,1
 1270,IND,10,10,1,Male,23,Not immigrant,0,5,6,10,3,6.4,1
-1271,IND,4,10,10,Male,20,Not immigrant,0,5,3,8,1,6.4,-1
+1271,IND,4,10,10,Male,20,Not immigrant,0,5,3,8,1,6.4,0
 1272,IND,3,3,2,Male,56,Not immigrant,6,4,3,5,3,6.239999999999998,1
 1273,IND,10,10,1,Female,40,Not immigrant,4,4,1,10,4,6.4,1
 1274,IND,10,10,1,Female,45,Not immigrant,4,1,2,10,4,6.4,1
@@ -1291,21 +1291,21 @@
 1289,IND,8,9,7,Male,28,Not immigrant,0,7,6,6,3,7.6,1
 1290,IND,7,5,5,Female,19,Not immigrant,0,6,6,5,4,6.5600000000000005,1
 1291,IND,7,7,7,Female,23,Not immigrant,0,7,6,8,1,7.611428571428572,1
-1292,IND,3,9,5,Male,17,Not immigrant,0,1,3,4,3,4.3422222222222215,-1
+1292,IND,3,9,5,Male,17,Not immigrant,0,1,3,4,3,4.3422222222222215,0
 1293,IND,3,8,5,Female,20,Not immigrant,1,5,2,9,1,6.079999999999999,1
 1294,IND,10,7,7,Male,47,Not immigrant,2,4,3,10,2,4.959999999999999,1
 1295,IND,9,7,7,Male,24,Not immigrant,0,6,6,6,3,3.7599999999999993,1
 1296,IND,10,10,2,Female,71,Not immigrant,3,2,0,10,1,6.5600000000000005,1
-1297,IND,2,5,1,Male,20,Not immigrant,1,3,3,10,3,5.524444444444444,-1
+1297,IND,2,5,1,Male,20,Not immigrant,1,3,3,10,3,5.524444444444444,0
 1298,IND,7,5,3,Female,17,Not immigrant,0,8,3,9,3,5.759999999999999,1
-1299,IND,8,9,9,Male,16,Not immigrant,0,7,3,10,1,4.68,-1
+1299,IND,8,9,9,Male,16,Not immigrant,0,7,3,10,1,4.68,0
 1300,IND,7,9,6,Female,49,Not immigrant,1,4,0,8,1,5.12,1
 1301,IND,8,6,6,Male,74,Not immigrant,3,6,3,10,1,6.159999999999999,1
 1302,IND,1,8,3,Female,36,Not immigrant,2,7,3,9,1,5.08235294117647,1
 1303,IND,4,4,7,Female,17,Not immigrant,0,7,3,7,3,4.959999999999999,1
 1304,IND,5,7,7,Male,59,Not immigrant,3,5,3,8,1,3.92,1
 1305,IND,4,7,7,Male,40,Not immigrant,4,3,2,7,3,4.009411764705882,1
-1306,IND,9,8,5,Female,17,Not immigrant,0,7,3,8,3,8.936,-1
+1306,IND,9,8,5,Female,17,Not immigrant,0,7,3,8,3,8.936,0
 1307,IND,4,8,5,Male,59,Not immigrant,3,4,2,8,1,3.5822222222222218,1
 1308,IND,4,5,4,Female,51,Not immigrant,4,5,0,9,3,5.017777777777778,1
 1309,IND,8,9,7,Male,19,Not immigrant,0,5,6,4,2,4.88,1
@@ -1323,11 +1323,11 @@
 1321,IND,10,5,9,Male,36,Not immigrant,2,7,7,10,2,5.759999999999999,1
 1322,IND,2,9,9,Female,33,Not immigrant,0,9,7,2,4,8.0,1
 1323,IND,8,10,10,Male,77,Not immigrant,2,3,0,10,3,4.7384615384615385,1
-1324,IND,8,9,3,Female,17,Not immigrant,0,6,3,8,3,4.88,-1
+1324,IND,8,9,3,Female,17,Not immigrant,0,6,3,8,3,4.88,0
 1325,IND,10,8,9,Female,46,Not immigrant,2,8,7,7,1,5.759999999999999,1
 1326,IND,9,9,9,Male,59,Not immigrant,2,7,7,9,1,6.4,1
 1327,IND,10,8,4,Female,74,Not immigrant,3,1,0,10,2,5.725,1
-1328,IND,9,9,7,Female,18,Not immigrant,0,8,3,9,1,6.870588235294117,-1
+1328,IND,9,9,7,Female,18,Not immigrant,0,8,3,9,1,6.870588235294117,0
 1329,IND,10,10,1,Male,23,Not immigrant,0,5,7,10,2,6.368888888888888,1
 1330,IND,5,5,3,Male,44,Not immigrant,2,5,7,10,1,5.359999999999999,1
 1331,IND,1,1,10,Male,24,Not immigrant,0,6,3,8,3,6.4,1
@@ -1347,7 +1347,7 @@
 1345,IND,7,9,7,Female,36,Not immigrant,2,5,3,9,2,5.68,1
 1346,IND,8,9,7,Female,36,Not immigrant,2,8,6,8,4,4.426666666666666,1
 1347,IND,5,8,6,Female,29,Not immigrant,2,6,3,10,3,4.814117647058823,0
-1348,IND,10,5,8,Male,17,Not immigrant,0,3,3,10,2,8.947692307692309,-1
+1348,IND,10,5,8,Male,17,Not immigrant,0,3,3,10,2,8.947692307692309,0
 1349,IND,8,6,8,Male,34,Not immigrant,2,5,3,6,3,7.049411764705882,1
 1350,IND,10,10,5,Female,28,Not immigrant,4,4,1,10,1,3.92,1
 1351,IND,3,7,8,Male,57,Not immigrant,3,5,1,9,2,4.239999999999999,1
@@ -1357,8 +1357,8 @@
 1355,IND,4,9,7,Male,17,Not immigrant,0,7,3,10,1,5.6,0
 1356,IND,10,10,10,Female,19,Not immigrant,2,2,3,10,1,6.4,1
 1357,IND,5,9,9,Female,49,Not immigrant,2,9,7,2,3,7.840000000000001,1
-1358,IND,10,10,6,Female,23,Not immigrant,2,5,3,10,3,4.64,-1
-1359,IND,2,9,7,Male,17,Not immigrant,0,6,3,9,2,6.791111111111111,-1
+1358,IND,10,10,6,Female,23,Not immigrant,2,5,3,10,3,4.64,0
+1359,IND,2,9,7,Male,17,Not immigrant,0,6,3,9,2,6.791111111111111,0
 1360,IND,6,6,6,Female,54,Not immigrant,2,2,2,9,2,6.319999999999998,1
 1361,IND,9,10,3,Male,35,Not immigrant,1,7,4,4,3,3.0400000000000005,1
 1362,IND,8,8,8,Female,80,Not immigrant,2,8,0,7,1,5.693333333333334,1
@@ -1367,13 +1367,13 @@
 1365,IND,10,10,3,Male,33,Not immigrant,2,1,7,9,3,4.239999999999999,1
 1366,IND,3,9,9,Male,42,Not immigrant,2,8,3,7,3,4.68,1
 1367,IND,9,10,10,Female,23,Not immigrant,2,3,3,9,1,6.200000000000001,1
-1368,IND,10,10,6,Female,17,Not immigrant,0,5,3,7,3,5.693333333333334,-1
-1369,IND,5,8,10,Male,16,Not immigrant,0,7,3,10,1,5.68,-1
+1368,IND,10,10,6,Female,17,Not immigrant,0,5,3,7,3,5.693333333333334,0
+1369,IND,5,8,10,Male,16,Not immigrant,0,7,3,10,1,5.68,0
 1370,IND,7,5,5,Female,50,Not immigrant,1,8,2,1,1,6.4,1
 1371,IND,8,8,8,Male,49,Not immigrant,1,9,7,6,3,6.368888888888888,1
-1372,IND,5,4,6,Male,17,Not immigrant,0,6,3,1,3,7.585882352941177,-1
+1372,IND,5,4,6,Male,17,Not immigrant,0,6,3,1,3,7.585882352941177,0
 1373,IND,7,6,6,Male,37,Not immigrant,1,7,6,7,3,5.279999999999999,1
-1374,IND,9,8,8,Female,17,Not immigrant,0,8,3,7,3,7.625000000000001,-1
+1374,IND,9,8,8,Female,17,Not immigrant,0,8,3,7,3,7.625000000000001,0
 1375,IND,8,7,8,Male,18,Not immigrant,0,2,3,8,1,3.1999999999999993,1
 1376,IND,4,5,10,Male,18,Not immigrant,0,8,3,9,2,7.119999999999999,1
 1377,IND,7,8,7,Female,55,Not immigrant,3,4,3,4,4,6.4,1
@@ -1384,16 +1384,16 @@
 1382,IND,9,10,2,Male,47,Not immigrant,2,6,3,10,1,5.6,1
 1383,IND,1,10,10,Male,29,Not immigrant,0,6,6,8,1,4.5458823529411765,1
 1384,IND,5,8,7,Male,16,Not immigrant,0,7,3,4,4,7.530000000000001,1
-1385,IND,8,6,5,Female,17,Not immigrant,0,7,3,8,2,4.965,-1
+1385,IND,8,6,5,Female,17,Not immigrant,0,7,3,8,2,4.965,0
 1386,IND,10,7,2,Female,49,Not immigrant,3,2,0,10,3,5.519999999999999,1
 1387,IND,1,5,8,Male,50,Not immigrant,2,6,3,6,3,6.239999999999998,1
-1388,IND,9,8,7,Female,17,Not immigrant,0,7,3,9,3,5.946666666666665,-1
+1388,IND,9,8,7,Female,17,Not immigrant,0,7,3,9,3,5.946666666666665,0
 1389,IND,8,8,8,Male,17,Not immigrant,0,9,3,9,1,4.72,1
 1390,IND,5,5,5,Male,30,Not immigrant,1,8,6,5,1,4.098823529411764,1
 1391,IND,10,1,5,Male,31,Not immigrant,2,4,6,9,1,6.4,1
 1392,IND,10,10,1,Male,37,Not immigrant,2,3,3,3,3,4.959999999999999,1
 1393,IND,3,8,8,Male,25,Not immigrant,0,5,7,8,2,3.9999999999999996,1
-1394,IND,8,9,9,Female,16,Not immigrant,0,8,3,2,3,7.760000000000002,-1
+1394,IND,8,9,9,Female,16,Not immigrant,0,8,3,2,3,7.760000000000002,0
 1395,IND,7,7,6,Male,24,Not immigrant,0,8,6,4,4,6.880000000000001,1
 1396,IND,6,3,7,Female,16,Not immigrant,0,3,3,3,4,6.4,1
 1397,IND,8,6,5,Male,56,Not immigrant,2,7,2,5,2,6.105,1
@@ -1404,9 +1404,9 @@
 1402,IND,5,8,7,Female,27,Not immigrant,2,7,6,8,1,6.295000000000001,1
 1403,IND,10,10,2,Male,17,Not immigrant,0,3,3,6,3,4.08,1
 1404,IND,6,6,5,Female,43,Not immigrant,2,5,7,6,2,5.999999999999999,1
-1405,IND,10,5,8,Female,18,Not immigrant,0,5,3,10,3,8.385,-1
-1406,IND,10,10,10,Male,62,Not immigrant,3,5,6,10,4,6.4,-1
-1407,IND,8,5,10,Female,19,Not immigrant,0,5,4,10,1,5.4399999999999995,-1
+1405,IND,10,5,8,Female,18,Not immigrant,0,5,3,10,3,8.385,0
+1406,IND,10,10,10,Male,62,Not immigrant,3,5,6,10,4,6.4,0
+1407,IND,8,5,10,Female,19,Not immigrant,0,5,4,10,1,5.4399999999999995,0
 1408,IND,10,8,9,Male,30,Not immigrant,0,8,6,6,3,1.2800000000000007,0
 1409,IND,3,8,8,Male,36,Not immigrant,2,4,6,8,2,4.72,1
 1410,IND,10,10,3,Male,39,Not immigrant,4,8,3,10,1,6.48,1
@@ -1416,7 +1416,7 @@
 1414,IND,10,10,10,Male,16,Not immigrant,0,3,6,10,3,4.959999999999999,1
 1415,IND,9,9,9,Female,50,Not immigrant,2,8,7,8,1,6.2844444444444445,1
 1416,IND,9,9,8,Male,17,Not immigrant,0,3,2,7,2,4.72,1
-1417,IND,6,5,7,Male,16,Not immigrant,0,6,2,6,3,7.04,-1
+1417,IND,6,5,7,Male,16,Not immigrant,0,6,2,6,3,7.04,0
 1418,IND,4,8,8,Male,41,Not immigrant,1,2,0,3,1,4.5600000000000005,1
 1419,IND,8,8,8,Male,23,Not immigrant,0,7,6,9,3,2.7199999999999993,1
 1420,IND,10,10,8,Male,34,Not immigrant,2,5,3,10,1,5.759999999999999,1
@@ -1426,21 +1426,21 @@
 1424,IND,5,8,7,Male,76,Not immigrant,3,6,0,4,4,8.385,1
 1425,IND,4,5,3,Male,39,Not immigrant,1,3,3,4,1,3.92,1
 1426,IND,6,10,7,Female,28,Not immigrant,2,4,3,10,3,6.334117647058823,1
-1427,IND,6,10,7,Female,20,Not immigrant,0,6,6,10,3,6.4,-1
+1427,IND,6,10,7,Female,20,Not immigrant,0,6,6,10,3,6.4,0
 1428,IND,3,5,4,Female,61,Not immigrant,3,4,0,10,1,5.350588235294118,1
 1429,IND,10,6,3,Female,70,Not immigrant,3,6,0,10,1,5.519999999999999,1
 1430,IND,8,9,8,Female,24,Not immigrant,1,6,4,6,2,6.239999999999998,1
 1431,IND,3,10,4,Male,18,Not immigrant,0,4,4,10,3,6.079999999999999,1
 1432,IND,4,8,8,Male,46,Not immigrant,0,4,0,7,2,4.3422222222222215,1
 1433,IND,9,9,7,Female,27,Not immigrant,2,3,3,8,2,5.4399999999999995,1
-1434,IND,8,10,10,Female,16,Not immigrant,0,7,3,7,3,5.4399999999999995,-1
-1435,IND,7,6,1,Male,16,Not immigrant,0,4,3,9,2,7.340000000000001,-1
+1434,IND,8,10,10,Female,16,Not immigrant,0,7,3,7,3,5.4399999999999995,0
+1435,IND,7,6,1,Male,16,Not immigrant,0,4,3,9,2,7.340000000000001,0
 1436,IND,2,3,5,Male,33,Not immigrant,0,1,3,5,1,5.12,1
 1437,IND,6,7,7,Male,43,Not immigrant,0,9,3,7,4,2.08,1
 1438,IND,10,9,10,Male,75,Not immigrant,0,4,1,10,3,2.8000000000000007,1
-1439,IND,10,9,10,Male,17,Not immigrant,0,6,4,9,1,5.338666666666667,-1
+1439,IND,10,9,10,Male,17,Not immigrant,0,6,4,9,1,5.338666666666667,0
 1440,IND,3,7,6,Female,54,Not immigrant,3,5,0,10,3,5.4399999999999995,1
-1441,IND,10,5,6,Female,16,Not immigrant,0,7,3,7,2,5.529411764705882,-1
+1441,IND,10,5,6,Female,16,Not immigrant,0,7,3,7,2,5.529411764705882,0
 1442,IND,1,1,2,Male,17,Not immigrant,0,1,3,2,1,4.799999999999999,1
 1443,IND,6,6,6,Female,44,Not immigrant,2,3,0,9,3,6.200000000000001,1
 1444,IND,9,10,10,Male,39,Not immigrant,2,3,3,8,3,5.4399999999999995,1
@@ -1450,16 +1450,16 @@
 1448,IND,5,4,6,Female,39,Not immigrant,2,4,1,5,1,4.32,1
 1449,IND,8,6,6,Female,45,Not immigrant,2,6,3,10,1,6.48,1
 1450,IND,1,1,2,Male,17,Not immigrant,0,2,3,2,4,4.88,0
-1451,IND,10,5,5,Male,16,Not immigrant,0,3,3,10,2,5.359999999999999,-1
+1451,IND,10,5,5,Male,16,Not immigrant,0,3,3,10,2,5.359999999999999,0
 1452,IND,10,7,7,Male,45,Not immigrant,3,7,6,9,1,6.334117647058823,1
 1453,IND,4,8,6,Male,68,Not immigrant,2,6,2,10,4,6.675000000000001,1
 1454,IND,7,8,4,Female,40,Not immigrant,2,4,0,10,2,6.368888888888888,1
 1455,IND,6,7,7,Male,16,Not immigrant,0,5,3,8,4,7.4350000000000005,1
 1456,IND,1,3,4,Female,17,Not immigrant,0,8,3,1,1,5.199999999999999,1
-1457,IND,4,10,10,Female,17,Not immigrant,0,7,3,6,4,6.2447058823529416,-1
+1457,IND,4,10,10,Female,17,Not immigrant,0,7,3,6,4,6.2447058823529416,0
 1458,IND,7,7,8,Male,56,Not immigrant,2,9,2,8,3,5.359999999999999,1
 1459,IND,3,5,3,Female,22,Not immigrant,0,2,6,3,2,4.239999999999999,0
-1460,IND,5,10,3,Male,23,Not immigrant,0,3,3,8,1,5.6,-1
+1460,IND,5,10,3,Male,23,Not immigrant,0,3,3,8,1,5.6,0
 1461,IND,5,5,5,Female,44,Not immigrant,2,7,3,10,1,5.840000000000001,1
 1462,IND,6,8,5,Male,66,Not immigrant,2,6,0,7,3,6.239999999999998,1
 1463,IND,9,9,8,Male,16,Not immigrant,0,3,3,8,4,5.199999999999999,1
@@ -1486,7 +1486,7 @@
 1484,IND,8,9,10,Female,16,Not immigrant,0,8,3,9,3,5.68,1
 1485,IND,2,5,5,Male,22,Not immigrant,0,4,3,10,3,4.4,1
 1486,IND,8,9,3,Female,72,Not immigrant,0,1,0,9,1,7.0685714285714285,1
-1487,IND,5,3,8,Male,17,Not immigrant,0,6,3,5,3,4.32,-1
+1487,IND,5,3,8,Male,17,Not immigrant,0,6,3,5,3,4.32,0
 1488,IND,9,8,7,Female,16,Not immigrant,0,4,3,8,4,4.88,0
 1489,IND,10,10,10,Male,50,Not immigrant,2,3,3,10,1,6.719999999999998,1
 1490,IND,7,5,7,Female,21,Not immigrant,0,5,6,6,2,7.280000000000001,0
@@ -1502,7 +1502,7 @@
 1500,IND,10,3,4,Male,53,Not immigrant,5,1,3,2,1,5.919999999999999,1
 1501,IND,5,4,4,Female,42,Not immigrant,4,3,1,1,3,4.367058823529411,1
 1502,IND,5,8,6,Male,35,Not immigrant,2,3,2,8,3,4.239999999999999,1
-1503,IND,4,8,4,Male,60,Not immigrant,2,4,0,5,1,3.9999999999999996,-1
+1503,IND,4,8,4,Male,60,Not immigrant,2,4,0,5,1,3.9999999999999996,0
 1504,IND,9,10,9,Male,65,Not immigrant,3,4,2,7,2,5.519999999999999,1
 1505,IND,7,1,8,Female,60,Not immigrant,2,7,1,10,3,6.960000000000001,1
 1506,IND,8,10,8,Male,46,Not immigrant,3,10,3,9,3,5.759999999999999,1
@@ -1511,7 +1511,7 @@
 1509,IND,4,7,8,Female,43,Not immigrant,2,8,3,10,1,5.777777777777778,1
 1510,IND,8,8,8,Female,52,Not immigrant,6,8,0,10,1,6.960000000000001,1
 1511,IND,3,4,3,Female,36,Not immigrant,2,2,2,3,1,4.239999999999999,1
-1512,IND,10,10,8,Male,16,Not immigrant,0,3,3,10,3,4.959999999999999,-1
+1512,IND,10,10,8,Male,16,Not immigrant,0,3,3,10,3,4.959999999999999,0
 1513,IND,9,10,10,Male,25,Not immigrant,2,8,3,7,2,3.9999999999999996,1
 1514,IND,10,10,10,Female,75,Not immigrant,4,8,0,10,1,6.4,1
 1515,IND,7,8,8,Male,30,Not immigrant,2,7,3,9,1,4.799999999999999,1
@@ -1527,11 +1527,11 @@
 1525,IND,9,8,8,Female,50,Not immigrant,2,6,1,6,3,6.64,1
 1526,IND,9,8,6,Female,34,Not immigrant,2,5,0,10,1,7.502857142857144,1
 1527,IND,6,7,7,Male,25,Not immigrant,1,8,6,8,2,2.315555555555556,1
-1528,IND,10,10,5,Male,18,Not immigrant,0,3,4,1,4,7.840000000000001,-1
+1528,IND,10,10,5,Male,18,Not immigrant,0,3,4,1,4,7.840000000000001,0
 1529,IND,2,4,2,Female,50,Not immigrant,2,3,0,2,1,3.8400000000000003,1
 1530,IND,8,8,8,Male,17,Not immigrant,0,4,3,7,3,4.595555555555555,0
 1531,IND,10,10,10,Female,45,Not immigrant,3,7,6,10,1,6.4,1
-1532,IND,6,9,8,Male,17,Not immigrant,0,10,4,10,2,5.359999999999999,-1
+1532,IND,6,9,8,Male,17,Not immigrant,0,10,4,10,2,5.359999999999999,0
 1533,IND,9,8,8,Female,35,Not immigrant,2,3,2,10,1,6.4,1
 1534,IND,10,3,6,Female,34,Not immigrant,3,7,3,10,1,5.171764705882353,1
 1535,IND,4,4,4,Female,50,Not immigrant,3,8,3,9,1,5.999999999999999,1
@@ -1555,14 +1555,14 @@
 1553,IND,5,5,3,Female,71,Not immigrant,5,6,1,10,1,6.079999999999999,1
 1554,IND,5,9,9,Female,38,Not immigrant,2,7,3,10,1,6.200000000000001,1
 1555,IND,10,7,8,Female,35,Not immigrant,2,5,3,10,1,4.64,1
-1556,IND,5,4,4,Female,18,Not immigrant,0,5,3,6,1,3.6,-1
-1557,IND,7,9,8,Male,16,Not immigrant,0,2,3,8,3,5.279999999999999,-1
+1556,IND,5,4,4,Female,18,Not immigrant,0,5,3,6,1,3.6,0
+1557,IND,7,9,8,Male,16,Not immigrant,0,2,3,8,3,5.279999999999999,0
 1558,IND,7,7,7,Female,57,Not immigrant,2,8,0,8,1,6.0311111111111115,1
 1559,IND,7,7,7,Female,17,Not immigrant,0,8,4,6,2,3.1999999999999993,1
 1560,IND,3,2,7,Female,47,Not immigrant,1,3,3,2,3,3.1999999999999993,1
 1561,IND,5,10,10,Male,35,Not immigrant,2,8,3,10,1,6.4,1
 1562,IND,8,6,3,Female,32,Not immigrant,1,5,1,8,3,4.4799999999999995,1
-1563,IND,9,10,7,Female,16,Not immigrant,0,3,3,8,3,4.959999999999999,-1
+1563,IND,9,10,7,Female,16,Not immigrant,0,3,3,8,3,4.959999999999999,0
 1564,IND,10,10,10,Female,17,Not immigrant,0,4,6,10,2,6.4,1
 1565,IND,10,10,10,Female,30,Not immigrant,1,7,6,6,2,1.7599999999999991,1
 1566,IND,3,6,2,Female,53,Not immigrant,1,2,2,3,4,4.4,1
@@ -1571,9 +1571,9 @@
 1569,IND,2,4,3,Male,45,Not immigrant,2,2,8,3,4,3.7599999999999993,1
 1570,IND,7,3,8,Male,44,Not immigrant,3,8,4,4,1,4.959999999999999,1
 1571,IND,5,7,8,Male,18,Not immigrant,0,7,3,10,4,2.4844444444444442,0
-1572,IND,6,10,10,Male,17,Not immigrant,0,8,3,10,1,6.4,-1
+1572,IND,6,10,10,Male,17,Not immigrant,0,8,3,10,1,6.4,0
 1573,IND,5,6,5,Male,20,Not immigrant,0,5,6,6,1,6.239999999999998,1
-1574,IND,7,7,6,Male,17,Not immigrant,0,4,3,8,4,4.098823529411764,-1
+1574,IND,7,7,6,Male,17,Not immigrant,0,4,3,8,4,4.098823529411764,0
 1575,IND,10,3,4,Female,44,Not immigrant,1,4,3,10,3,6.5600000000000005,1
 1576,IND,1,1,4,Female,24,Not immigrant,2,7,3,8,1,5.279999999999999,1
 1577,IND,7,5,9,Male,67,Not immigrant,3,7,2,5,3,6.079999999999999,1
@@ -1581,7 +1581,7 @@
 1579,IND,8,8,8,Female,17,Not immigrant,0,6,3,10,1,5.840000000000001,1
 1580,IND,10,5,10,Male,28,Not immigrant,0,5,6,10,2,7.199999999999999,1
 1581,IND,9,9,9,Male,48,Not immigrant,2,3,3,6,2,5.039999999999999,1
-1582,IND,3,4,4,Female,16,Not immigrant,0,4,2,7,3,4.764444444444444,-1
+1582,IND,3,4,4,Female,16,Not immigrant,0,4,2,7,3,4.764444444444444,0
 1583,IND,3,8,8,Male,57,Not immigrant,0,4,1,8,3,4.965,1
 1584,IND,10,7,3,Male,19,Not immigrant,0,5,6,7,4,4.799999999999999,0
 1585,IND,4,6,6,Female,23,Not immigrant,1,5,1,10,1,4.814117647058823,1
@@ -1596,33 +1596,33 @@
 1594,IND,9,7,6,Female,29,Not immigrant,1,5,3,10,1,5.797647058823529,1
 1595,IND,4,6,5,Female,45,Not immigrant,2,10,0,10,1,5.4399999999999995,1
 1596,IND,10,10,8,Male,34,Not immigrant,2,3,3,10,3,6.719999999999998,1
-1597,IND,8,10,10,Male,16,Not immigrant,0,8,3,9,1,6.843076923076923,-1
-1598,IND,7,10,8,Female,18,Not immigrant,0,5,3,7,3,6.580000000000001,-1
+1597,IND,8,10,10,Male,16,Not immigrant,0,8,3,9,1,6.843076923076923,0
+1598,IND,7,10,8,Female,18,Not immigrant,0,5,3,7,3,6.580000000000001,0
 1599,IND,8,9,8,Male,31,Not immigrant,2,7,3,10,2,5.68,1
 1600,IND,8,8,8,Female,31,Not immigrant,0,7,3,3,1,4.959999999999999,1
-1601,IND,6,10,7,Female,17,Not immigrant,0,7,3,10,1,5.68,-1
+1601,IND,6,10,7,Female,17,Not immigrant,0,7,3,10,1,5.68,0
 1602,IND,10,10,10,Male,16,Not immigrant,0,5,4,9,2,6.4,1
 1603,IND,3,8,9,Male,47,Not immigrant,2,8,7,8,2,5.946666666666665,1
 1604,IND,10,10,1,Male,27,Not immigrant,0,3,6,6,3,6.4,1
-1605,IND,7,5,6,Female,16,Not immigrant,0,4,2,6,1,6.799999999999998,-1
-1606,IND,6,6,9,Male,16,Not immigrant,0,8,3,8,1,4.64,-1
+1605,IND,7,5,6,Female,16,Not immigrant,0,4,2,6,1,6.799999999999998,0
+1606,IND,6,6,9,Male,16,Not immigrant,0,8,3,8,1,4.64,0
 1607,IND,7,8,8,Female,37,Not immigrant,2,7,2,10,1,5.271111111111112,1
-1608,IND,7,7,6,Male,23,Not immigrant,0,7,6,6,3,6.4,-1
+1608,IND,7,7,6,Male,23,Not immigrant,0,7,6,6,3,6.4,0
 1609,IND,4,8,7,Male,57,Not immigrant,2,4,1,8,3,3.6799999999999997,1
 1610,IND,10,10,8,Male,40,Not immigrant,2,6,7,10,2,5.359999999999999,1
-1611,IND,8,8,7,Female,16,Not immigrant,0,5,3,10,1,6.4,-1
+1611,IND,8,8,7,Female,16,Not immigrant,0,5,3,10,1,6.4,0
 1612,IND,7,8,8,Female,50,Not immigrant,3,5,0,6,1,5.68,1
 1613,IND,9,9,9,Female,17,Not immigrant,0,5,3,9,1,6.159999999999999,1
 1614,IND,9,7,7,Female,46,Not immigrant,3,5,0,10,1,5.017777777777778,1
 1615,IND,4,8,8,Male,41,Not immigrant,2,2,2,7,3,4.3422222222222215,1
 1616,IND,7,7,7,Female,22,Not immigrant,0,4,6,8,1,6.880000000000001,1
 1617,IND,2,7,4,Male,43,Not immigrant,2,2,3,6,4,4.64,1
-1618,IND,8,8,8,Female,16,Not immigrant,0,6,3,9,3,5.759999999999999,-1
+1618,IND,8,8,8,Female,16,Not immigrant,0,6,3,9,3,5.759999999999999,0
 1619,IND,8,8,10,Female,36,Not immigrant,1,8,3,9,3,6.159999999999999,1
 1620,IND,10,5,6,Male,25,Not immigrant,0,5,6,9,1,6.799999999999998,1
 1621,IND,1,7,6,Female,63,Not immigrant,3,6,0,9,1,5.840000000000001,1
 1622,IND,10,10,10,Male,28,Not immigrant,0,1,7,10,3,7.840000000000001,1
-1623,IND,10,9,5,Female,17,Not immigrant,0,4,3,10,3,5.68,-1
+1623,IND,10,9,5,Female,17,Not immigrant,0,4,3,10,3,5.68,0
 1624,IND,8,7,6,Male,17,Not immigrant,0,5,3,10,2,6.64,1
 1625,IND,10,6,1,Male,47,Not immigrant,2,4,1,7,1,7.4276923076923085,1
 1626,IND,10,9,9,Female,46,Not immigrant,2,5,3,10,1,6.4,1
@@ -1630,21 +1630,21 @@
 1628,IND,10,8,8,Male,57,Not immigrant,2,6,3,7,2,5.946666666666665,1
 1629,IND,8,8,8,Female,19,Not immigrant,0,8,3,8,2,6.64,1
 1630,IND,10,10,10,Male,70,Not immigrant,3,2,0,10,3,5.6,1
-1631,IND,10,7,10,Female,16,Not immigrant,0,9,3,8,1,3.9999999999999996,-1
+1631,IND,10,7,10,Female,16,Not immigrant,0,9,3,8,1,3.9999999999999996,0
 1632,IND,10,8,7,Male,51,Not immigrant,1,5,3,9,1,4.764444444444444,1
 1633,IND,9,8,6,Male,32,Not immigrant,0,9,0,10,1,6.960000000000001,1
 1634,IND,7,7,7,Female,48,Not immigrant,3,5,0,10,1,6.079999999999999,1
 1635,IND,5,5,5,Female,31,Not immigrant,2,5,2,4,2,5.4399999999999995,1
 1636,IND,8,8,7,Male,66,Not immigrant,4,6,6,10,1,5.840000000000001,1
-1637,IND,5,5,5,Female,16,Not immigrant,0,5,3,10,2,5.999999999999999,-1
-1638,IND,10,10,10,Male,16,Not immigrant,0,4,3,10,3,5.68,-1
+1637,IND,5,5,5,Female,16,Not immigrant,0,5,3,10,2,5.999999999999999,0
+1638,IND,10,10,10,Male,16,Not immigrant,0,4,3,10,3,5.68,0
 1639,IND,10,10,9,Female,34,Not immigrant,3,9,3,10,3,6.4,0
 1640,IND,10,10,9,Female,46,Not immigrant,2,8,0,10,1,5.759999999999999,1
 1641,IND,7,5,5,Female,30,Not immigrant,3,6,2,4,2,5.999999999999999,1
-1642,IND,3,1,1,Female,17,Not immigrant,0,4,2,7,3,6.799999999999998,-1
-1643,IND,10,10,10,Male,18,Not immigrant,0,3,3,7,3,4.08,-1
+1642,IND,3,1,1,Female,17,Not immigrant,0,4,2,7,3,6.799999999999998,0
+1643,IND,10,10,10,Male,18,Not immigrant,0,3,3,7,3,4.08,0
 1644,IND,8,6,6,Male,32,Not immigrant,2,4,1,5,4,6.390000000000001,1
-1645,IND,9,9,9,Female,16,Not immigrant,0,7,3,3,3,7.360000000000001,-1
+1645,IND,9,9,9,Female,16,Not immigrant,0,7,3,3,3,7.360000000000001,0
 1646,IND,8,6,9,Female,54,Not immigrant,1,8,2,10,2,6.453333333333332,1
 1647,IND,3,8,8,Male,28,Not immigrant,1,5,7,1,1,3.92,1
 1648,IND,7,7,5,Male,43,Not immigrant,2,5,3,7,3,5.68,1
@@ -1666,29 +1666,29 @@
 1664,IND,9,10,8,Female,40,Not immigrant,4,5,2,10,1,5.519999999999999,1
 1665,IND,8,6,8,Male,24,Not immigrant,0,4,6,3,3,5.4399999999999995,1
 1666,IND,10,10,10,Male,38,Not immigrant,2,8,6,10,1,4.88,1
-1667,IND,7,4,9,Female,16,Not immigrant,0,8,3,7,1,7.360000000000001,-1
+1667,IND,7,4,9,Female,16,Not immigrant,0,8,3,7,1,7.360000000000001,0
 1668,IND,5,6,6,Male,60,Not immigrant,2,6,3,1,2,6.960000000000001,1
 1669,IND,5,10,10,Male,16,Not immigrant,0,4,3,1,1,5.68,0
 1670,IND,8,9,9,Female,62,Not immigrant,3,5,0,10,1,4.257777777777777,1
 1671,IND,10,8,8,Female,70,Not immigrant,2,7,0,10,1,6.4,1
-1672,IND,4,7,6,Female,17,Not immigrant,0,6,4,7,2,5.999999999999999,-1
+1672,IND,4,7,6,Female,17,Not immigrant,0,6,4,7,2,5.999999999999999,0
 1673,IND,2,10,10,Male,51,Not immigrant,2,8,6,8,1,6.960000000000001,1
 1674,IND,8,8,9,Male,35,Not immigrant,2,7,6,7,4,5.199999999999999,1
 1675,IND,6,8,9,Female,42,Not immigrant,3,7,3,9,2,6.2447058823529416,1
 1676,IND,10,10,10,Female,35,Not immigrant,2,8,1,10,1,6.4,1
 1677,IND,9,10,6,Male,84,Not immigrant,4,3,1,10,1,6.960000000000001,1
 1678,IND,8,7,7,Male,40,Not immigrant,3,5,0,6,1,6.368888888888888,1
-1679,IND,4,6,6,Male,16,Not immigrant,0,5,3,10,2,6.851428571428572,-1
+1679,IND,4,6,6,Male,16,Not immigrant,0,5,3,10,2,6.851428571428572,0
 1680,IND,3,3,4,Female,27,Not immigrant,2,3,3,10,3,6.159999999999999,1
 1681,IND,8,9,7,Female,35,Not immigrant,2,5,0,1,1,5.4399999999999995,0
 1682,IND,4,8,8,Female,28,Not immigrant,2,4,6,10,3,5.708235294117647,1
-1683,IND,3,3,3,Female,16,Not immigrant,0,2,2,8,1,6.719999999999998,-1
+1683,IND,3,3,3,Female,16,Not immigrant,0,2,2,8,1,6.719999999999998,0
 1684,IND,7,10,5,Male,55,Not immigrant,3,5,2,10,1,5.862222222222222,1
 1685,IND,8,10,10,Female,22,Not immigrant,0,4,6,9,2,6.2844444444444445,0
 1686,IND,9,9,7,Male,25,Not immigrant,0,9,6,8,1,6.453333333333332,1
 1687,IND,2,10,10,Male,24,Not immigrant,0,5,6,6,2,6.239999999999998,1
-1688,IND,10,7,6,Female,16,Not immigrant,0,3,3,10,1,6.2844444444444445,-1
-1689,IND,10,3,7,Female,16,Not immigrant,0,3,3,10,1,7.044444444444444,-1
+1688,IND,10,7,6,Female,16,Not immigrant,0,3,3,10,1,6.2844444444444445,0
+1689,IND,10,3,7,Female,16,Not immigrant,0,3,3,10,1,7.044444444444444,0
 1690,IND,3,8,8,Female,21,Not immigrant,2,5,6,8,3,7.04,1
 1691,IND,8,6,5,Male,40,Not immigrant,2,3,0,8,4,5.017777777777778,1
 0,USA,7,4,2,Female,43,Not immigrant,6,3,4,10,1,7.262737093278913,1
@@ -1696,7 +1696,7 @@
 2,USA,10,10,10,Female,48,Not immigrant,2,1,3,10,1,9.117647058823529,0
 3,USA,10,8,7,Female,49,Not immigrant,3,1,3,10,1,7.708978328173375,0
 4,USA,4,7,5,Female,20,Not immigrant,0,5,3,10,2,7.956656346749226,0
-5,USA,10,10,10,Male,27,Not immigrant,0,1,3,1,4,7.213622291021672,-1
+5,USA,10,10,10,Male,27,Not immigrant,0,1,3,1,4,7.213622291021672,0
 6,USA,3,7,9,Male,41,Not immigrant,4,6,5,1,4,8.266253869969042,1
 7,USA,8,10,10,Female,52,Not immigrant,3,10,5,10,1,5.913312693498452,1
 8,USA,4,7,1,Female,24,Not immigrant,0,5,4,10,1,6.842105263157896,0
@@ -1719,27 +1719,27 @@
 25,USA,10,7,5,Male,37,Not immigrant,1,6,7,10,1,6.470588235294118,1
 26,USA,8,8,6,Female,35,Not immigrant,1,2,3,10,1,6.842105263157896,1
 27,USA,10,10,7,Female,29,Immigrant,0,4,4,10,2,5.541795665634674,0
-28,USA,10,3,2,Female,34,Not immigrant,3,2,3,9,4,5.046439628482973,-1
+28,USA,10,3,2,Female,34,Not immigrant,3,2,3,9,4,5.046439628482973,0
 29,USA,7,8,5,Female,33,Not immigrant,0,5,4,10,1,6.53250773993808,1
 30,USA,4,5,5,Male,35,Not immigrant,0,3,4,10,1,6.470588235294118,1
 31,USA,10,6,3,Male,29,Not immigrant,0,5,4,4,2,6.656346749226007,1
-32,USA,10,10,10,Male,27,Not immigrant,0,5,3,5,2,4.984520123839009,-1
+32,USA,10,10,10,Male,27,Not immigrant,0,5,3,5,2,4.984520123839009,0
 33,USA,9,7,6,Female,31,Not immigrant,1,3,4,1,4,8.266253869969042,1
 34,USA,4,4,2,Male,22,Not immigrant,0,3,3,3,3,7.3993808049535605,0
 35,USA,8,9,9,Female,29,Not immigrant,2,6,3,10,1,7.461300309597523,0
-36,USA,10,7,6,Female,60,Not immigrant,4,6,3,10,1,8.169934640522875,-1
+36,USA,10,7,6,Female,60,Not immigrant,4,6,3,10,1,8.169934640522875,0
 37,USA,5,5,5,Male,39,Not immigrant,0,5,5,5,4,5.356037151702786,0
 38,USA,10,8,10,Male,40,Not immigrant,1,6,4,5,4,4.984520123839009,1
 39,USA,8,4,4,Female,39,Not immigrant,3,3,3,8,1,7.708978328173375,1
 40,USA,1,1,1,Female,24,Not immigrant,2,5,5,10,4,5.727554179566563,1
-41,USA,1,5,1,Male,31,Not immigrant,4,5,5,5,1,4.984520123839009,-1
+41,USA,1,5,1,Male,31,Not immigrant,4,5,5,5,1,4.984520123839009,0
 42,USA,9,8,5,Male,65,Not immigrant,2,8,6,10,1,7.089783281733746,1
 43,USA,1,5,3,Female,42,Not immigrant,4,5,3,5,2,6.284829721362229,1
 44,USA,8,7,5,Female,23,Not immigrant,2,1,3,10,2,7.151702786377708,0
 45,USA,8,9,8,Female,36,Not immigrant,2,5,7,7,2,7.647058823529412,1
 46,USA,10,7,8,Female,53,Not immigrant,5,8,3,7,1,6.3467492260061915,1
-47,USA,7,7,7,Female,30,Not immigrant,3,5,3,5,1,4.984520123839009,-1
-48,USA,6,6,7,Female,18,Not immigrant,0,6,4,6,2,4.055727554179566,-1
+47,USA,7,7,7,Female,30,Not immigrant,3,5,3,5,1,4.984520123839009,0
+48,USA,6,6,7,Female,18,Not immigrant,0,6,4,6,2,4.055727554179566,0
 49,USA,7,7,7,Male,64,Not immigrant,2,4,3,8,1,7.093425605536332,1
 50,USA,1,7,5,Female,52,Not immigrant,0,10,4,10,1,4.365325077399381,1
 51,USA,5,3,7,Male,55,Not immigrant,0,8,4,10,1,6.284829721362229,1
@@ -1752,7 +1752,7 @@
 58,USA,5,5,5,Female,46,Not immigrant,4,6,4,8,2,6.842105263157896,1
 59,USA,10,7,7,Female,24,Not immigrant,0,5,3,10,2,7.461300309597523,1
 60,USA,5,9,1,Female,64,Not immigrant,4,1,5,10,2,5.541795665634674,1
-61,USA,10,9,9,Male,34,Not immigrant,2,1,5,8,3,6.842105263157896,-1
+61,USA,10,9,9,Male,34,Not immigrant,2,1,5,8,3,6.842105263157896,0
 62,USA,5,7,4,Male,49,Not immigrant,0,5,3,8,1,7.213622291021672,1
 63,USA,5,5,5,Female,24,Not immigrant,0,5,5,5,4,6.470588235294118,1
 64,USA,10,9,6,Female,55,Not immigrant,0,4,3,8,1,8.51393188854489,0
@@ -1774,12 +1774,12 @@
 80,USA,3,4,1,Male,36,Not immigrant,3,1,4,1,4,5.6037151702786385,1
 81,USA,7,5,1,Female,21,Not immigrant,1,5,3,5,2,7.523219814241486,0
 82,USA,10,6,10,Male,58,Not immigrant,0,6,3,10,1,5.479876160990712,1
-83,USA,10,8,6,Male,22,Not immigrant,0,5,3,5,1,6.284829721362229,-1
+83,USA,10,8,6,Male,22,Not immigrant,0,5,3,5,1,6.284829721362229,0
 84,USA,9,9,1,Female,40,Not immigrant,5,6,3,10,1,7.337461300309597,1
-85,USA,4,3,2,Female,39,Not immigrant,3,2,3,6,2,6.7182662538699685,-1
+85,USA,4,3,2,Female,39,Not immigrant,3,2,3,6,2,6.7182662538699685,0
 86,USA,8,9,7,Male,43,Not immigrant,5,3,4,10,2,8.018575851393189,1
 87,USA,7,7,4,Female,34,Not immigrant,2,3,4,9,2,7.089783281733746,1
-88,USA,10,10,5,Male,35,Not immigrant,3,5,4,10,1,8.266253869969042,-1
+88,USA,10,10,5,Male,35,Not immigrant,3,5,4,10,1,8.266253869969042,0
 89,USA,8,9,1,Female,71,Not immigrant,2,1,3,10,1,7.523219814241486,1
 90,USA,10,7,6,Female,31,Not immigrant,1,3,3,10,1,6.904024767801857,1
 91,USA,3,3,1,Female,33,Not immigrant,1,1,5,8,1,7.3993808049535605,1
@@ -1790,7 +1790,7 @@
 96,USA,8,8,8,Female,31,Not immigrant,5,2,3,7,4,5.727554179566563,0
 97,USA,8,8,6,Female,24,Not immigrant,2,5,3,9,1,6.53250773993808,1
 98,USA,10,10,6,Female,33,Immigrant,3,5,3,10,2,6.842105263157896,0
-99,USA,8,8,8,Male,43,Not immigrant,1,4,2,10,2,6.7182662538699685,-1
+99,USA,8,8,8,Male,43,Not immigrant,1,4,2,10,2,6.7182662538699685,0
 100,USA,9,10,10,Male,42,Not immigrant,2,6,3,10,1,6.470588235294118,1
 101,USA,10,8,8,Male,30,Not immigrant,2,7,4,1,4,6.222910216718267,0
 102,USA,10,10,10,Female,89,Not immigrant,3,3,3,10,1,7.832817337461299,1
@@ -1802,8 +1802,8 @@
 108,USA,3,4,5,Female,42,Not immigrant,3,1,2,8,1,5.170278637770898,1
 109,USA,4,5,5,Female,30,Not immigrant,1,4,3,9,3,4.613003095975233,1
 110,USA,5,4,2,Male,26,Not immigrant,0,1,3,2,4,6.594427244582043,0
-111,USA,5,2,3,Male,26,Not immigrant,0,3,3,10,4,6.780185758513932,-1
-112,USA,4,4,4,Female,18,Not immigrant,3,2,4,10,3,6.0130718954248366,-1
+111,USA,5,2,3,Male,26,Not immigrant,0,3,3,10,4,6.780185758513932,0
+112,USA,4,4,4,Female,18,Not immigrant,3,2,4,10,3,6.0130718954248366,0
 113,USA,8,7,10,Male,28,Not immigrant,0,4,5,1,4,8.51393188854489,1
 114,USA,5,6,5,Male,51,Not immigrant,0,5,3,1,4,8.452012383900929,1
 115,USA,10,10,8,Female,81,Not immigrant,3,1,3,10,1,4.613003095975233,1
@@ -1824,14 +1824,14 @@
 130,USA,1,10,10,Female,61,Not immigrant,3,10,3,10,1,3.8699690402476783,1
 131,USA,10,10,10,Male,22,Not immigrant,0,3,3,10,1,4.489164086687307,0
 132,USA,10,6,6,Male,65,Not immigrant,0,10,5,10,1,7.213622291021672,1
-133,USA,10,8,6,Female,28,Immigrant,2,5,5,5,2,8.266253869969042,-1
+133,USA,10,8,6,Female,28,Immigrant,2,5,5,5,2,8.266253869969042,0
 134,USA,7,8,3,Male,45,Not immigrant,2,2,6,1,4,6.470588235294118,1
 135,USA,6,5,5,Female,44,Not immigrant,1,3,4,7,1,8.947368421052632,1
 136,USA,8,8,7,Female,26,Not immigrant,0,3,4,1,4,8.266253869969042,1
 137,USA,9,4,1,Female,26,Not immigrant,0,5,4,10,2,7.523219814241486,1
 138,USA,8,7,6,Male,36,Not immigrant,0,2,4,1,4,6.9747899159663875,0
 139,USA,6,3,1,Male,22,Not immigrant,0,2,4,9,4,7.275541795665634,0
-140,USA,8,8,5,Male,35,Not immigrant,6,4,6,10,1,8.666666666666668,-1
+140,USA,8,8,5,Male,35,Not immigrant,6,4,6,10,1,8.666666666666668,0
 141,USA,8,10,9,Male,58,Not immigrant,5,5,4,5,1,7.027863777089784,1
 142,USA,9,9,7,Female,43,Not immigrant,1,5,3,1,4,8.08049535603715,1
 143,USA,10,5,6,Female,30,Not immigrant,3,7,4,10,2,8.947368421052632,0
@@ -1844,7 +1844,7 @@
 150,USA,4,1,8,Male,45,Not immigrant,2,5,5,10,1,7.213622291021672,0
 151,USA,8,8,5,Male,66,Not immigrant,0,4,3,10,1,7.151702786377708,1
 152,USA,10,8,7,Female,35,Not immigrant,0,4,4,10,1,8.328173374613003,1
-153,USA,10,8,9,Female,25,Not immigrant,0,8,3,3,3,4.984520123839009,-1
+153,USA,10,8,9,Female,25,Not immigrant,0,8,3,3,3,4.984520123839009,0
 154,USA,4,7,1,Female,41,Not immigrant,4,1,2,10,1,6.656346749226007,1
 155,USA,10,5,1,Female,31,Not immigrant,2,1,5,10,2,8.328173374613003,1
 156,USA,3,7,2,Female,26,Not immigrant,2,2,4,10,2,7.832817337461299,0
@@ -1852,15 +1852,15 @@
 158,USA,1,1,1,Male,39,Not immigrant,2,1,4,10,1,4.489164086687307,1
 159,USA,7,9,7,Male,23,Not immigrant,0,5,3,3,4,7.337461300309597,1
 160,USA,10,9,8,Female,43,Immigrant,3,4,7,10,1,6.594427244582043,0
-161,USA,9,10,1,Female,29,Immigrant,3,4,2,10,1,6.656346749226007,-1
+161,USA,9,10,1,Female,29,Immigrant,3,4,2,10,1,6.656346749226007,0
 162,USA,10,10,10,Female,24,Not immigrant,1,4,4,3,3,7.647058823529412,1
 163,USA,5,3,4,Female,28,Not immigrant,3,1,3,3,2,5.6037151702786385,0
 164,USA,10,8,6,Female,32,Not immigrant,4,6,4,10,1,7.213622291021672,1
 165,USA,5,3,2,Female,33,Immigrant,0,8,4,3,3,6.222910216718267,1
 166,USA,7,6,6,Female,44,Not immigrant,3,5,6,8,3,7.337461300309597,1
-167,USA,5,5,4,Female,26,Immigrant,1,3,6,10,1,6.965944272445821,-1
+167,USA,5,5,4,Female,26,Immigrant,1,3,6,10,1,6.965944272445821,0
 168,USA,7,7,8,Male,32,Immigrant,0,4,7,7,1,3.8080495356037147,1
-169,USA,4,4,9,Female,21,Not immigrant,3,2,4,4,3,5.046439628482973,-1
+169,USA,4,4,9,Female,21,Not immigrant,3,2,4,4,3,5.046439628482973,0
 170,USA,2,3,6,Male,36,Not immigrant,3,4,3,4,1,5.294117647058823,1
 171,USA,4,4,2,Female,38,Not immigrant,1,5,4,10,1,6.037151702786378,1
 172,USA,1,7,2,Female,18,Not immigrant,0,9,3,3,2,6.904024767801857,1
@@ -1871,7 +1871,7 @@
 177,USA,4,6,1,Male,39,Not immigrant,2,2,3,10,1,7.7708978328173375,1
 178,USA,6,10,5,Female,57,Not immigrant,2,2,4,10,1,6.993464052287582,1
 179,USA,7,6,4,Male,56,Not immigrant,0,3,4,10,1,6.408668730650155,1
-180,USA,3,5,8,Female,35,Immigrant,0,4,4,8,4,3.660130718954248,-1
+180,USA,3,5,8,Female,35,Immigrant,0,4,4,8,4,3.660130718954248,0
 181,USA,6,6,4,Female,36,Not immigrant,3,4,3,10,1,7.151702786377708,1
 182,USA,9,4,7,Female,22,Not immigrant,0,7,5,3,3,8.018575851393189,0
 183,USA,7,6,5,Female,27,Not immigrant,0,5,4,8,2,7.213622291021672,1
@@ -1892,15 +1892,15 @@
 198,USA,6,7,5,Female,32,Not immigrant,4,4,3,6,3,5.170278637770898,1
 199,USA,7,7,7,Male,41,Not immigrant,1,5,7,10,1,7.3993808049535605,1
 200,USA,3,4,4,Female,25,Not immigrant,2,3,4,5,1,7.461300309597523,0
-201,USA,8,5,3,Female,23,Immigrant,1,8,0,5,4,5.356037151702786,-1
+201,USA,8,5,3,Female,23,Immigrant,1,8,0,5,4,5.356037151702786,0
 202,USA,5,5,10,Male,23,Not immigrant,0,3,5,5,4,6.53250773993808,1
-203,USA,4,5,6,Female,28,Immigrant,2,5,5,5,2,4.5510835913312695,-1
+203,USA,4,5,6,Female,28,Immigrant,2,5,5,5,2,4.5510835913312695,0
 204,USA,10,9,6,Male,31,Not immigrant,0,6,6,4,2,5.232198142414861,1
 205,USA,8,9,8,Male,51,Immigrant,4,8,4,10,1,6.780185758513932,0
 206,USA,10,5,6,Female,20,Not immigrant,3,4,4,10,2,7.523219814241486,1
 207,USA,10,9,8,Female,65,Not immigrant,2,6,7,10,1,6.594427244582043,1
 208,USA,9,8,8,Female,19,Not immigrant,0,7,3,5,1,8.328173374613003,0
-209,USA,3,4,5,Female,31,Not immigrant,0,5,3,4,1,6.470588235294118,-1
+209,USA,3,4,5,Female,31,Not immigrant,0,5,3,4,1,6.470588235294118,0
 210,USA,10,7,5,Female,30,Not immigrant,0,5,6,10,3,8.142414860681114,1
 211,USA,3,6,4,Male,21,Not immigrant,0,2,4,10,2,7.337461300309597,1
 212,USA,3,2,1,Female,27,Not immigrant,2,1,5,10,1,7.027863777089784,0
@@ -1912,7 +1912,7 @@
 218,USA,7,7,4,Female,29,Not immigrant,2,3,4,10,1,6.842105263157896,0
 219,USA,5,8,8,Female,21,Not immigrant,2,5,5,10,2,6.7182662538699685,0
 220,USA,10,10,10,Female,40,Not immigrant,3,5,3,10,1,7.213622291021672,1
-221,USA,5,5,4,Female,29,Not immigrant,3,3,3,5,4,6.780185758513932,-1
+221,USA,5,5,4,Female,29,Not immigrant,3,3,3,5,4,6.780185758513932,0
 222,USA,6,7,7,Male,26,Not immigrant,0,5,7,5,4,6.7182662538699685,0
 223,USA,10,4,1,Female,48,Not immigrant,2,2,4,6,4,7.708978328173375,0
 224,USA,10,8,7,Female,31,Not immigrant,2,8,4,7,4,8.018575851393189,0
@@ -1928,7 +1928,7 @@
 234,USA,10,10,8,Female,27,Not immigrant,0,6,5,2,2,7.213622291021672,1
 235,USA,10,8,1,Female,60,Not immigrant,1,5,3,10,1,7.027863777089784,1
 236,USA,8,7,7,Female,30,Not immigrant,12,4,4,5,1,4.9226006191950455,0
-237,USA,5,5,5,Male,24,Immigrant,0,5,5,5,4,4.79876160990712,-1
+237,USA,5,5,5,Male,24,Immigrant,0,5,5,5,4,4.79876160990712,0
 238,USA,1,7,7,Male,32,Not immigrant,1,3,3,6,2,6.037151702786378,0
 239,USA,10,8,6,Female,68,Not immigrant,3,4,3,8,2,7.337461300309597,1
 240,USA,7,5,3,Female,30,Not immigrant,0,5,4,10,1,6.0,1
@@ -1939,7 +1939,7 @@
 245,USA,8,7,7,Female,28,Not immigrant,3,4,4,9,2,7.956656346749226,1
 246,USA,7,7,3,Female,41,Not immigrant,0,5,4,5,1,6.780185758513932,0
 247,USA,6,7,4,Female,26,Not immigrant,3,3,3,5,1,6.594427244582043,0
-248,USA,3,5,5,Female,22,Not immigrant,2,5,0,5,4,5.170278637770898,-1
+248,USA,3,5,5,Female,22,Not immigrant,2,5,0,5,4,5.170278637770898,0
 249,USA,6,6,5,Female,24,Not immigrant,2,6,3,5,2,6.284829721362229,0
 250,USA,5,4,4,Male,42,Not immigrant,3,4,3,10,1,4.379084967320261,0
 251,USA,10,8,6,Female,25,Not immigrant,2,4,5,1,4,8.08049535603715,1
@@ -1968,7 +1968,7 @@
 274,USA,9,8,6,Female,38,Not immigrant,3,6,3,10,2,7.3993808049535605,0
 275,USA,7,7,5,Female,40,Not immigrant,5,5,4,10,1,5.851393188854489,0
 276,USA,6,5,7,Female,26,Not immigrant,0,5,3,5,3,6.222910216718267,1
-277,USA,10,10,10,Female,38,Not immigrant,3,5,3,10,1,6.656346749226007,-1
+277,USA,10,10,10,Female,38,Not immigrant,3,5,3,10,1,6.656346749226007,0
 278,USA,7,8,5,Male,43,Not immigrant,3,7,6,10,1,6.284829721362229,0
 279,USA,8,8,4,Female,22,Immigrant,2,5,4,5,3,5.1083591331269345,1
 280,USA,5,5,6,Male,32,Not immigrant,0,5,6,5,2,4.984520123839009,1
@@ -1988,7 +1988,7 @@
 294,USA,4,4,3,Female,42,Not immigrant,1,5,5,10,1,4.303405572755418,1
 295,USA,9,4,1,Male,35,Not immigrant,4,5,4,9,2,6.3467492260061915,1
 296,USA,5,3,2,Female,31,Not immigrant,2,1,4,10,1,6.780185758513932,0
-297,USA,4,6,6,Female,28,Not immigrant,0,6,6,6,4,5.541795665634674,-1
+297,USA,4,6,6,Female,28,Not immigrant,0,6,6,6,4,5.541795665634674,0
 298,USA,7,5,2,Male,36,Not immigrant,0,3,3,6,2,7.523219814241486,0
 299,USA,7,6,6,Female,62,Not immigrant,3,3,3,5,4,6.656346749226007,0
 300,USA,7,7,5,Female,46,Not immigrant,1,3,3,4,4,8.328173374613003,0
@@ -2015,7 +2015,7 @@
 321,USA,7,5,3,Female,20,Not immigrant,0,5,4,5,4,6.53250773993808,0
 322,USA,7,6,2,Female,54,Not immigrant,0,2,3,5,1,7.708978328173375,1
 323,USA,6,1,3,Female,61,Not immigrant,0,5,4,10,1,6.284829721362229,0
-324,USA,7,6,7,Male,27,Immigrant,0,5,5,10,4,4.9226006191950455,-1
+324,USA,7,6,7,Male,27,Immigrant,0,5,5,10,4,4.9226006191950455,0
 325,USA,10,6,5,Female,49,Not immigrant,2,3,3,1,4,7.151702786377708,1
 326,USA,2,1,1,Female,38,Not immigrant,5,3,4,10,1,7.089783281733746,1
 327,USA,9,10,6,Female,27,Not immigrant,1,5,6,10,1,6.656346749226007,1
@@ -2034,7 +2034,7 @@
 340,USA,6,5,4,Female,40,Immigrant,1,6,4,6,4,4.427244582043344,1
 341,USA,8,8,7,Female,44,Not immigrant,1,5,4,5,2,7.708978328173375,1
 342,USA,10,10,6,Female,37,Not immigrant,3,5,4,5,4,6.656346749226007,1
-343,USA,7,6,7,Male,53,Not immigrant,4,3,4,4,3,3.9318885448916405,-1
+343,USA,7,6,7,Male,53,Not immigrant,4,3,4,4,3,3.9318885448916405,0
 344,USA,8,7,4,Female,36,Not immigrant,3,7,3,10,1,6.7182662538699685,1
 345,USA,7,8,7,Male,48,Not immigrant,2,7,4,7,3,8.63777089783282,1
 346,USA,6,5,4,Female,28,Not immigrant,0,5,3,6,3,7.523219814241486,1
@@ -2053,14 +2053,14 @@
 359,USA,7,8,5,Female,37,Not immigrant,1,5,3,8,1,7.647058823529412,0
 360,USA,9,6,4,Female,70,Not immigrant,2,1,7,10,1,7.089783281733746,0
 361,USA,10,7,8,Female,47,Not immigrant,0,10,6,10,1,7.450980392156862,1
-362,USA,7,7,6,Female,19,Not immigrant,0,5,3,10,1,6.3467492260061915,-1
+362,USA,7,7,6,Female,19,Not immigrant,0,5,3,10,1,6.3467492260061915,0
 363,USA,8,6,3,Male,25,Not immigrant,1,3,4,10,1,7.832817337461299,1
 364,USA,9,9,7,Male,37,Not immigrant,2,7,6,5,4,7.151702786377708,1
 365,USA,9,8,4,Female,30,Not immigrant,5,7,4,10,1,5.163398692810458,1
 366,USA,7,5,1,Male,20,Not immigrant,2,2,4,8,2,8.266253869969042,0
 367,USA,5,3,6,Female,31,Not immigrant,1,4,3,5,2,7.7708978328173375,1
 368,USA,3,5,8,Female,45,Not immigrant,3,4,0,2,2,6.222910216718267,1
-369,USA,7,4,4,Male,62,Not immigrant,4,3,3,10,1,6.965944272445821,-1
+369,USA,7,4,4,Male,62,Not immigrant,4,3,3,10,1,6.965944272445821,0
 370,USA,8,6,5,Male,21,Not immigrant,2,3,3,1,4,7.275541795665634,1
 371,USA,10,6,3,Female,60,Not immigrant,2,4,4,10,1,7.461300309597523,1
 372,USA,5,5,2,Male,19,Not immigrant,0,3,3,3,4,7.7708978328173375,1
@@ -2092,7 +2092,7 @@
 398,USA,7,7,8,Female,27,Not immigrant,0,6,4,1,4,7.832817337461299,1
 399,USA,7,7,4,Male,55,Not immigrant,1,2,3,10,1,8.018575851393189,0
 400,USA,9,9,7,Female,47,Not immigrant,3,4,6,9,1,6.842105263157896,1
-401,USA,7,6,4,Male,29,Immigrant,2,3,7,1,4,6.594427244582043,-1
+401,USA,7,6,4,Male,29,Immigrant,2,3,7,1,4,6.594427244582043,0
 402,USA,10,8,8,Male,28,Not immigrant,0,7,6,10,1,6.53250773993808,1
 403,USA,5,5,5,Male,27,Not immigrant,2,4,6,2,4,5.686274509803921,1
 404,USA,7,6,5,Male,33,Not immigrant,0,5,3,1,4,5.913312693498452,0
@@ -2100,15 +2100,15 @@
 406,USA,10,5,6,Male,57,Not immigrant,2,5,4,10,2,7.027863777089784,1
 407,USA,8,7,4,Female,20,Not immigrant,0,3,4,3,1,6.780185758513932,0
 408,USA,8,8,4,Female,25,Not immigrant,0,4,4,1,4,8.08049535603715,1
-409,USA,9,10,9,Female,24,Immigrant,0,1,7,1,4,7.089783281733746,-1
+409,USA,9,10,9,Female,24,Immigrant,0,1,7,1,4,7.089783281733746,0
 410,USA,9,7,6,Female,46,Not immigrant,1,6,3,2,4,7.585139318885449,0
 411,USA,8,7,4,Female,27,Not immigrant,1,5,6,10,2,8.51393188854489,1
 412,USA,6,10,10,Female,42,Not immigrant,3,4,3,10,1,7.647058823529412,1
 413,USA,7,5,3,Female,40,Not immigrant,1,5,3,10,2,7.956656346749226,1
 414,USA,8,7,4,Male,63,Immigrant,6,5,5,10,1,7.461300309597523,1
-415,USA,7,8,6,Male,25,Not immigrant,0,5,0,10,3,3.188854489164086,-1
+415,USA,7,8,6,Male,25,Not immigrant,0,5,0,10,3,3.188854489164086,0
 416,USA,8,8,6,Male,39,Not immigrant,0,5,7,10,1,6.656346749226007,1
-417,USA,7,9,8,Female,32,Immigrant,0,8,8,7,4,4.179566563467493,-1
+417,USA,7,9,8,Female,32,Immigrant,0,8,8,7,4,4.179566563467493,0
 418,USA,7,4,3,Female,24,Not immigrant,1,4,3,5,4,8.452012383900929,1
 419,USA,7,9,4,Female,45,Not immigrant,2,5,5,10,2,7.832817337461299,1
 420,USA,9,9,9,Male,74,Not immigrant,0,8,8,7,1,8.823529411764707,1
@@ -2126,21 +2126,21 @@
 432,USA,6,7,7,Female,32,Not immigrant,3,5,6,9,1,4.79876160990712,1
 433,USA,6,5,4,Female,59,Not immigrant,2,7,5,10,1,7.089783281733746,1
 434,USA,6,7,6,Male,30,Not immigrant,0,6,3,6,4,7.647058823529412,1
-435,USA,10,3,5,Male,21,Not immigrant,1,3,3,6,3,4.7368421052631575,-1
+435,USA,10,3,5,Male,21,Not immigrant,1,3,3,6,3,4.7368421052631575,0
 436,USA,10,10,10,Male,28,Not immigrant,1,5,3,5,4,8.452012383900929,1
 437,USA,4,8,8,Female,30,Not immigrant,2,6,4,1,4,9.009287925696594,1
 438,USA,8,8,6,Male,27,Not immigrant,0,5,3,8,2,6.470588235294118,0
 439,USA,9,9,8,Male,57,Immigrant,3,8,3,10,1,6.780185758513932,1
 440,USA,5,5,6,Male,44,Immigrant,2,4,3,10,4,4.179566563467493,1
 441,USA,10,10,8,Female,61,Not immigrant,0,7,4,10,1,5.294117647058823,1
-442,USA,5,5,4,Male,40,Immigrant,1,4,6,5,3,7.275541795665634,-1
+442,USA,5,5,4,Male,40,Immigrant,1,4,6,5,3,7.275541795665634,0
 443,USA,10,10,10,Female,60,Immigrant,1,8,6,10,1,6.53250773993808,1
-444,USA,10,10,10,Female,44,Not immigrant,0,8,4,8,3,4.303405572755418,-1
+444,USA,10,10,10,Female,44,Not immigrant,0,8,4,8,3,4.303405572755418,0
 445,USA,10,10,7,Male,57,Immigrant,0,6,4,8,1,7.585139318885449,1
 446,USA,6,6,7,Male,32,Not immigrant,0,3,4,2,4,7.275541795665634,0
 447,USA,9,5,5,Male,24,Not immigrant,0,3,5,1,4,7.337461300309597,1
 448,USA,5,7,4,Male,24,Not immigrant,0,5,7,1,4,7.585139318885449,1
-449,USA,7,9,7,Female,30,Immigrant,1,3,7,4,3,8.266253869969042,-1
+449,USA,7,9,7,Female,30,Immigrant,1,3,7,4,3,8.266253869969042,0
 450,USA,7,4,3,Female,29,Not immigrant,0,3,6,1,4,8.204334365325076,1
 451,USA,8,5,3,Female,19,Not immigrant,0,8,3,7,2,7.7708978328173375,1
 452,USA,6,6,3,Female,26,Not immigrant,0,2,6,1,4,8.885448916408668,1
@@ -2155,10 +2155,10 @@
 461,USA,7,4,2,Male,33,Not immigrant,1,3,3,10,4,7.027863777089784,1
 462,USA,10,6,8,Male,23,Not immigrant,0,6,6,6,3,6.284829721362229,0
 463,USA,7,7,4,Male,52,Not immigrant,0,2,6,10,1,5.975232198142415,1
-464,USA,10,8,9,Female,21,Not immigrant,15,2,6,4,4,4.052287581699346,-1
+464,USA,10,8,9,Female,21,Not immigrant,15,2,6,4,4,4.052287581699346,0
 465,USA,7,9,7,Female,32,Not immigrant,2,4,4,4,2,7.151702786377708,1
 466,USA,10,8,8,Male,32,Not immigrant,1,7,4,7,4,6.780185758513932,1
-467,USA,9,7,7,Female,20,Immigrant,0,7,4,10,1,6.5359477124183005,-1
+467,USA,9,7,7,Female,20,Immigrant,0,7,4,10,1,6.5359477124183005,0
 468,USA,5,5,6,Male,40,Not immigrant,2,6,5,6,4,4.9226006191950455,1
 469,USA,7,7,4,Female,21,Not immigrant,0,7,4,1,4,7.337461300309597,1
 470,USA,9,1,2,Male,36,Not immigrant,0,2,4,10,2,6.780185758513932,1
@@ -2242,7 +2242,7 @@
 548,USA,10,10,8,Female,36,Not immigrant,3,5,4,10,1,4.809688581314878,1
 549,USA,10,10,8,Male,33,Not immigrant,1,7,4,10,1,6.842105263157896,1
 550,USA,10,8,1,Male,57,Not immigrant,6,6,6,10,1,6.904024767801857,1
-551,USA,10,2,3,Male,56,Immigrant,0,6,2,3,3,5.789473684210527,-1
+551,USA,10,2,3,Male,56,Immigrant,0,6,2,3,3,5.789473684210527,0
 552,USA,7,6,5,Female,29,Not immigrant,0,5,7,1,4,8.575851393188854,1
 553,USA,9,7,5,Male,48,Not immigrant,3,2,3,9,2,5.1083591331269345,1
 554,USA,9,9,4,Female,60,Not immigrant,2,10,3,10,2,4.79876160990712,1
@@ -2250,7 +2250,7 @@
 556,USA,5,5,5,Male,18,Not immigrant,0,6,3,3,3,6.842105263157896,1
 557,USA,10,7,3,Male,34,Immigrant,2,6,6,10,1,6.160990712074303,1
 558,USA,9,6,9,Female,18,Not immigrant,0,5,3,10,1,3.188854489164086,1
-559,USA,7,7,7,Female,25,Immigrant,0,6,7,8,1,7.089783281733746,-1
+559,USA,7,7,7,Female,25,Immigrant,0,6,7,8,1,7.089783281733746,0
 560,USA,6,7,10,Male,73,Not immigrant,0,8,7,1,4,8.575851393188854,1
 561,USA,10,6,5,Male,57,Not immigrant,5,7,4,5,3,6.594427244582043,1
 562,USA,7,7,7,Male,39,Immigrant,0,4,6,4,4,7.3993808049535605,1
@@ -2263,7 +2263,7 @@
 569,USA,10,8,7,Male,34,Not immigrant,1,9,7,10,1,7.089783281733746,1
 570,USA,7,5,5,Female,30,Not immigrant,2,4,7,10,1,6.656346749226007,1
 571,USA,8,6,6,Female,28,Not immigrant,0,3,6,10,2,6.222910216718267,1
-572,USA,10,10,10,Male,20,Not immigrant,1,10,5,5,1,4.7368421052631575,-1
+572,USA,10,10,10,Male,20,Not immigrant,1,10,5,5,1,4.7368421052631575,0
 573,USA,6,6,6,Male,53,Not immigrant,1,5,6,2,4,7.708978328173375,1
 574,USA,8,8,4,Female,56,Not immigrant,4,4,4,9,2,7.832817337461299,1
 575,USA,4,5,4,Male,46,Not immigrant,5,5,3,2,4,8.018575851393189,0
@@ -2348,12 +2348,12 @@
 654,USA,6,5,5,Female,31,Not immigrant,4,3,3,7,2,8.63777089783282,1
 655,USA,6,6,5,Female,28,Not immigrant,2,3,4,10,2,7.027863777089784,1
 656,USA,7,7,2,Female,47,Not immigrant,3,5,3,10,1,7.337461300309597,1
-657,USA,8,8,5,Male,77,Immigrant,3,3,4,8,4,7.894736842105264,-1
+657,USA,8,8,5,Male,77,Immigrant,3,3,4,8,4,7.894736842105264,0
 658,USA,5,5,1,Female,44,Not immigrant,3,3,4,10,1,7.151702786377708,1
 659,USA,7,3,5,Female,65,Not immigrant,5,5,3,10,4,6.904024767801857,0
 660,USA,9,9,5,Male,51,Not immigrant,0,5,5,5,3,6.842105263157896,1
 661,USA,5,6,1,Female,32,Not immigrant,2,3,3,10,1,8.142414860681114,1
-662,USA,8,8,1,Female,44,Not immigrant,4,1,3,10,1,8.204334365325076,-1
+662,USA,8,8,1,Female,44,Not immigrant,4,1,3,10,1,8.204334365325076,0
 663,USA,7,7,7,Male,46,Not immigrant,1,5,5,2,4,6.656346749226007,1
 664,USA,6,5,5,Male,26,Not immigrant,2,3,4,10,1,8.204334365325076,1
 665,USA,5,5,5,Male,48,Not immigrant,3,5,5,5,1,4.984520123839009,1
@@ -2377,7 +2377,7 @@
 683,USA,2,3,4,Male,46,Not immigrant,0,8,3,10,1,6.470588235294118,1
 684,USA,8,9,7,Female,59,Not immigrant,2,2,3,9,4,7.337461300309597,1
 685,USA,8,8,8,Male,59,Not immigrant,6,5,5,10,1,7.708978328173375,1
-686,USA,10,8,6,Male,25,Not immigrant,0,5,4,5,4,5.975232198142415,-1
+686,USA,10,8,6,Male,25,Not immigrant,0,5,4,5,4,5.975232198142415,0
 687,USA,5,5,5,Female,20,Immigrant,1,5,3,5,2,5.046439628482973,1
 688,USA,8,8,9,Male,29,Not immigrant,0,5,7,1,4,8.142414860681114,1
 689,USA,10,8,8,Female,35,Not immigrant,2,5,4,5,2,6.222910216718267,1
@@ -2461,7 +2461,7 @@
 767,USA,7,7,7,Female,72,Not immigrant,3,5,5,10,1,7.461300309597523,1
 768,USA,4,7,5,Female,70,Not immigrant,1,2,4,3,4,7.7708978328173375,1
 769,USA,8,9,2,Female,28,Not immigrant,2,5,4,8,4,7.7708978328173375,1
-770,USA,10,7,9,Female,33,Immigrant,2,5,4,5,4,6.408668730650155,-1
+770,USA,10,7,9,Female,33,Immigrant,2,5,4,5,4,6.408668730650155,0
 771,USA,10,6,4,Male,39,Not immigrant,0,2,3,10,4,7.213622291021672,0
 772,USA,6,5,5,Female,23,Not immigrant,0,5,5,5,2,4.984520123839009,1
 773,USA,6,5,4,Female,44,Not immigrant,0,4,5,7,4,6.965944272445821,1
@@ -2469,7 +2469,7 @@
 775,USA,8,7,7,Female,18,Not immigrant,0,5,4,7,4,6.7973856209150325,1
 776,USA,7,5,5,Male,28,Not immigrant,0,2,3,2,3,6.09907120743034,0
 777,USA,10,10,9,Female,48,Not immigrant,0,7,6,10,1,7.708978328173375,1
-778,USA,10,10,10,Male,47,Not immigrant,0,5,3,10,1,6.904024767801857,-1
+778,USA,10,10,10,Male,47,Not immigrant,0,5,3,10,1,6.904024767801857,0
 779,USA,10,8,5,Female,69,Not immigrant,2,6,3,10,1,7.38562091503268,1
 780,USA,6,6,3,Male,61,Not immigrant,0,3,4,10,1,7.275541795665634,1
 781,USA,1,10,10,Female,26,Not immigrant,2,4,3,8,4,6.965944272445821,1
@@ -2521,7 +2521,7 @@
 827,USA,8,8,9,Female,52,Not immigrant,0,7,3,10,2,7.832817337461299,0
 828,USA,7,9,5,Female,57,Not immigrant,3,5,3,10,1,7.585139318885449,1
 829,USA,7,8,7,Male,34,Not immigrant,2,6,4,7,1,4.303405572755418,1
-830,USA,5,6,7,Female,52,Not immigrant,4,1,0,7,4,5.975232198142415,-1
+830,USA,5,6,7,Female,52,Not immigrant,4,1,0,7,4,5.975232198142415,0
 831,USA,9,8,6,Female,67,Not immigrant,0,1,3,10,1,7.151702786377708,1
 832,USA,8,8,5,Female,50,Not immigrant,2,4,3,5,4,8.142414860681114,1
 833,USA,8,8,10,Female,23,Not immigrant,0,6,6,1,3,6.656346749226007,1
@@ -2537,7 +2537,7 @@
 843,USA,5,6,4,Male,36,Not immigrant,0,6,6,4,4,4.984520123839009,1
 844,USA,9,9,9,Male,62,Not immigrant,6,5,4,10,1,6.601307189542483,1
 845,USA,10,8,7,Male,63,Not immigrant,2,5,4,4,4,7.516339869281047,1
-846,USA,7,8,6,Female,29,Immigrant,0,7,7,9,1,6.780185758513932,-1
+846,USA,7,8,6,Female,29,Immigrant,0,7,7,9,1,6.780185758513932,0
 847,USA,10,4,1,Female,44,Not immigrant,4,4,4,10,1,5.975232198142415,1
 848,USA,6,7,7,Male,19,Immigrant,0,7,4,4,4,8.018575851393189,1
 849,USA,7,8,6,Male,26,Not immigrant,0,5,3,1,4,7.461300309597523,1
@@ -2598,7 +2598,7 @@
 904,USA,6,8,3,Male,73,Not immigrant,2,4,3,10,2,7.647058823529412,1
 905,USA,10,8,10,Female,66,Not immigrant,1,5,3,10,2,7.708978328173375,1
 906,USA,8,8,9,Male,33,Not immigrant,3,6,3,6,1,7.213622291021672,1
-907,USA,8,8,7,Male,71,Immigrant,3,5,3,10,2,7.461300309597523,-1
+907,USA,8,8,7,Male,71,Immigrant,3,5,3,10,2,7.461300309597523,0
 908,USA,7,8,8,Male,32,Not immigrant,1,5,6,3,3,7.027863777089784,1
 909,USA,10,8,9,Female,27,Not immigrant,0,5,6,7,3,7.523219814241486,1
 910,USA,5,8,7,Female,27,Not immigrant,2,5,3,8,3,4.836601307189542,1
@@ -2660,12 +2660,12 @@
 966,USA,8,8,7,Male,20,Not immigrant,0,5,6,3,2,5.665634674922601,1
 967,USA,10,8,9,Female,38,Not immigrant,6,3,3,9,2,8.08049535603715,1
 968,USA,7,8,6,Male,64,Not immigrant,4,4,4,8,3,7.027863777089784,1
-969,USA,10,6,7,Female,28,Immigrant,3,3,3,7,1,7.5565610859728505,-1
+969,USA,10,6,7,Female,28,Immigrant,3,3,3,7,1,7.5565610859728505,0
 970,USA,5,5,6,Male,34,Immigrant,1,7,7,7,3,5.046439628482973,1
 971,USA,10,8,7,Female,25,Not immigrant,0,6,6,7,1,8.328173374613003,1
 972,USA,7,8,8,Male,43,Immigrant,0,9,5,10,1,7.275541795665634,1
 973,USA,7,7,5,Female,23,Not immigrant,0,5,6,2,4,7.708978328173375,1
-974,USA,9,7,2,Male,66,Not immigrant,1,5,4,8,1,6.965944272445821,-1
+974,USA,9,7,2,Male,66,Not immigrant,1,5,4,8,1,6.965944272445821,0
 975,USA,5,4,5,Female,38,Immigrant,1,4,4,5,4,6.160990712074303,1
 976,USA,6,5,4,Male,55,Not immigrant,2,5,4,10,2,5.975232198142415,1
 977,USA,5,7,4,Male,38,Not immigrant,4,5,5,10,1,6.09907120743034,1
@@ -2881,10 +2881,10 @@
 1187,USA,3,8,6,Male,65,Immigrant,2,3,6,2,4,6.842105263157896,1
 1188,USA,4,3,5,Female,53,Not immigrant,2,3,5,10,1,6.904024767801857,1
 1189,USA,8,8,6,Female,37,Immigrant,2,4,6,10,1,7.151702786377708,1
-1190,USA,6,6,3,Female,48,Immigrant,3,2,4,10,1,9.318885448916408,-1
+1190,USA,6,6,3,Female,48,Immigrant,3,2,4,10,1,9.318885448916408,0
 1191,USA,8,5,3,Female,28,Not immigrant,2,4,4,8,4,7.461300309597523,1
-1192,USA,10,10,8,Male,56,Immigrant,2,5,5,10,1,6.842105263157896,-1
-1193,USA,2,1,8,Female,20,Not immigrant,0,4,3,7,1,5.913312693498452,-1
+1192,USA,10,10,8,Male,56,Immigrant,2,5,5,10,1,6.842105263157896,0
+1193,USA,2,1,8,Female,20,Not immigrant,0,4,3,7,1,5.913312693498452,0
 1194,USA,5,6,6,Male,51,Immigrant,3,5,6,9,3,8.328173374613003,1
 1195,USA,10,8,7,Male,29,Not immigrant,1,3,5,5,4,7.523219814241486,1
 1196,USA,8,7,7,Male,35,Not immigrant,3,5,5,7,4,6.09907120743034,1
@@ -2897,7 +2897,7 @@
 1203,USA,7,6,6,Male,32,Immigrant,1,6,3,5,4,6.037151702786378,1
 1204,USA,10,9,10,Female,28,Immigrant,0,5,3,10,3,6.7182662538699685,0
 1205,USA,8,8,5,Male,52,Not immigrant,3,6,5,10,1,7.027863777089784,1
-1206,USA,10,9,8,Female,34,Immigrant,2,5,6,10,1,7.151702786377708,-1
+1206,USA,10,9,8,Female,34,Immigrant,2,5,6,10,1,7.151702786377708,0
 1207,USA,6,8,9,Female,44,Not immigrant,1,5,6,10,1,7.956656346749226,1
 1208,USA,10,10,8,Female,37,Not immigrant,2,5,4,1,4,8.452012383900929,1
 1209,USA,8,9,8,Female,46,Not immigrant,0,2,4,9,2,7.523219814241486,1
@@ -2932,9 +2932,9 @@
 1238,USA,9,8,7,Female,24,Not immigrant,0,3,6,2,2,7.7708978328173375,0
 1239,USA,8,7,7,Male,31,Not immigrant,0,4,6,2,3,7.7708978328173375,1
 1240,USA,9,4,2,Male,42,Not immigrant,3,4,4,8,2,7.275541795665634,1
-1241,USA,8,7,6,Female,44,Immigrant,0,5,7,2,4,7.585139318885449,-1
+1241,USA,8,7,6,Female,44,Immigrant,0,5,7,2,4,7.585139318885449,0
 1242,USA,9,6,2,Male,47,Not immigrant,0,4,4,9,2,7.956656346749226,1
-1243,USA,6,5,7,Male,33,Not immigrant,0,5,3,8,3,5.913312693498452,-1
+1243,USA,6,5,7,Male,33,Not immigrant,0,5,3,8,3,5.913312693498452,0
 1244,USA,8,8,7,Male,45,Not immigrant,1,4,6,1,4,7.894736842105264,1
 1245,USA,9,8,7,Female,35,Not immigrant,0,5,4,5,2,7.832817337461299,1
 1246,USA,7,9,9,Male,81,Not immigrant,2,8,8,4,3,7.461300309597523,1
@@ -2944,7 +2944,7 @@
 1250,USA,8,8,2,Female,46,Not immigrant,3,7,7,9,4,7.275541795665634,1
 1251,USA,7,7,4,Male,67,Not immigrant,0,3,5,7,1,7.461300309597523,1
 1252,USA,8,6,3,Female,62,Not immigrant,2,2,3,10,1,6.842105263157896,1
-1253,USA,6,7,4,Male,27,Immigrant,1,3,6,7,2,2.569659442724458,-1
+1253,USA,6,7,4,Male,27,Immigrant,1,3,6,7,2,2.569659442724458,0
 1254,USA,8,8,10,Female,39,Not immigrant,2,6,6,1,4,7.275541795665634,1
 1255,USA,9,9,6,Male,62,Not immigrant,5,4,7,10,2,7.275541795665634,1
 1256,USA,9,8,7,Male,33,Immigrant,1,6,6,10,1,6.037151702786378,1
@@ -2965,7 +2965,7 @@
 1271,USA,8,6,5,Male,49,Not immigrant,0,4,4,10,1,7.523219814241486,1
 1272,USA,10,9,9,Male,44,Not immigrant,4,8,6,9,1,7.461300309597523,1
 1273,USA,9,6,6,Male,24,Not immigrant,0,6,3,3,4,8.575851393188854,1
-1274,USA,7,7,7,Male,27,Not immigrant,0,3,8,2,4,7.089783281733746,-1
+1274,USA,7,7,7,Male,27,Not immigrant,0,3,8,2,4,7.089783281733746,0
 1275,USA,9,8,5,Male,64,Not immigrant,1,6,3,1,4,7.027863777089784,1
 1276,USA,8,8,7,Male,31,Not immigrant,0,4,6,4,4,8.142414860681114,0
 1277,USA,8,6,1,Female,49,Not immigrant,0,1,3,10,1,5.294117647058823,1
@@ -3003,7 +3003,7 @@
 1309,USA,10,8,8,Female,49,Not immigrant,1,6,7,10,2,7.523219814241486,1
 1310,USA,7,7,7,Female,24,Not immigrant,0,2,6,8,2,8.390092879256967,1
 1311,USA,8,9,9,Female,66,Not immigrant,2,7,7,9,1,7.956656346749226,1
-1312,USA,7,5,6,Male,37,Immigrant,1,3,6,8,3,6.5359477124183005,-1
+1312,USA,7,5,6,Male,37,Immigrant,1,3,6,8,3,6.5359477124183005,0
 1313,USA,10,8,5,Female,33,Not immigrant,2,3,2,10,2,7.089783281733746,1
 1314,USA,10,10,5,Female,74,Not immigrant,0,1,3,10,1,6.594427244582043,1
 1315,USA,10,10,9,Male,59,Not immigrant,1,7,8,7,2,7.7708978328173375,1
@@ -3090,7 +3090,7 @@
 1396,USA,8,6,6,Male,50,Not immigrant,0,5,4,3,4,7.894736842105264,1
 1397,USA,7,7,5,Male,30,Not immigrant,0,4,6,2,4,8.08049535603715,1
 1398,USA,9,9,8,Female,28,Not immigrant,0,7,6,2,4,7.7708978328173375,1
-1399,USA,8,8,8,Male,31,Immigrant,0,6,6,1,4,8.390092879256967,-1
+1399,USA,8,8,8,Male,31,Immigrant,0,6,6,1,4,8.390092879256967,0
 1400,USA,5,5,4,Male,53,Not immigrant,0,6,3,9,1,7.461300309597523,1
 1401,USA,10,7,1,Male,33,Not immigrant,1,6,5,10,1,8.266253869969042,1
 1402,USA,6,8,7,Male,55,Not immigrant,2,6,6,10,1,7.461300309597523,1
@@ -3123,7 +3123,7 @@
 1429,USA,6,6,5,Male,35,Not immigrant,0,6,6,1,4,7.027863777089784,1
 1430,USA,7,7,4,Male,24,Immigrant,0,4,4,10,1,7.275541795665634,1
 1431,USA,7,5,5,Male,60,Not immigrant,0,4,3,10,1,7.337461300309597,1
-1432,USA,7,5,4,Female,49,Not immigrant,2,4,4,10,1,7.089783281733746,-1
+1432,USA,7,5,4,Female,49,Not immigrant,2,4,4,10,1,7.089783281733746,0
 1433,USA,8,3,1,Male,41,Not immigrant,2,5,3,10,1,5.294117647058823,1
 1434,USA,2,2,1,Male,21,Not immigrant,0,4,3,1,4,6.904024767801857,1
 1435,USA,7,7,3,Female,59,Not immigrant,4,4,5,5,4,7.027863777089784,1
@@ -3154,7 +3154,7 @@
 1460,USA,10,9,8,Female,73,Not immigrant,4,6,3,9,2,8.390092879256967,1
 1461,USA,9,8,6,Female,28,Not immigrant,0,8,6,1,4,8.452012383900929,1
 1462,USA,7,2,2,Male,56,Not immigrant,2,2,4,10,1,7.461300309597523,1
-1463,USA,7,8,7,Male,42,Not immigrant,0,4,6,1,4,6.842105263157896,-1
+1463,USA,7,8,7,Male,42,Not immigrant,0,4,6,1,4,6.842105263157896,0
 1464,USA,6,6,4,Female,40,Not immigrant,3,4,6,10,1,8.63777089783282,1
 1465,USA,6,6,4,Male,40,Not immigrant,2,4,4,1,4,6.842105263157896,1
 1466,USA,7,7,7,Male,45,Not immigrant,3,4,4,10,2,7.151702786377708,1
@@ -3176,7 +3176,7 @@
 1482,USA,10,9,8,Male,69,Not immigrant,2,6,7,8,2,7.523219814241486,1
 1483,USA,9,10,5,Female,31,Not immigrant,0,5,6,10,1,7.523219814241486,1
 1484,USA,10,10,8,Male,44,Not immigrant,0,7,7,10,1,5.41795665634675,1
-1485,USA,3,3,1,Female,56,Immigrant,0,1,5,1,4,7.956656346749226,-1
+1485,USA,3,3,1,Female,56,Immigrant,0,1,5,1,4,7.956656346749226,0
 1486,USA,8,8,7,Male,48,Not immigrant,0,6,6,10,2,7.461300309597523,1
 1487,USA,7,5,4,Male,68,Not immigrant,5,6,5,9,1,7.647058823529412,1
 1488,USA,7,7,7,Male,28,Not immigrant,0,5,4,6,4,7.894736842105264,0
@@ -3212,7 +3212,7 @@
 1518,USA,8,8,8,Male,67,Not immigrant,2,7,5,5,2,8.947368421052632,1
 1519,USA,1,3,2,Male,21,Immigrant,0,3,6,1,4,6.53250773993808,1
 1520,USA,9,8,8,Male,46,Not immigrant,0,7,6,1,4,8.575851393188854,1
-1521,USA,10,7,3,Female,33,Immigrant,3,1,6,10,4,7.956656346749226,-1
+1521,USA,10,7,3,Female,33,Immigrant,3,1,6,10,4,7.956656346749226,0
 1522,USA,8,4,3,Male,51,Not immigrant,0,3,4,1,4,6.842105263157896,1
 1523,USA,8,8,6,Male,22,Not immigrant,0,7,5,8,1,7.151702786377708,1
 1524,USA,10,7,6,Female,30,Immigrant,0,4,4,10,1,7.647058823529412,1
@@ -3240,7 +3240,7 @@
 1546,USA,8,7,4,Male,33,Not immigrant,2,2,4,4,3,7.708978328173375,1
 1547,USA,7,7,5,Male,39,Immigrant,7,5,4,10,2,7.832817337461299,1
 1548,USA,10,9,8,Female,58,Immigrant,2,6,7,10,1,8.328173374613003,1
-1549,USA,8,2,9,Female,32,Not immigrant,3,9,2,8,3,5.1083591331269345,-1
+1549,USA,8,2,9,Female,32,Not immigrant,3,9,2,8,3,5.1083591331269345,0
 1550,USA,8,7,7,Male,25,Not immigrant,0,5,6,5,3,7.027863777089784,1
 1551,USA,9,5,8,Male,39,Not immigrant,0,4,3,10,1,7.523219814241486,0
 1552,USA,7,8,5,Male,56,Not immigrant,2,1,5,3,4,7.894736842105264,1
@@ -3268,11 +3268,11 @@
 1574,USA,7,4,1,Male,54,Not immigrant,1,4,4,7,2,4.489164086687307,1
 1575,USA,1,1,1,Female,27,Immigrant,1,6,5,1,4,8.575851393188854,1
 1576,USA,7,9,8,Female,60,Not immigrant,2,1,5,10,1,5.913312693498452,0
-1577,USA,8,7,8,Male,48,Immigrant,2,5,2,10,1,7.275541795665634,-1
+1577,USA,8,7,8,Male,48,Immigrant,2,5,2,10,1,7.275541795665634,0
 1578,USA,7,4,2,Female,42,Not immigrant,1,4,6,2,4,8.823529411764707,1
 1579,USA,10,9,9,Male,47,Immigrant,2,6,6,10,1,6.842105263157896,1
 1580,USA,10,10,10,Male,48,Immigrant,3,10,3,10,1,5.541795665634674,0
-1581,USA,8,8,8,Female,29,Immigrant,1,6,8,10,1,7.461300309597523,-1
+1581,USA,8,8,8,Female,29,Immigrant,1,6,8,10,1,7.461300309597523,0
 1582,USA,4,6,3,Male,41,Not immigrant,3,4,4,3,4,6.470588235294118,0
 1583,USA,8,8,8,Male,28,Not immigrant,0,4,3,1,4,3.3126934984520124,1
 1584,USA,6,8,8,Female,46,Not immigrant,3,6,6,7,2,8.51393188854489,1
@@ -3350,7 +3350,7 @@
 1656,USA,10,8,8,Male,36,Not immigrant,6,7,7,10,1,6.904024767801857,1
 1657,USA,10,10,5,Male,48,Not immigrant,1,5,4,5,2,7.7708978328173375,1
 1658,USA,7,7,5,Male,29,Not immigrant,0,4,4,10,1,5.913312693498452,1
-1659,USA,6,8,5,Male,34,Not immigrant,3,3,5,6,4,6.965944272445821,-1
+1659,USA,6,8,5,Male,34,Not immigrant,3,3,5,6,4,6.965944272445821,0
 1660,USA,4,8,7,Female,43,Immigrant,1,6,3,6,2,4.365325077399381,1
 1661,USA,9,9,7,Male,46,Not immigrant,5,6,4,10,2,8.204334365325076,1
 1662,USA,10,4,5,Female,37,Immigrant,2,4,4,10,2,5.046439628482973,1
@@ -3472,7 +3472,7 @@
 1778,USA,10,7,7,Male,62,Not immigrant,0,6,4,6,3,7.832817337461299,1
 1779,USA,6,8,4,Male,43,Not immigrant,2,5,4,10,1,7.585139318885449,1
 1780,USA,8,8,5,Female,66,Not immigrant,2,7,3,10,1,7.894736842105264,1
-1781,USA,9,9,6,Female,27,Not immigrant,3,5,4,3,4,7.151702786377708,-1
+1781,USA,9,9,6,Female,27,Not immigrant,3,5,4,3,4,7.151702786377708,0
 1782,USA,6,5,5,Female,57,Immigrant,0,2,3,9,3,7.3993808049535605,0
 1783,USA,6,4,3,Male,49,Not immigrant,0,4,6,1,4,7.647058823529412,1
 1784,USA,8,9,6,Female,24,Not immigrant,1,5,3,10,1,7.089783281733746,1
@@ -3502,7 +3502,7 @@
 1808,USA,8,8,9,Male,73,Not immigrant,2,7,6,10,1,7.027863777089784,1
 1809,USA,10,10,8,Female,44,Not immigrant,2,5,3,7,3,7.213622291021672,0
 1810,USA,8,9,8,Male,18,Not immigrant,0,6,3,6,2,7.585139318885449,1
-1811,USA,7,5,6,Female,37,Immigrant,2,6,8,10,1,7.337461300309597,-1
+1811,USA,7,5,6,Female,37,Immigrant,2,6,8,10,1,7.337461300309597,0
 1812,USA,10,8,10,Female,54,Not immigrant,3,6,3,10,1,7.151702786377708,0
 1813,USA,9,8,9,Female,21,Not immigrant,0,7,6,10,1,7.027863777089784,1
 1814,USA,10,10,7,Male,51,Not immigrant,2,6,4,10,1,6.904024767801857,1
@@ -3598,8 +3598,8 @@
 1904,USA,6,6,6,Male,64,Not immigrant,3,6,4,10,1,7.7708978328173375,1
 1905,USA,8,8,9,Female,30,Not immigrant,1,8,7,8,1,8.08049535603715,1
 1906,USA,9,8,2,Male,51,Not immigrant,1,7,4,8,1,2.6315789473684212,1
-1907,USA,7,6,7,Male,23,Immigrant,0,7,7,3,3,7.956656346749226,-1
-1908,USA,8,9,8,Female,26,Not immigrant,3,3,3,9,3,6.037151702786378,-1
+1907,USA,7,6,7,Male,23,Immigrant,0,7,7,3,3,7.956656346749226,0
+1908,USA,8,9,8,Female,26,Not immigrant,3,3,3,9,3,6.037151702786378,0
 1909,USA,10,4,2,Female,26,Not immigrant,1,6,3,1,2,6.780185758513932,1
 1910,USA,7,9,3,Female,27,Not immigrant,1,6,5,10,2,8.328173374613003,1
 1911,USA,7,6,7,Female,31,Not immigrant,0,7,6,3,3,6.842105263157896,1
@@ -3698,12 +3698,12 @@
 2004,USA,8,8,7,Female,47,Not immigrant,0,5,7,10,1,7.523219814241486,1
 2005,USA,6,8,7,Female,35,Immigrant,0,1,2,10,1,7.337461300309597,0
 2006,USA,8,8,8,Male,61,Immigrant,1,4,4,10,1,7.275541795665634,1
-2007,USA,10,9,3,Female,56,Not immigrant,2,3,5,10,1,8.266253869969042,-1
-2008,USA,10,7,7,Male,41,Immigrant,2,5,6,10,2,6.470588235294118,-1
+2007,USA,10,9,3,Female,56,Not immigrant,2,3,5,10,1,8.266253869969042,0
+2008,USA,10,7,7,Male,41,Immigrant,2,5,6,10,2,6.470588235294118,0
 2009,USA,10,9,10,Male,65,Not immigrant,3,5,4,8,1,8.204334365325076,1
 2010,USA,10,9,3,Female,64,Not immigrant,0,5,6,10,1,7.461300309597523,1
 2011,USA,7,8,8,Male,62,Not immigrant,2,7,6,2,4,7.585139318885449,1
-2012,USA,10,7,6,Female,20,Immigrant,0,7,4,10,2,8.51393188854489,-1
+2012,USA,10,7,6,Female,20,Immigrant,0,7,4,10,2,8.51393188854489,0
 2013,USA,3,8,7,Male,33,Not immigrant,3,5,6,10,1,6.7182662538699685,1
 2014,USA,8,7,6,Male,54,Not immigrant,0,3,4,9,2,6.222910216718267,1
 2015,USA,8,8,9,Male,68,Not immigrant,2,7,5,6,4,6.7182662538699685,1
@@ -3828,7 +3828,7 @@
 2134,USA,7,7,7,Male,65,Not immigrant,0,4,6,8,2,8.823529411764707,1
 2135,USA,10,8,6,Male,55,Not immigrant,1,4,6,8,2,6.780185758513932,1
 2136,USA,9,7,8,Male,40,Immigrant,4,7,7,10,1,7.275541795665634,1
-2137,USA,8,8,8,Male,67,Immigrant,0,7,8,1,4,8.142414860681114,-1
+2137,USA,8,8,8,Male,67,Immigrant,0,7,8,1,4,8.142414860681114,0
 2138,USA,7,8,8,Male,51,Not immigrant,0,3,5,4,4,8.142414860681114,1
 2139,USA,9,8,10,Male,22,Immigrant,1,10,8,1,4,8.08049535603715,1
 2140,USA,7,8,4,Female,42,Not immigrant,4,5,6,10,1,7.832817337461299,1
@@ -3929,7 +3929,7 @@
 2235,USA,10,8,8,Male,28,Not immigrant,0,10,7,2,3,7.7708978328173375,1
 2236,USA,8,6,5,Female,26,Not immigrant,0,4,6,1,4,8.69969040247678,1
 2237,USA,7,7,1,Male,29,Not immigrant,0,6,8,3,4,7.461300309597523,1
-2238,USA,7,8,6,Male,35,Immigrant,2,6,6,4,4,6.842105263157896,-1
+2238,USA,7,8,6,Male,35,Immigrant,2,6,6,4,4,6.842105263157896,0
 2239,USA,8,8,8,Male,66,Not immigrant,2,5,6,10,1,7.7708978328173375,1
 2240,USA,9,8,5,Male,67,Not immigrant,4,7,7,7,2,8.08049535603715,1
 2241,USA,7,8,2,Male,48,Not immigrant,1,5,3,10,1,7.213622291021672,1
@@ -3938,7 +3938,7 @@
 2244,USA,8,6,9,Male,32,Not immigrant,0,5,6,2,4,8.018575851393189,1
 2245,USA,10,5,6,Female,21,Not immigrant,0,2,4,8,3,8.761609907120743,1
 2246,USA,8,9,9,Male,34,Not immigrant,2,6,7,10,4,8.390092879256967,1
-2247,USA,10,8,8,Male,67,Not immigrant,3,7,5,10,2,6.965944272445821,-1
+2247,USA,10,8,8,Male,67,Not immigrant,3,7,5,10,2,6.965944272445821,0
 2248,USA,8,5,5,Male,29,Not immigrant,0,7,6,1,4,5.294117647058823,1
 2249,USA,3,5,3,Female,23,Not immigrant,0,5,7,10,2,7.3993808049535605,1
 2250,USA,9,9,8,Female,68,Not immigrant,4,6,3,10,1,8.204334365325076,1
@@ -3963,10 +3963,10 @@
 2269,USA,10,8,8,Male,70,Not immigrant,1,8,8,1,4,7.213622291021672,1
 2270,USA,10,10,7,Male,58,Not immigrant,4,8,4,10,1,7.647058823529412,1
 2271,USA,7,10,7,Female,28,Not immigrant,2,5,4,5,4,8.328173374613003,1
-2272,USA,6,8,7,Female,43,Immigrant,2,7,6,3,4,7.894736842105264,-1
+2272,USA,6,8,7,Female,43,Immigrant,2,7,6,3,4,7.894736842105264,0
 2273,USA,7,7,3,Male,50,Not immigrant,1,6,4,1,4,7.461300309597523,1
 2274,USA,8,6,6,Female,28,Not immigrant,1,4,5,3,3,7.089783281733746,1
-2275,USA,9,8,8,Male,28,Immigrant,0,3,7,10,1,7.337461300309597,-1
+2275,USA,9,8,8,Male,28,Immigrant,0,3,7,10,1,7.337461300309597,0
 2276,USA,8,8,7,Female,35,Not immigrant,1,7,5,1,4,8.142414860681114,1
 2277,USA,10,8,5,Male,35,Not immigrant,2,4,6,1,4,8.761609907120743,1
 2278,USA,7,7,8,Male,32,Not immigrant,1,6,6,6,2,8.69969040247678,1
@@ -3980,7 +3980,7 @@
 2286,USA,10,7,3,Male,61,Not immigrant,2,7,7,10,1,9.195046439628484,1
 2287,USA,9,8,9,Male,30,Not immigrant,0,7,7,1,4,7.089783281733746,1
 2288,USA,9,7,6,Female,30,Not immigrant,0,6,8,1,4,7.3202614379084965,1
-2289,USA,8,9,6,Male,30,Immigrant,0,6,7,1,4,7.461300309597523,-1
+2289,USA,8,9,6,Male,30,Immigrant,0,6,7,1,4,7.461300309597523,0
 2290,USA,5,3,3,Male,27,Not immigrant,0,6,5,6,2,7.461300309597523,1
 2291,USA,5,10,1,Female,36,Not immigrant,3,7,3,10,1,1.0835913312693497,0
 2292,USA,8,8,7,Female,29,Not immigrant,0,6,6,1,4,8.018575851393189,1
@@ -4007,12 +4007,12 @@
 2313,USA,10,8,8,Male,28,Not immigrant,0,6,6,1,4,7.7708978328173375,1
 2314,USA,10,10,10,Male,72,Not immigrant,2,6,5,10,2,6.656346749226007,1
 2315,USA,8,9,10,Male,66,Not immigrant,2,7,6,8,4,7.523219814241486,1
-2316,USA,8,6,3,Male,64,Immigrant,4,5,5,2,4,7.7708978328173375,-1
+2316,USA,8,6,3,Male,64,Immigrant,4,5,5,2,4,7.7708978328173375,0
 2317,USA,5,6,6,Male,55,Not immigrant,0,6,4,10,1,6.965944272445821,1
 2318,USA,9,9,8,Male,65,Not immigrant,2,8,7,10,3,7.3993808049535605,1
-2319,USA,10,9,9,Female,57,Immigrant,0,7,3,1,4,9.009287925696594,-1
+2319,USA,10,9,9,Female,57,Immigrant,0,7,3,1,4,9.009287925696594,0
 2320,USA,7,7,4,Male,59,Not immigrant,0,8,8,2,4,8.328173374613003,1
-2321,USA,10,9,8,Female,24,Not immigrant,0,5,8,1,4,8.204334365325076,-1
+2321,USA,10,9,8,Female,24,Not immigrant,0,5,8,1,4,8.204334365325076,0
 2322,USA,9,9,9,Male,38,Immigrant,2,9,6,8,4,4.613003095975233,1
 2323,USA,8,7,7,Male,30,Not immigrant,0,5,3,2,4,7.337461300309597,0
 2324,USA,4,7,5,Male,82,Not immigrant,5,1,3,10,1,7.213622291021672,1
@@ -4173,7 +4173,7 @@
 2479,USA,7,8,8,Male,70,Not immigrant,1,6,6,1,4,7.894736842105264,1
 2480,USA,8,8,3,Female,35,Not immigrant,0,1,8,1,4,8.204334365325076,1
 2481,USA,10,9,10,Female,67,Not immigrant,2,5,7,10,2,7.7708978328173375,1
-2482,USA,7,2,1,Female,41,Not immigrant,6,1,4,10,1,7.7708978328173375,-1
+2482,USA,7,2,1,Female,41,Not immigrant,6,1,4,10,1,7.7708978328173375,0
 2483,USA,7,8,7,Male,23,Not immigrant,0,7,6,3,4,8.08049535603715,1
 2484,USA,4,4,2,Male,50,Not immigrant,3,4,6,3,3,6.284829721362229,1
 2485,USA,7,7,6,Male,41,Not immigrant,0,9,8,1,4,9.009287925696594,1
@@ -4197,14 +4197,14 @@
 2503,USA,9,7,6,Male,69,Not immigrant,0,3,4,1,4,8.018575851393189,1
 2504,USA,3,3,1,Male,34,Not immigrant,0,6,6,1,4,7.832817337461299,1
 2505,USA,10,9,3,Female,60,Not immigrant,2,6,3,10,1,7.089783281733746,1
-2506,USA,9,9,9,Female,27,Immigrant,0,5,4,10,1,8.018575851393189,-1
+2506,USA,9,9,9,Female,27,Immigrant,0,5,4,10,1,8.018575851393189,0
 2507,USA,8,7,7,Male,28,Not immigrant,0,4,4,1,4,8.142414860681114,1
 2508,USA,7,6,6,Male,22,Immigrant,0,3,6,6,2,8.51393188854489,1
 2509,USA,5,4,1,Female,47,Not immigrant,0,2,4,10,2,7.151702786377708,1
 2510,USA,7,7,7,Female,67,Not immigrant,1,6,7,10,1,8.08049535603715,1
 2511,USA,7,8,5,Male,41,Not immigrant,4,6,6,5,2,8.390092879256967,1
 2512,USA,7,8,6,Female,50,Not immigrant,1,7,6,10,1,8.142414860681114,1
-2513,USA,7,7,6,Male,42,Immigrant,2,5,4,1,4,8.266253869969042,-1
+2513,USA,7,7,6,Male,42,Immigrant,2,5,4,1,4,8.266253869969042,0
 2514,USA,10,8,8,Female,79,Not immigrant,4,4,6,6,4,7.647058823529412,1
 2515,USA,6,8,4,Female,39,Not immigrant,3,4,4,10,1,7.337461300309597,1
 2516,USA,4,4,2,Male,65,Not immigrant,1,2,6,1,4,7.708978328173375,1
@@ -4213,7 +4213,7 @@
 2519,USA,8,9,9,Male,59,Not immigrant,2,6,3,1,4,7.3993808049535605,1
 2520,USA,9,8,6,Female,53,Not immigrant,2,8,6,10,1,8.204334365325076,1
 2521,USA,8,8,8,Male,73,Not immigrant,1,7,4,10,1,7.708978328173375,1
-2522,USA,8,7,5,Male,40,Immigrant,1,3,8,1,4,7.3993808049535605,-1
+2522,USA,8,7,5,Male,40,Immigrant,1,3,8,1,4,7.3993808049535605,0
 2523,USA,10,7,7,Male,77,Not immigrant,2,6,3,10,3,4.9226006191950455,1
 2524,USA,10,5,6,Female,49,Not immigrant,0,8,7,10,1,7.213622291021672,1
 2525,USA,9,10,6,Female,81,Immigrant,2,6,4,10,1,7.585139318885449,1
@@ -4233,7 +4233,7 @@
 2539,USA,10,10,7,Female,53,Immigrant,2,6,5,6,4,8.328173374613003,1
 2540,USA,10,10,10,Male,27,Not immigrant,0,5,3,1,4,7.213622291021672,0
 2541,USA,10,6,8,Male,65,Not immigrant,0,5,3,10,1,3.594771241830065,1
-2542,USA,5,8,5,Female,68,Immigrant,2,1,2,10,1,7.0588235294117645,-1
+2542,USA,5,8,5,Female,68,Immigrant,2,1,2,10,1,7.0588235294117645,0
 2543,USA,3,3,1,Female,44,Not immigrant,0,3,5,10,1,7.7708978328173375,1
 2544,USA,5,8,5,Male,32,Not immigrant,0,5,5,5,2,5.294117647058823,0
 2545,USA,8,8,10,Female,53,Immigrant,2,8,8,7,3,7.894736842105264,1
@@ -4262,7 +4262,7 @@
 2568,USA,5,5,4,Female,20,Not immigrant,0,5,5,8,2,8.137254901960784,0
 2569,USA,8,8,6,Male,19,Not immigrant,0,5,5,8,2,7.262737093278913,0
 2570,USA,5,4,5,Female,46,Not immigrant,0,5,3,10,4,8.018575851393189,0
-2571,USA,8,8,6,Female,31,Immigrant,0,5,5,8,4,8.431372549019606,-1
+2571,USA,8,8,6,Female,31,Immigrant,0,5,5,8,4,8.431372549019606,0
 2572,USA,5,3,3,Female,37,Immigrant,3,5,3,10,1,6.470588235294118,0
 2573,USA,10,9,7,Female,40,Not immigrant,0,5,5,10,1,6.816608996539792,0
 2574,USA,5,5,5,Female,20,Not immigrant,0,5,5,5,2,4.984520123839009,0
@@ -4275,13 +4275,13 @@
 2581,USA,7,8,8,Female,55,Not immigrant,2,5,3,2,4,7.7708978328173375,0
 2582,USA,6,7,4,Male,33,Not immigrant,0,5,5,5,1,4.984520123839009,1
 2583,USA,10,10,9,Female,45,Not immigrant,0,5,3,7,2,7.973856209150328,1
-2584,USA,10,8,9,Male,35,Immigrant,0,5,6,8,4,5.882352941176471,-1
+2584,USA,10,8,9,Male,35,Immigrant,0,5,6,8,4,5.882352941176471,0
 2585,USA,10,6,3,Female,33,Not immigrant,2,5,5,5,3,7.098039215686274,1
 2586,USA,8,8,5,Female,23,Not immigrant,0,5,5,10,1,6.7182662538699685,1
 2587,USA,10,10,9,Female,66,Not immigrant,2,6,4,6,2,6.965944272445821,1
 2588,USA,10,10,9,Female,66,Not immigrant,3,5,3,10,1,7.124183006535948,0
 2589,USA,5,6,4,Female,28,Not immigrant,3,3,6,10,1,7.708978328173375,1
-2590,USA,10,10,8,Female,25,Immigrant,3,9,4,8,3,4.489164086687307,-1
+2590,USA,10,10,8,Female,25,Immigrant,3,9,4,8,3,4.489164086687307,0
 2591,USA,3,5,4,Female,42,Not immigrant,1,4,4,10,1,8.062283737024222,0
 2592,USA,7,7,6,Male,42,Not immigrant,1,4,3,5,4,8.575851393188854,0
 2593,USA,9,8,6,Female,27,Not immigrant,0,5,4,1,4,8.69281045751634,1
