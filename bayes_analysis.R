@@ -1,42 +1,64 @@
-library(brms)
-library(rstan)
-library(bayesplot)
-library(dplyr)
+library(brms) # for the analysis
+library(tidyverse) # needed for data manipulation.
+library(RColorBrewer) # needed for some extra colours in one of the graphs
+library(ggmcmc)
+library(ggthemes)
+library(ggridges)
 
 data <- read.csv("/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/cleaned_dataset.csv", header=TRUE, sep = ",")
 
-data <- filter(data, voter >= 0)
+head(data, n=3)
 
-# data$income_level <- factor(data$income_level, ordered = TRUE)  # Ordinal categorical
-# data$education <- factor(data$education, ordered = TRUE)  # Ordinal categorical
-# data$freedom <- factor(data$freedom, ordered = TRUE)  # Ordinal categorical
-# data$satisfaction <- factor(data$satisfaction, ordered = TRUE)  # Ordinal categorical
-# data$financial_wellbeing <- factor(data$financial_wellbeing, ordered = TRUE)  # Ordinal categorical
+data$sex <- factor(data$sex)
+data$immigrant <- factor(data$immigrant)
+# data$voter <- factor(data$voter)
+data$country <- factor(data$country)
 
-data$sex <- factor(data$sex)  # Categorical
-data$immigrant <- factor(data$immigrant)  # Categorical
-data$praying_frequency <- factor(data$praying_frequency)  # Categorical
-# data$god_importance <- factor(data$god_importance)  # Categorical 
+ggplot(data  = data,
+       aes(x = education,
+           y = voter))+
+  geom_point(size = 1.2,
+             alpha = .8,
+             position = "jitter")+# to add some random noise for plotting purposes
+  theme_minimal()+
+  labs(title = "Education vs Voting Pattern")
 
-head(data)
+InterceptOnlyModel <- voter ~ 1 + (1 | country)
 
-test <- voter ~ freedom + satisfaction + financial_wellbeing + sex + age + immigrant + children + income_level + education + god_importance + praying_frequency + ethics_score
+interceptonlymodeltest <- brm(InterceptOnlyModel, 
+    data   = data, 
+    warmup = 3000, 
+    iter   = 8000, 
+    chains = 5, 
+    cores  = 2,
+    seed   = 42)
 
-fit <- brm(
-  formula = test,
-  data = data,
-  family = bernoulli(),
-  prior = c(
-    set_prior("normal(0, 5)", class = "b"),
-    set_prior("normal(0, 10)", class = "Intercept")
-  ),
-  chains = 4,
-  iter = 2000,
-  warmup = 1000,
-  cores = 4,
-  seed = 42
-)
+summary(interceptonlymodeltest)
 
-summary(fit)
+model1 <- voter ~ 1 + age + sex + income_level + education + god_importance + (1 | country)
+
+model1test <- brm(model1,
+                  family = bernoulli(),
+                  data = data,
+                  #warmup = 2000,
+                  iter = 5000,
+                  chains = 4,
+                  control = list(max_treedepth = 15, adapt_delta = 0.99),
+                  cores = 10,
+                  seed = 42)
+
+summary(model1test)
+
+model1test2 <- brm(model1,
+                  family = bernoulli(),
+                  data = data,
+                  iter = 2000,
+                  chains = 2,
+                  control = list(max_treedepth = 15, adapt_delta = 0.99),
+                  cores = 2,
+                  seed = 42)
+
+summary(model1test2)
+
 plot(fit)
 pp_check(fit, ndraws = 100, type = 'ecdf_overlay')
