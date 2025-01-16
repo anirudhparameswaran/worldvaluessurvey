@@ -11,7 +11,7 @@ head(data, n=3)
 
 data$sex <- factor(data$sex)
 data$immigrant <- factor(data$immigrant)
-# data$voter <- factor(data$voter)
+data$voter <- factor(data$voter, ordered = TRUE)
 data$country <- factor(data$country)
 
 ggplot(data  = data,
@@ -25,12 +25,13 @@ ggplot(data  = data,
 
 InterceptOnlyModel <- voter ~ 1 + (1 | country)
 
-interceptonlymodeltest <- brm(InterceptOnlyModel, 
+interceptonlymodeltest <- brm(InterceptOnlyModel,
+    family = cumulative(),
     data   = data, 
-    warmup = 3000, 
-    iter   = 8000, 
-    chains = 5, 
-    cores  = 2,
+    iter   = 500, 
+    chains = 2, 
+    control = list(max_treedepth = 15, adapt_delta = 0.99),
+    cores  = 4,
     seed   = 42)
 
 summary(interceptonlymodeltest)
@@ -38,27 +39,40 @@ summary(interceptonlymodeltest)
 model1 <- voter ~ 1 + age + sex + income_level + education + god_importance + (1 | country)
 
 model1test <- brm(model1,
-                  family = bernoulli(),
+                  family = cumulative(),
                   data = data,
-                  #warmup = 2000,
-                  iter = 5000,
-                  chains = 4,
-                  control = list(max_treedepth = 15, adapt_delta = 0.99),
-                  cores = 10,
-                  seed = 42)
-
-summary(model1test)
-
-model1test2 <- brm(model1,
-                  family = bernoulli(),
-                  data = data,
-                  iter = 2000,
+                  iter = 1000,
                   chains = 2,
                   control = list(max_treedepth = 15, adapt_delta = 0.99),
                   cores = 2,
                   seed = 42)
 
-summary(model1test2)
+summary(model1test)
 
-plot(fit)
-pp_check(fit, ndraws = 100, type = 'ecdf_overlay')
+model1transformed <- ggs(model1test)
+ggplot(filter(model1transformed, Parameter %in% colnames(as_draws_df(model1test))),
+       aes(x   = Iteration,
+           y   = value, 
+           col = as.factor(Chain)))+
+  geom_line() +
+  geom_vline(xintercept = 1000)+
+  facet_grid(Parameter ~ . ,
+             scale  = 'free_y',
+             switch = 'y')+
+  labs(title = "Caterpillar Plots", 
+       col   = "Chains")
+
+ggplot(filter(model1transformed,
+              Parameter == "b_education", 
+              Iteration > 999),
+       aes(x = value)) +
+  geom_density(fill = "yellow", alpha = 0.5) +
+  geom_vline(xintercept = 0, col = "red", linewidth = 1) + 
+  scale_x_continuous(name = "Value", limits = c(-1, 3)) +
+  geom_vline(xintercept = summary(model1test)$fixed["education", "l-95% CI"],
+             col = "blue", linetype = 2) +
+  geom_vline(xintercept = summary(model1test)$fixed["education", "u-95% CI"],
+             col = "blue", linetype = 2) +
+  theme_light() +
+  labs(title = "Posterior Density of Education")
+
