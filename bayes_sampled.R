@@ -1,6 +1,6 @@
 library(brms) # for the analysis
 library(tidyverse) # needed for data manipulation.
-library(RColorBrewer) # needed for some extra colours in one of the graphs
+library(RColorBrewer)
 library(ggmcmc)
 library(ggthemes)
 library(ggridges)
@@ -15,32 +15,55 @@ sampled_data$voter_2 <- factor(sampled_data$voter_2)
 sampled_data$voter_4 <- factor(sampled_data$voter_4, ordered = TRUE)
 sampled_data$country <- factor(sampled_data$country)
 
-model1 <- voter_2 ~ 1 + age + sex + income_level + education + god_importance + satisfaction + immigrant + children + ethics_score + praying_frequency + (1 | country)
+formula1 <- voter_2 ~ age + sex + (1 | country)
 
-model1test <- brm(model1,
-                  family = bernoulli(link = "logit"),
-                  data = sampled_data,
-                  iter = 1500,
-                  chains = 2,
-                  control = list(max_treedepth = 15, adapt_delta = 0.999),
-                  cores = 4,
-                  seed = 42)
+prior1 <- c(
+  # 1% higher chance of voting per year of age
+  prior(normal(0.04, 0.01), class = "b", coef = "age"),
+  
+  # more than 1% chance of voting if respondent is male
+  prior(normal(0.05, 0.1), class = "b", coef = "sexMale"),
+  
+  # Variability in effects across countries (USA vs. India)
+  prior(normal(0.15, 0.05), class = "sd", coef = "Intercept", group = "country")
+)
 
-summary(model1test)
+model1 <- brm(formula1,
+              family = bernoulli(link = "logit"),
+              data = sampled_data,
+              iter = 1500,
+              chains = 2,
+              prior = prior1,
+              control = list(max_treedepth = 15, adapt_delta = 0.999),
+              cores = 4,
+              seed = 42)
 
-get_prior(model1, data = sampled_data)
+summary(model1)
 
-priors <- c(prior(normal(0, 1), class = Intercept),
-            prior(normal(0.1, 0.1), class = b, coef = "age"))
+formula2 <- voter_2 ~ age + sex + education + income_level + (1 | country)
 
-model1test <- brm(model1,
-                  family = bernoulli(link = "logit"),
-                  data = sampled_data,
-                  iter = 1500,
-                  chains = 2,
-                  prior = priors,
-                  control = list(max_treedepth = 15, adapt_delta = 0.999),
-                  cores = 4,
-                  seed = 42)
+prior2 <- c(
+  # educated people have a higher chance of voting based on this https://pmc.ncbi.nlm.nih.gov/articles/PMC10225039/
+  prior(normal(0.2, 0.1), class = "b", coef = "education"),
+  # people with higher income are more likely to vote based on this https://econofact.org/voting-and-income
+  prior(normal(0.1, 0.1), class = "b", coef = "income_level"),
+  # 1% higher chance of voting per year of age
+  prior(normal(0.04, 0.01), class = "b", coef = "age"),
+  # more than 1% chance of voting if respondent is male
+  prior(normal(0.05, 0.1), class = "b", coef = "sexMale"),
+  # Variability in effects across countries (USA vs. India)
+  prior(normal(0.15, 0.05), class = "sd", coef = "Intercept", group = "country")
+)
 
-summary(model1test)
+model2 <- brm(formula2,
+              family = bernoulli(link = "logit"),
+              data = sampled_data,
+              iter = 1500,
+              chains = 2,
+              prior = prior2,
+              control = list(max_treedepth = 15, adapt_delta = 0.999),
+              cores = 4,
+              seed = 42)
+summary(model2)
+
+loo(model1, model2)
