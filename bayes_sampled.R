@@ -58,7 +58,7 @@ summary(model2)
 
 conditional_effects(model2)
 
-transformed <- ggs(model1test)
+transformed <- ggs(model2)
 ggplot(filter(transformed, Parameter %in% colnames(as_draws_df(model2))),
        aes(x   = Iteration,
            y   = value, 
@@ -70,6 +70,11 @@ ggplot(filter(transformed, Parameter %in% colnames(as_draws_df(model2))),
              switch = 'y')+
   labs(title = "Caterpillar Plots", 
        col   = "Chains")
+
+library(bayesplot)
+mcmc_trace(model2)
+
+plot(model2)
 
 ggplot(filter(transformed,
               Parameter == "b_education", 
@@ -85,43 +90,35 @@ ggplot(filter(transformed,
   theme_light() +
   labs(title = "Posterior Density of Education")
 
+pp_check(model2, type = 'hist', bins=3, binwidth = 0.5, ndraws = 5) + theme(aspect.ratio = 1)
+pp_check(model2, type = "stat", stat = "mean")
+pp_check(model2, type = "stat", stat = "sd")
+
 saveRDS(model2, file = "/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/model2.rds")
 
 prior2 <- c(
-  # 1% higher chance of voting per year of age
-  prior(normal(0.04, 0.01), class = "b", coef = "age"),
+  prior(normal(0.006, 0.05), class = "b", coef = "age"),
+  prior(normal(-0.088, 0.05), class = "b", coef = "sexMale"),
+  prior(normal(0, 0.5), class = "b", coef = "income_level"),
+  prior(normal(1, 0.5), class = "b", coef = "education"),
+  prior(normal(1, 0.05), class = "b", coef = "immigrantNotimmigrant"),
   
-  # more than 1% chance of voting if respondent is male
-  prior(normal(0.05, 0.1), class = "b", coef = "sexMale"),
-  
-  # Variability in effects across countries (USA vs. India)
-  prior(normal(0.15, 0.05), class = "sd", coef = "Intercept", group = "country")
+  prior(student_t(3, 0.05, 3), class = "sd", group = "country", coef = "sexMale"),
+  prior(student_t(3, 0.05, 3), class = "sd", group = "country", coef = "education"),
+  prior(student_t(3, 0.05, 3), class = "sd", group = "country", coef = "income_level")
 )
 
-formula2 <- voter_2 ~ age + sex + education + income_level + (1 | country)
+formula2 <- voter_2 ~ age + sex + education + income_level + immigrant + praying_frequency + (1 + age + sex + education + income_level | country)
 
-prior2 <- c(
-  # educated people have a higher chance of voting based on this https://pmc.ncbi.nlm.nih.gov/articles/PMC10225039/
-  prior(normal(0.2, 0.1), class = "b", coef = "education"),
-  # people with higher income are more likely to vote based on this https://econofact.org/voting-and-income
-  prior(normal(0.1, 0.1), class = "b", coef = "income_level"),
-  # 1% higher chance of voting per year of age
-  prior(normal(0.04, 0.01), class = "b", coef = "age"),
-  # more than 1% chance of voting if respondent is male
-  prior(normal(0.05, 0.1), class = "b", coef = "sexMale"),
-  # Variability in effects across countries (USA vs. India)
-  prior(normal(0.15, 0.05), class = "sd", coef = "Intercept", group = "country")
-)
-
-model2 <- brm(formula2,
+model3 <- brm(formula2,
               family = bernoulli(link = "logit"),
               data = sampled_data,
-              iter = 1500,
-              chains = 2,
-              prior = prior2,
+              iter = 2000,
+              chains = 4,
+              prior = prior1,
               control = list(max_treedepth = 15, adapt_delta = 0.999),
-              cores = 4,
+              cores = 26,
               seed = 42)
-summary(model2)
+summary(model3)
 
-loo(model1, model2)
+loo(model1, model2, model3)
