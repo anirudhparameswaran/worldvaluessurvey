@@ -122,3 +122,5 @@ model3 <- brm(formula2,
 summary(model3)
 
 loo(model1, model2, model3)
+
+saveRDS(model3, file = "/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/model3.rds")
