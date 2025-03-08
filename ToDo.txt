@@ -1,0 +1,16 @@
+Overall idea:
+1. We need to consider full dataset - so simply need to skip the sampling sets
+2. We were recommended to not use multi-level models for only 2 groups and use interaction models. Read more: https://statisticsbyjim.com/regression/interaction-effects/
+
+For point number 1:
+In the analysis_resample.ipynb, the filtered_dataset variable has the complete dataset. Just check if each variable is encoded correctly and overall data sanity and simply use in the t code
+
+For point number 2:
+Use bayes_sampled.R file
+Make an interaction model with some or all the variables.
+Here, you have to ideally run the same models once for India and once for USA because it would be wrong to assume they have the same distributions  
+Take the following steps:
+- formula definition
+- check summary or other stats (look at other functions used in the code)
+- plot whatever necessary (we can plot it again once the model is saved)
+- save model using saveRDS() function
