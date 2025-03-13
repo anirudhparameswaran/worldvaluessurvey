@@ -14,3 +14,9 @@ Take the following steps:
 - check summary or other stats (look at other functions used in the code)
 - plot whatever necessary (we can plot it again once the model is saved)
 - save model using saveRDS() function
+
+
+
+
+- Why did we select these fields?
+- Why did we reduce the number of features?

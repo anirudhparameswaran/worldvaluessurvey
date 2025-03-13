@@ -5,7 +5,7 @@ library(ggmcmc)
 library(ggthemes)
 library(ggridges)
 
-sampled_data <- read.csv("/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/resample_data.csv", header=TRUE, sep = ",")
+sampled_data <- read.csv("full_dataset.csv", header=TRUE, sep = ",")
 
 head(sampled_data, n=3)
 
@@ -29,7 +29,7 @@ model1 <- brm(formula1,
 
 summary(model1)
 
-saveRDS(model1, file = "/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/model1.rds")
+saveRDS(model1, file = "model1.rds")
 
 formula2 <- voter_2 ~ age + sex + immigrant + income_level + education + god_importance + praying_frequency + ethics_score + satisfaction + (1 + sex + age + education + income_level | country)
 
@@ -94,7 +94,7 @@ pp_check(model2, type = 'hist', bins=3, binwidth = 0.5, ndraws = 5) + theme(aspe
 pp_check(model2, type = "stat", stat = "mean")
 pp_check(model2, type = "stat", stat = "sd")
 
-saveRDS(model2, file = "/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/model2.rds")
+saveRDS(model2, file = "model2.rds")
 
 prior2 <- c(
   prior(normal(0.006, 0.05), class = "b", coef = "age"),
@@ -123,4 +123,21 @@ summary(model3)
 
 loo(model1, model2, model3)
 
-saveRDS(model3, file = "/Users/anirudhparameswaran/Desktop/worldvaluessurvey-main/model3.rds")
+saveRDS(model3, file = "model3.rds")
+
+filtered_data <- top_n(sampled_data, 100)
+head(filtered_data, n=100)
+
+formula4 <- voter_2 ~ age * sex + education
+formula5 <- voter_2 ~ age:sex + education
+
+model4 <- brm(formula4,
+              family = bernoulli(link = "logit"),
+              data = filtered_data,
+              iter = 1000,
+              chains = 2,
+              control = list(max_treedepth = 15, adapt_delta = 0.99),
+              cores = 26,
+              seed = 42,
+              options(brms.backend = "cmdstanr"))
+summary(model4)
