@@ -200,3 +200,37 @@ model6 <- brm(formula7,
               cores = 8,
               prior = prior6)
 summary(model6)
+
+saveRDS(model6, file = "model6.rds")
+
+loo(model2, model3, model6)
+
+formula8 <- voter_2 ~ age + sex + education + country:(education + age) + (age + sex + education | country)
+
+get_prior(formula8, sampled_data)
+
+prior7 <- c(
+  prior(normal(1, 3), class = "b", coef = "age"),
+  prior(normal(1, 3), class = "b", coef = "sexMale"),
+  prior(normal(1, 3), class = "b", coef = "education"),
+  prior(normal(1, 3), class = "b", coef = "age:countryUSA"),
+  prior(normal(1, 3), class = "b", coef = "education:countryUSA")
+)
+
+model7 <- brm(formula8,
+              family = bernoulli(link = "logit"),
+              data = sampled_data,
+              iter = 1000,
+              chains = 2,
+              control = list(max_treedepth = 17),
+              seed = 42,
+              cores = 8,
+              prior = prior7)
+
+summary(model7)
+saveRDS(model7, file = "model7.rds")
+
+loo(model2, model3, model6, model7)
+
+mcmc_trace(model7)
+plot(model7)

@@ -14,3 +14,12 @@ Take the following steps:
 - check summary or other stats (look at other functions used in the code)
 - plot whatever necessary (we can plot it again once the model is saved)
 - save model using saveRDS() function
+
+
+- eda
+- model comparison
+- prior sensitivity check
+- posterior diagnostics
+
+- why bernoulli over binomial? add formula for both and compare
+- write about hierarchical and interaction models
